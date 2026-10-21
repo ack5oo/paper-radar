@@ -1,0 +1,17 @@
+{
+ "reactions": {
+  "AOR": ["ammonia oxidation", "ammonia electro-?oxidation", "\\bAOR\\b", "ammonia electrolysis", "ammonia splitting"],
+  "MOR": ["methanol oxidation", "methanol electro-?oxidation", "\\bMOR\\b", "direct methanol"],
+  "HER/HOR": ["hydrogen evolution", "hydrogen oxidation", "\\bHER\\b", "\\bHOR\\b", "water splitting", "water electrolysis"],
+  "ORR/OER": ["oxygen reduction", "oxygen evolution", "\\bORR\\b", "\\bOER\\b", "fuel cell", "zinc-air", "zn-air"],
+  "NO3RR/NO2RR/NRR": ["nitrate", "nitrite", "\\bNO3RR\\b", "\\bNO2RR\\b", "\\bNRR\\b", "nitrogen reduction", "nitrogen electroreduction", "ammonia (electro)?synthesis"],
+  "Urea/C-N": ["urea", "C[–-]N coupling", "C[–-]N bond"]
+ },
+ "materials": {
+  "single-atom": ["single[- ]atom", "single[- ]site", "\\bSACs?\\b", "atomically dispersed", "isolated atom", "M[–-]N[–-]C", "Fe[–-]N[–-]C"],
+  "dual-atom": ["dual[- ]atom", "diatomic", "dual[- ]site", "\\bDACs?\\b", "atom pairs?", "binuclear", "geminal atom"],
+  "intermetallic": ["intermetallic", "ordered alloy", "atomically ordered", "L1[_ ]?0", "structurally ordered"],
+  "high-entropy": ["high[- ]entropy", "\\bHEAs?\\b", "multi-?principal", "medium[- ]entropy"]
+ },
+ "starred": ["nitrate", "nitrite", "ammonia oxidation", "\\bAOR\\b", "\\bPt[A-Z][a-z]?.{0,30}intermetallic", "intermetallic.{0,40}\\bPt"]
+}
