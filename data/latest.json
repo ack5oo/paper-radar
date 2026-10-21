@@ -1,200 +1,24 @@
 {
  "run_date_kst": "2026-10-21",
- "count": 12,
+ "since": "2026-10-18",
+ "count": 1,
  "papers": [
   {
-   "journal": "Advanced Functional Materials",
-   "title": "Phase Diagram and Theoretical Calculation Guided Rational Design of Cu 6.26 Sn 5 /Sn Heterostructured Aerogel for Hydroxylamine Electrosynthesis",
-   "link": "https://doi.org/10.1002/adfm.79123",
-   "doi": "10.1002/adfm.79123",
-   "date": "2026-10-19T11:17:51Z",
+   "journal": "Nature Communications",
+   "title": "Thermal sculpting of nanoconfined single-atom cavities enables urea electrosynthesis with near-unity selectivity",
+   "link": "https://doi.org/10.1038/s41467-026-79024-4",
+   "doi": "10.1038/s41467-026-79024-4",
+   "date": "2026-10-21T00:00:00+00:00",
+   "abstract": "Nature Communications, Published online: 21 October 2026; doi:10.1038/s41467-026-79024-4 Selective C–N coupling remains a critical bottleneck for sustainable urea electrosynthesis. Here, the authors report a thermal sculpting strategy to construct size-matched nanoconfined Cu–N4 cavities, achieving a competitive urea yield and Faradaic efficiency.",
+   "source": "rss",
    "reactions": [
-    "HER/HOR",
-    "NO3RR/NO2RR/NRR"
-   ],
-   "materials": [
-    "intermetallic"
-   ],
-   "starred": true,
-   "abstract": "ABSTRACT Electrosynthesizing hydroxylamine (NH 2 OH) from nitrite (NO 2 − ) promises a green alternative to the hazardous Raschig process, yet catalyst development is trapped in a persistent selectivity–activity dilemma. Excessively strong adsorption of intermediates on the catalyst drives the over‑reduction of * NH 2 OH to ammonia, whereas overly weak adsorption depletes the interfacial reactant supply and yields to the competing hydrogen evolution reaction. Herein, guided by binary phase diagrams and density functional theory calculations, we report a one‐step co‐reduction strategy for the general synthesis of 3D intermetallic/metal heterostructured aerogels with freely tunable components—bypassing the sacrificial templates required by conventional methods. The resultant aerogel comprises a porous Sn scaffold decorated with Cu 6.26 Sn 5 intermetallic nanoparticles that form stable heterointerfaces. With cyclohexanone trapping in 0.5 m Na 2 SO 4 , the Cu 10 Sn 90 heterostructured aerogel achieves a remarkable Faradaic efficiency of 79.7% and yield rate of 0.731 mmol h −1 cm −2 toward cyclohexanone oxime. Molecular dynamics simulations reveal that the Cu 6.26 Sn 5 phase accelerates interfacial NO 2 − accumulation and mass transport, whereas the Sn scaffold serves as the dominant active center to undergo the reduction of NO 2 − and boost * NH 2 OH desorption. This study delivers a novel material design strategy for heterostructured aerogels toward highly selective electroreduc",
-   "source": "crossref"
-  },
-  {
-   "journal": "Applied Catalysis B: Environ. Energy",
-   "title": "Ultrafast synthesis of two-dimensional rare-earth oxychlorides enables dual-site synergy for efficient nitrate to ammonia electrosynthesis",
-   "link": "https://www.sciencedirect.com/science/article/pii/S0926337326011859?dgcid=rss_sd_all",
-   "doi": "",
-   "date": "",
-   "reactions": [
-    "NO3RR/NO2RR/NRR"
-   ],
-   "materials": [
-    "dual-atom"
-   ],
-   "starred": true,
-   "abstract": "Publication date: April 2027 Source: Applied Catalysis B: Environment and Energy, Volume 403 Author(s): Yuyu Liu, Tingting Liu, Chengtao Ruan, Ruting Lin, Hongzhen Li, Qinzheng Wu, Xingye Zheng, Qiujin Wu, Qiufeng Huang, Yongpeng Xia, Shengyun Huang, Qingjun Chen, Shichun Mu, Ibrahim Saana Amiinu, Zonghua Pu",
-   "source": "rss"
-  },
-  {
-   "journal": "Applied Catalysis B: Environ. Energy",
-   "title": "Regulating proton-coupled electron transfer via synergistic Cu single-atom/cluster sites for efficient nitrate reduction",
-   "link": "https://www.sciencedirect.com/science/article/pii/S0926337326011860?dgcid=rss_sd_all",
-   "doi": "",
-   "date": "",
-   "reactions": [
-    "NO3RR/NO2RR/NRR"
-   ],
-   "materials": [
-    "single-atom"
-   ],
-   "starred": true,
-   "abstract": "Publication date: April 2027 Source: Applied Catalysis B: Environment and Energy, Volume 403 Author(s): Dongqi Zhao, Hanxue Wang, Qing Nie, Yan Jia, Yang Liu, Wei-xian Zhang, Jianwei Fan",
-   "source": "rss"
-  },
-  {
-   "journal": "Advanced Materials",
-   "title": "Heterojunction‐Guided Reconstruction Toward Ru‐Co Bridged Dual Sites for Efficient Oxide‐Path Water Electrolysis",
-   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74676?af=R",
-   "doi": "10.1002/adma.74676",
-   "date": "Fri, 16 Oct 2026 08:27:14 -0700",
-   "reactions": [
-    "HER/HOR"
-   ],
-   "materials": [
-    "dual-atom"
-   ],
-   "starred": false,
-   "abstract": "Advanced Materials, Volume 38, Issue 58, 16 October 2026.",
-   "source": "rss"
-  },
-  {
-   "journal": "Advanced Materials",
-   "title": "Interfacial Structure Modulation Triggering Dual Sites Synergy for Industrial‐Grade Water Electrolysis",
-   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74763?af=R",
-   "doi": "10.1002/adma.74763",
-   "date": "Fri, 16 Oct 2026 08:27:14 -0700",
-   "reactions": [
-    "HER/HOR"
-   ],
-   "materials": [
-    "dual-atom"
-   ],
-   "starred": false,
-   "abstract": "Advanced Materials, Volume 38, Issue 58, 16 October 2026.",
-   "source": "rss"
-  },
-  {
-   "journal": "Applied Catalysis B: Environ. Energy",
-   "title": "Descriptor-based plasma-regulated ultrafine high-entropy alloy supported on vertically aligned carbon nanotubes with enhanced bifunctional catalytic performance for excellent direct methanol fuel cell",
-   "link": "https://www.sciencedirect.com/science/article/pii/S0926337326012518?dgcid=rss_sd_all",
-   "doi": "",
-   "date": "",
-   "reactions": [
-    "MOR",
-    "ORR/OER"
-   ],
-   "materials": [
-    "high-entropy"
-   ],
-   "starred": false,
-   "abstract": "Publication date: April 2027 Source: Applied Catalysis B: Environment and Energy, Volume 403 Author(s): Xiaorui Ren, Wenqi Liu, Minyuan Zhang, Zhongqing Jiang, Zhong-Jie Jiang",
-   "source": "rss"
-  },
-  {
-   "journal": "Applied Catalysis B: Environ. Energy",
-   "title": "Amino-vacancy dual-site engineering in Ru-incorporated nickel hydroxide for ampere-level alkaline hydrogen evolution",
-   "link": "https://www.sciencedirect.com/science/article/pii/S0926337326012051?dgcid=rss_sd_all",
-   "doi": "",
-   "date": "",
-   "reactions": [
-    "HER/HOR"
-   ],
-   "materials": [
-    "dual-atom"
-   ],
-   "starred": false,
-   "abstract": "Publication date: April 2027 Source: Applied Catalysis B: Environment and Energy, Volume 403 Author(s): Haiming Li, Yufan Wang, Linglong Yao, Huatong Li, Zhaoshuo Yuan, Haixiao Sun, Zhenhai Zhi, Jixuan Li, Yifan Jia, Jingru Jiang, Yi Tan, Qingyue Ge, Xuefeng Hu, Longfei Li, Yulu Zhang, Kaihang Zhang, Xin Zhang, Xiangping Zhang, Chunming Xu",
-   "source": "rss"
-  },
-  {
-   "journal": "Applied Catalysis B: Environ. Energy",
-   "title": "Engineering high coordination shell of single-atom Fe-N-C to enhance electronic push-pull and oxygen reduction performance",
-   "link": "https://www.sciencedirect.com/science/article/pii/S0926337326012282?dgcid=rss_sd_all",
-   "doi": "",
-   "date": "",
-   "reactions": [
-    "ORR/OER"
+    "Urea/C-N"
    ],
    "materials": [
     "single-atom"
    ],
    "starred": false,
-   "abstract": "Publication date: April 2027 Source: Applied Catalysis B: Environment and Energy, Volume 403 Author(s): Xinran Dong, Yingjian Luo, Ruilin Wang, Gang Wang, Jinwei Chen, Shuhui Tao, Jie Zhang",
-   "source": "rss"
-  },
-  {
-   "journal": "Chem",
-   "title": "Screening, designing, and elucidating anti-dissolving dual atomic sites for highly durable proton exchange membrane fuel cells",
-   "link": "https://www.sciencedirect.com/science/article/pii/S2451929426000732?dgcid=rss_sd_all",
-   "doi": "",
-   "date": "",
-   "reactions": [
-    "ORR/OER"
-   ],
-   "materials": [
-    "dual-atom"
-   ],
-   "starred": false,
-   "abstract": "Publication date: 8 October 2026 Source: Chem, Volume 12, Issue 10 Author(s): Jingwen Wang, Hongye Wang, Linjie Zhao, Yongming Xia, Xian Liang, Lipeng Zhang, Baoguang Mao, Lin Yang, Dong Liu, Yuqin Jiang, Zhengyu Bai, Zhongwei Chen, Chuangang Hu",
-   "source": "rss"
-  },
-  {
-   "journal": "Chem. Commun.",
-   "title": "Highly accessible geometrically curved Fe-N4 sites on hillock-like nanocarbon via sub-atmospheric pressure Joule heating for boosting electrochemical oxygen reduction",
-   "link": "https://doi.org/10.1039/d6cc06204k",
-   "doi": "10.1039/d6cc06204k",
-   "date": "2026-10-20T00:03:17Z",
-   "reactions": [
-    "ORR/OER"
-   ],
-   "materials": [
-    "single-atom"
-   ],
-   "starred": false,
-   "abstract": "Herein, we firstly report a sub-atmospheric pressure Joule heating strategy for the synthesis of geometrically curved Fe-N4 single-atom catalyst with hillock-like nanocarbon (Cur-Fe SAC). The Cur-Fe SAC delivers an exceptional oxygen...",
-   "source": "crossref"
-  },
-  {
-   "journal": "Nano Letters",
-   "title": "Engineering High-Entropy Tetrahedrite Cu–Zn–Sb–Ag–Bi–S Nanocrystals via Sequential Cation Exchange as Efficient Catalysts for Hydrogen Evolution Reactions",
-   "link": "https://doi.org/10.1021/acs.nanolett.6c03077",
-   "doi": "10.1021/acs.nanolett.6c03077",
-   "date": "2026-10-19T16:02:21Z",
-   "reactions": [
-    "HER/HOR"
-   ],
-   "materials": [
-    "high-entropy"
-   ],
-   "starred": false,
-   "abstract": "Abstract High-entropy chalcogenides represent an emerging class of functional materials with immense potential in broad applications. To date, colloidal high-entropy nanocrystals (NCs) have predominantly been accessed via co-nucleation of precursors or simultaneous incorporation of multiple cations. While effective, these approaches lack a mechanistic understanding of NC synthesis. Here, we report the colloidal synthesis of high-entropy Cu–Zn–Sb–Ag–Bi–S NCs in the tetrahedrite phase, employing a sequential, low-temperature cation-exchange strategy, starting from a Cu–Zn–Sb–S tetrahedrite template. Subsequent sequential cation exchanges preserve the crystal phase while enabling precise control over morphology. This bottom-up approach circumvents the need for high-temperature synthesis, while allowing isolation and characterization of intermediate states, providing important mechanistic insight into the evolution of high-entropy NCs. The nanocrystals served as hydrogen evolution reaction electrocatalysts with less negative cathodic potentials. This work introduces the high-entropy tetrahedrite phase, paving the way for entropy-stabilized chalcogenides for energy conversion applications.",
-   "source": "crossref"
-  },
-  {
-   "journal": "Small",
-   "title": "Ultralow‐Loading Ir Single Atoms Ligated by Multiple Bimetal Selenides in Spindle Heterostructures Derived From Porous Ni─Fe Metal‐Organic Frameworks for Efficient and Durable H2 Production via Water Splitting",
-   "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76278?af=R",
-   "doi": "10.1002/smll.76278",
-   "date": "Thu, 15 Oct 2026 11:21:39 -0700",
-   "reactions": [
-    "HER/HOR"
-   ],
-   "materials": [
-    "single-atom"
-   ],
-   "starred": false,
-   "abstract": "Small, EarlyView.",
-   "source": "rss"
+   "date_unknown": false
   }
  ],
  "feed_status": [
@@ -204,11 +28,11 @@
   "Advanced Materials: RSS 200, 402건",
   "Advanced Functional Materials: RSS 200, 354건",
   "Advanced Science: RSS 200, 390건",
-  "Chemical Science: RSS 실패 (SSLError)",
-  "Chem. Soc. Rev.: RSS 실패 (SSLError)",
-  "Energy Environ. Sci.: RSS 실패 (SSLError)",
-  "Chem. Commun.: RSS 실패 (SSLError)",
-  "EES Catalysis: RSS 실패 (SSLError)",
+  "Chemical Science: RSS 실패",
+  "Chem. Soc. Rev.: RSS 실패",
+  "Energy Environ. Sci.: RSS 실패",
+  "Chem. Commun.: RSS 실패",
+  "EES Catalysis: RSS 실패",
   "Science: RSS 200, 39건",
   "Science Advances: RSS 200, 89건",
   "Nature: RSS 200, 75건",
@@ -229,12 +53,12 @@
   "Chem: RSS 200, 75건",
   "Chem Catalysis: RSS 200, 15건",
   "Applied Catalysis B: Environ. Energy: RSS 200, 100건",
-  "Advanced Energy Materials: Crossref 200, 7건",
-  "Small: Crossref 200, 42건",
+  "Advanced Energy Materials: Crossref 200, 11건",
+  "Small: Crossref 200, 43건",
   "Angewandte Chemie Int. Ed.: Crossref 200, 22건",
   "Advanced Materials: Crossref 200, 18건",
-  "Advanced Functional Materials: Crossref 200, 25건",
-  "Advanced Science: Crossref 200, 46건",
+  "Advanced Functional Materials: Crossref 200, 28건",
+  "Advanced Science: Crossref 200, 58건",
   "Chemical Science: Crossref 200, 12건",
   "Chem. Soc. Rev.: Crossref 200, 7건",
   "Energy Environ. Sci.: Crossref 200, 9건",
@@ -243,7 +67,7 @@
   "Science: Crossref 200, 0건",
   "Science Advances: Crossref 200, 0건",
   "Nature: Crossref 200, 31건",
-  "Nature Communications: Crossref 200, 68건",
+  "Nature Communications: Crossref 200, 69건",
   "Nature Materials: Crossref 200, 3건",
   "Nature Nanotechnology: Crossref 200, 2건",
   "Nature Catalysis: Crossref 200, 0건",
