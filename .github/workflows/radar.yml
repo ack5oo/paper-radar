@@ -1,0 +1,22 @@
+   name: paper-radar
+   on:
+     schedule:
+       - cron: "37 21 * * 0-4"   # 매주 월~금 06:37 KST
+     workflow_dispatch: {}
+   permissions:
+     contents: write
+   jobs:
+     run:
+       runs-on: ubuntu-latest
+       steps:
+         - uses: actions/checkout@v4
+         - uses: actions/setup-python@v5
+           with: { python-version: "3.12" }
+         - run: pip install -r requirements.txt
+         - run: python radar.py
+         - run: |
+             git config user.name "paper-radar"
+             git config user.email "actions@github.com"
+             git add data
+             git commit -m "radar $(date -u +%F)" || echo "no changes"
+             git push
