@@ -1,72 +1,22 @@
 {
  "run_date_kst": "2026-10-22",
  "since": "2026-10-19",
- "count": 4,
+ "count": 1,
  "papers": [
   {
-   "journal": "Advanced Energy Materials",
-   "title": "Suppressing Water Electrolysis via Pb Single Atoms in Nitrogen‐Doped Carbon for High‐Energy‐Density Supercapacitors (Adv. Energy Mater. 39/2026)",
-   "link": "https://doi.org/10.1002/aenm.71619",
-   "doi": "10.1002/aenm.71619",
-   "date": "2026-10-21T14:45:59+00:00",
-   "abstract": "Advanced Energy Materials, Volume 16, Issue 39, 21 October 2026.",
+   "journal": "Advanced Science",
+   "title": "Tri‐Functional Electrocatalysis for Zinc–Air Battery Coupled Water Splitting: A Catalyst‐Electrode‐Device‐System Perspective",
+   "link": "https://doi.org/10.1002/advs.77619",
+   "doi": "10.1002/advs.77619",
+   "date": "2026-10-19T13:04:49+00:00",
+   "abstract": "Tri‑functional electrocatalysis is crucial for coupling rechargeable zinc‑air batteries with water splitting (WS), enabling self‑powered hydrogen production and versatile energy conversion. Although numerous catalysts demonstrate excellent half-cell activities toward the hydrogen evolution reaction, oxygen evolution reaction, and oxygen reduction reaction, their practical application in battery-driven water electrolysis remains challenging. The major bottleneck is multiscale mismatch, which involves conflicting adsorption energetics at atomic sites, unstable gas‑liquid‑solid interfaces at electrodes, device degradation under alternating charge‑discharge and electrolysis modes, and voltage‑power imbalances at the system level. This review goes beyond conventional material summaries by constructing a catalyst-electrode-device-system framework to systematically examine how electronic modulation, defect engineering, heterostructure design, single-atom site tuning, and self-supported electrode construction influence intrinsic activity, mass transport, interfacial durability, and overall cell performance. Importantly, the actual operating point of the coupled system is determined by the intersection of the battery discharge curve and the electrolyzer polarization curve, rather than by isolated half‑cell metrics alone. Finally, we highlight future opportunities including operando characterization techniques, AI‑driven catalyst screening, standardized device evaluation protocols, and system-level co‑design for practical renewable energy devices.",
    "source": "rss",
    "reactions": [
-    "HER/HOR"
-   ],
-   "materials": [
-    "single-atom"
-   ],
-   "starred": false,
-   "date_unknown": false
-  },
-  {
-   "journal": "Advanced Energy Materials",
-   "title": "Suppressing Water Electrolysis via Pb Single Atoms in Nitrogen‐Doped Carbon for High‐Energy‐Density Supercapacitors",
-   "link": "https://doi.org/10.1002/aenm.70900",
-   "doi": "10.1002/aenm.70900",
-   "date": "2026-10-21T14:45:59+00:00",
-   "abstract": "ABSTRACT Aqueous supercapacitors (SCs) are attractive energy storage devices owing to their high power density and operational safety; however, their practical deployment is constrained by the limited operating voltage window imposed by water electrolysis, which restricts the attainable energy density. Herein, we report a lead (Pb) single‐atom anchored on nitrogen‐doped carbon (SA‐Pb/NC), where Pb, as a p‐block metal, modulates the adsorption strength of H * /H 2 O species at Pb‐N 4 sites. Such modulation effectively suppresses water‐electrolysis reactions, thereby expanding the electrochemical operational voltage window and enhancing energy storage performance. SA‐Pb/NC delivers a specific capacitance of 530.07 F g −1 , nearly twice that of bare NC. A symmetric SA‐Pb/NC device further achieves an energy density of 38.67 Wh kg −1 within an ultrawide voltage window of 1.50 V. Remarkably, no detectable H 2 evolution is observed for the SA‐Pb/NC device even after 48 h of continuous operation, whereas the NC‐based device generates 0.09 µmol of H 2 within only 12 h. Theoretical calculations further reveal that SA‐Pb sites optimize K + adsorption–desorption kinetics while weakening the affinity for H 2 O‐derived intermediates, thereby enabling efficient charge storage and effective suppression of water electrolysis. This work provides a general strategy for designing high‐energy‐density aqueous supercapacitors through voltage‐window expansion enabled by lead single‐atom sites.",
-   "source": "rss",
-   "reactions": [
-    "HER/HOR"
-   ],
-   "materials": [
-    "single-atom"
-   ],
-   "starred": false,
-   "date_unknown": false
-  },
-  {
-   "journal": "JACS",
-   "title": "Support Protection Mechanism Enables Efficient and Stable Anion Exchange Membrane Water Electrolyzers",
-   "link": "https://doi.org/10.1021/jacs.6c15614",
-   "doi": "10.1021/jacs.6c15614",
-   "date": "2026-10-21T21:01:39Z",
-   "abstract": "Abstract Designing oxygen evolution reaction (OER) catalysts that simultaneously achieve high activity and long-term stability remains a critical challenge for the development of alkaline anion exchange membrane water electrolyzers (AEMWEs). Here, we uncover a unique support protection mechanism in which lattice-confined ruthenium (Ru) single atoms offer robust protection for the spinel Co3O4 support, realizing outstanding stability in AEMWEs. Theoretical calculations and structural characterizations reveal that lattice confinement promotes the formation of robust Ru–O–Co bridges by simultaneously shortening the Co–O and Ru–O bond lengths, thereby suppressing Co dissolution and optimizing the electronic structure for efficient catalysis. Furthermore, in situ electrochemical analysis demonstrates that the lattice confinement of Ru atoms accelerates OER kinetics through facilitated proton-coupled electron transfer (PCET) steps and partially activated lattice oxygen. As a result, the RuLCA-Co3O4 dominated by the adsorbate evolution mechanism (AEM) exhibits a lower overpotential of 260 mV at 10 mA cm–2, which is lower than that of RuSCA-Co3O4 dominated by the lattice oxygen mechanism (LOM) pathway. Meanwhile, the lattice-confined RuLCA-Co3O4 exhibits nearly 9-fold lower Co dissolution compared to surface-coordinated RuSCA-Co3O4 after an accelerated durability test (ADT). Moreover, RuLCA-Co3O4 maintains an outstanding stability for over 1000 h in an AEMWE system with a low degradation rate of 88.1 μV h–1, outperforming RuSCA-Co3O4. This work establishes lattice confinement as an effective strategy to decouple activity-stability trade-offs in alkaline OER and provides a viable design principle for durable AEMWE anodes.",
-   "source": "crossref",
-   "reactions": [
+    "HER/HOR",
     "ORR/OER"
    ],
    "materials": [
     "single-atom"
-   ],
-   "starred": false,
-   "date_unknown": false
-  },
-  {
-   "journal": "JACS",
-   "title": "Decoupling Dissolution from Water Oxidation at Single-Faceted High-Entropy Perovskite Electrodes",
-   "link": "https://doi.org/10.1021/jacs.6c09065",
-   "doi": "10.1021/jacs.6c09065",
-   "date": "2026-10-21T20:01:54Z",
-   "abstract": "Abstract High-entropy oxides (HEOs) are promising anode materials for the oxygen evolution reaction (OER) due to their wide compositional space and electronic flexibility. However, their electrochemical dissolution and OER remain concurrent, preventing decoupled analysis of dissolution kinetics and stability. Here, we present a combined atomic force microscopy (AFM) and scanning electrochemical cell microscopy (SECCM) strategy to decouple lattice dissolution from water oxidation under well-defined reaction conditions. Structurally analogous, atomically flat, single-faceted (001) ABO3 perovskite electrodes, La1–xSrx(Cr0.2Mn0.2Fe0.2Co0.2Ni0.2)O3 with x = 0 and 0.3, serve as model systems to probe dissolution and OER kinetics in acid. Pipet-probed localized cyclic voltammetry and chronoamperometry reveal that the measured current contains contributions from both OER and lattice dissolution, the latter producing nanoscale dissolution pits beneath the SECCM droplet. By correlating pit-growth kinetics with total OER charge as a function of pulse duration (τ), overpotential (η), and pH, we quantitatively separate dissolution from OER. The proportional scaling between dissolution charge and total charge indicates that OER and dissolution proceed within a common kinetic regime, sharing a common intermediate. A rate-law-based analysis yields the standard dissolution rate constant (kd0 cm/s), transfer coefficient (α), and proton reaction order (b) for the dissolution of the 001 facet of both HEO-P. Our results unravel how aliovalent A-site substitution (30% Sr2+) alters dissolution kinetics, charge partitioning between dissolution and OER, and thickness-dependent stability, thereby enabling quantitative disentangling of the intrinsic activity and stability of HEO electrodes.",
-   "source": "crossref",
-   "reactions": [
-    "ORR/OER"
-   ],
-   "materials": [
-    "high-entropy"
    ],
    "starred": false,
    "date_unknown": false
@@ -106,19 +56,19 @@
   "Applied Catalysis B: Environ. Energy: RSS 200, 100건",
   "Advanced Energy Materials: Crossref 200, 18건",
   "Small: Crossref 200, 30건",
-  "Angewandte Chemie Int. Ed.: Crossref 200, 23건",
+  "Angewandte Chemie Int. Ed.: Crossref 200, 35건",
   "Advanced Materials: Crossref 200, 32건",
   "Advanced Functional Materials: Crossref 200, 55건",
   "Advanced Science: Crossref 200, 25건",
   "Chemical Science: Crossref 200, 22건",
   "Chem. Soc. Rev.: Crossref 200, 9건",
-  "Energy Environ. Sci.: Crossref 200, 11건",
-  "Chem. Commun.: Crossref 200, 41건",
+  "Energy Environ. Sci.: Crossref 200, 12건",
+  "Chem. Commun.: Crossref 200, 42건",
   "EES Catalysis: Crossref 200, 1건",
   "Science: Crossref 200, 0건",
   "Science Advances: Crossref 200, 44건",
   "Nature: Crossref 200, 74건",
-  "Nature Communications: Crossref 200, 101건",
+  "Nature Communications: Crossref 200, 103건",
   "Nature Materials: Crossref 200, 3건",
   "Nature Nanotechnology: Crossref 200, 2건",
   "Nature Catalysis: Crossref 200, 0건",
@@ -126,14 +76,14 @@
   "Nature Chemistry: Crossref 200, 2건",
   "Nature Synthesis: Crossref 200, 4건",
   "Nature Sustainability: Crossref 200, 1건",
-  "JACS: Crossref 200, 57건",
+  "JACS: Crossref 200, 59건",
   "ACS Catalysis: Crossref 200, 26건",
   "ACS Energy Letters: Crossref 200, 11건",
   "ACS Nano: Crossref 200, 27건",
-  "Nano Letters: Crossref 200, 24건",
+  "Nano Letters: Crossref 200, 25건",
   "Joule: Crossref 200, 4건",
   "Chem: Crossref 200, 3건",
   "Chem Catalysis: Crossref 200, 0건",
-  "Applied Catalysis B: Environ. Energy: Crossref 200, 12건"
+  "Applied Catalysis B: Environ. Energy: Crossref 200, 13건"
  ]
 }

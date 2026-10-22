@@ -1,13 +1,7 @@
-# 2026-10-22 신규 논문 (4편, 2026-10-19 이후)
+# 2026-10-22 신규 논문 (1편, 2026-10-19 이후)
 
-- **Suppressing Water Electrolysis via Pb Single Atoms in Nitrogen‐Doped Carbon for High‐Energy‐Density Supercapacitors (Adv. Energy Mater. 39/2026)** — *Advanced Energy Materials* (2026-10-21)  
-  HER/HOR × single-atom · https://doi.org/10.1002/aenm.71619 · 초록 없음
-- **Suppressing Water Electrolysis via Pb Single Atoms in Nitrogen‐Doped Carbon for High‐Energy‐Density Supercapacitors** — *Advanced Energy Materials* (2026-10-21)  
-  HER/HOR × single-atom · https://doi.org/10.1002/aenm.70900 · 초록 있음
-- **Support Protection Mechanism Enables Efficient and Stable Anion Exchange Membrane Water Electrolyzers** — *JACS* (2026-10-21)  
-  ORR/OER × single-atom · https://doi.org/10.1021/jacs.6c15614 · 초록 있음
-- **Decoupling Dissolution from Water Oxidation at Single-Faceted High-Entropy Perovskite Electrodes** — *JACS* (2026-10-21)  
-  ORR/OER × high-entropy · https://doi.org/10.1021/jacs.6c09065 · 초록 있음
+- **Tri‐Functional Electrocatalysis for Zinc–Air Battery Coupled Water Splitting: A Catalyst‐Electrode‐Device‐System Perspective** — *Advanced Science* (2026-10-19)  
+  HER/HOR/ORR/OER × single-atom · https://doi.org/10.1002/advs.77619 · 초록 있음
 
 <details><summary>수집 상태</summary>
 
@@ -44,19 +38,19 @@
 - Applied Catalysis B: Environ. Energy: RSS 200, 100건
 - Advanced Energy Materials: Crossref 200, 18건
 - Small: Crossref 200, 30건
-- Angewandte Chemie Int. Ed.: Crossref 200, 23건
+- Angewandte Chemie Int. Ed.: Crossref 200, 35건
 - Advanced Materials: Crossref 200, 32건
 - Advanced Functional Materials: Crossref 200, 55건
 - Advanced Science: Crossref 200, 25건
 - Chemical Science: Crossref 200, 22건
 - Chem. Soc. Rev.: Crossref 200, 9건
-- Energy Environ. Sci.: Crossref 200, 11건
-- Chem. Commun.: Crossref 200, 41건
+- Energy Environ. Sci.: Crossref 200, 12건
+- Chem. Commun.: Crossref 200, 42건
 - EES Catalysis: Crossref 200, 1건
 - Science: Crossref 200, 0건
 - Science Advances: Crossref 200, 44건
 - Nature: Crossref 200, 74건
-- Nature Communications: Crossref 200, 101건
+- Nature Communications: Crossref 200, 103건
 - Nature Materials: Crossref 200, 3건
 - Nature Nanotechnology: Crossref 200, 2건
 - Nature Catalysis: Crossref 200, 0건
@@ -64,13 +58,13 @@
 - Nature Chemistry: Crossref 200, 2건
 - Nature Synthesis: Crossref 200, 4건
 - Nature Sustainability: Crossref 200, 1건
-- JACS: Crossref 200, 57건
+- JACS: Crossref 200, 59건
 - ACS Catalysis: Crossref 200, 26건
 - ACS Energy Letters: Crossref 200, 11건
 - ACS Nano: Crossref 200, 27건
-- Nano Letters: Crossref 200, 24건
+- Nano Letters: Crossref 200, 25건
 - Joule: Crossref 200, 4건
 - Chem: Crossref 200, 3건
 - Chem Catalysis: Crossref 200, 0건
-- Applied Catalysis B: Environ. Energy: Crossref 200, 12건
+- Applied Catalysis B: Environ. Energy: Crossref 200, 13건
 </details>
