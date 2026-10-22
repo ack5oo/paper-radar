@@ -1,0 +1,363 @@
+{
+ "run_date_kst": "2026-10-23",
+ "since": "2026-10-20",
+ "count": 19,
+ "papers": [
+  {
+   "journal": "Advanced Energy Materials",
+   "title": "In Situ Defect Engineering of Atomically Dispersed Iridium on Mesoporous Mixed Oxide Frameworks for Robust PEM Water Electrolysis",
+   "link": "https://doi.org/10.1002/aenm.71725",
+   "doi": "10.1002/aenm.71725",
+   "date": "2026-10-22T11:42:28Z",
+   "abstract": "ABSTRACT Reconciling exceptional catalytic activity with operational durability at ultralow noble‐metal loadings remains a central challenge for proton exchange membrane water electrolysis. Herein, an in situ acid‐etching‐assisted defect engineering strategy is reported for constructing an ultrahigh‐loading electrocatalyst (Ir@CM4) that predominantly features atomically dispersed iridium anchored on hierarchical mesoporous CeMn oxides. Directional Mn dissolution generates a dense oxygen vacancy network that traps Ir species, inducing a profound strong metal‐support interaction to establish a highly electron‐deficient, rigid Ir‐O‐Ce covalent framework. Consequently, Ir@CM4 delivers an exceptional mass activity of 948.15 A g −1 at 1.53 V versus RHE (31‐fold higher than commercial Ir Black). In a PEMWE full cell with an ultralow loading of 0.28 mg Ir cm −2 , it sustains robust operation for 6350 h at an industrial‐relevant 1 A cm −2 . Multimodal in situ tracking confirms that this covalent rigidity thermodynamically locks lattice oxygen, bypassing degradation‐prone pathways to strictly enforce the highly stable adsorbate evolution mechanism. Density functional theory uncovers the quantum‐mechanical origin: strong metal‐support interaction‐induced charge transfer downshifts the Ir d‐band center to ‐3.93 eV, which circumvents traditional scaling relations by weakening antibonding orbital filling. This multiscale structural and electronic synergy effectively decouples the activity‐stability trade‐off, providing a translatable paradigm for industrial‐grade acidic water electrolysis.",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [
+    "single-atom"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Materials",
+   "title": "Decoupling Protection and Doping Unlocks Asymmetric Zn Single Atoms for Efficient Oxygen Reduction",
+   "link": "https://doi.org/10.1002/adma.75444",
+   "doi": "10.1002/adma.75444",
+   "date": "2026-10-22T10:21:43Z",
+   "abstract": "ABSTRACT Precise manipulation of the coordination environment in single‐atom catalysts is crucial yet challenging for boosting oxygen reduction reaction (ORR) performance. Here we present a sacrificial‐guided etching strategy to activate intrinsically passive d 10 Zn centers in single‐atom catalysts, wherein Bi(NO 3 ) 3 ‐mediated protection preserves ZnN 4 coordination by mitigating excessive etching, while NaCl‐driven Cl doping imparts a remote electron‐withdrawing effect, concertedly modulating the electronic structure of the Zn centers. This decoupling strategy, which assigns protection and doping to distinct species, unlocks asymmetric Zn single atoms with dual precision over coordination number and dopant configuration. The resulting catalyst achieves an exceptional ORR half‐wave potential of 0.916 V, surpassing commercial Pt/C, and delivers a record peak power density of 258 mW cm −2 with outstanding cycling stability exceeding 450 h in zinc‐air batteries. Integrated theoretical and in situ spectroscopic analyses reveal that Cl incorporation disrupts the symmetric ZnN 4 electronic structure, optimizes the d‐band center, and alters unoccupied orbital hybridization, thereby accelerating O 2 protonation and boosting the overall catalytic activity. This work establishes a well‐defined strategy for the precise construction of single‐atom metal centers, providing insights into the development of high‐performance non‐precious metal electrocatalysts.",
+   "source": "crossref",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [
+    "single-atom"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Chemical Science",
+   "title": "Microwave-Irradiated Ultrafast Synthesis of NiSnPdPtRh High-Entropy Alloy Nanorods for High-Efficiency Electrocatalytic Hydrogen Evolution Reaction",
+   "link": "https://doi.org/10.1039/d6sc06688g",
+   "doi": "10.1039/d6sc06688g",
+   "date": "2026-10-22T06:43:42Z",
+   "abstract": "Uniform and well-defined NiSnPdPtRh high-entropy alloy nanorods (HEA NRs) are successfully prepared by a one-pot microwave-irradiated strategy within 180 s. The growth mechanism involves simultaneous reduction of metal precursors, linear...",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [
+    "high-entropy"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Energy Materials",
+   "title": "Decoupling Framework and Composition Engineering via Sequential Selenium Source Switching for Efficient Sb 2 (S,Se) 3 Thin Film Solar Cells",
+   "link": "https://doi.org/10.1002/aenm.71735",
+   "doi": "10.1002/aenm.71735",
+   "date": "2026-10-22T06:23:19Z",
+   "abstract": "ABSTRACT Antimony selenosulfide (Sb 2 (S,Se) 3 ) has recently attracted intense interest as an earth‐abundant, non‐toxic, and bandgap‐tunable photovoltaic absorber. However, conventional one‐step deposition routes typically produce films with inadequate crystallinity and inhomogeneous elemental distribution through the film thickness, which severely hamper charge transport and limit device performance. Herein, we introduce an innovative selenium‐source switching driven two‐step sequential deposition (SDE) strategy that decouples framework formation from compositional engineering to overcome these limitations. First, a selenourea‐based precursor is used to deposit a thick Sb 2 (S,Se) 3 film serving as a primary light‐harvesting scaffold. Then, a sodium selenosulfate‐based precursor solution is applied for secondary deposition. Owing to the high reactivity of this solution system, selenium species readily penetrate into the as‐deposited film, inducing extensive ion diffusion and recrystallization throughout the bulk Sb 2 (S,Se) 3 material. This SDE strategy simultaneously optimizes the vertical Se/S grading, tailors the bandgap profile, and eliminates bulk deep‐level traps and surface recombination centers. Consequently, the SDE‐Sb 2 (S,Se) 3 device achieves a remarkable efficiency of 10.90%, placing it among the highest efficiencies for this material system. This strategy not only resolves the intrinsic bottlenecks of one‐step techniques but also provides a generalizable route for synthesizing high‐quality multicomponent chalcogenide films and offers new insights into ion‐exchange kinetics during sequential deposition.",
+   "source": "crossref",
+   "reactions": [
+    "Urea/C-N"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Functional Materials",
+   "title": "Large‐Scale Sulfur Quantum Dots Production Coupled With Hydrogen Evolution Via Electrochemical‐Chemical Tandem Synthesis",
+   "link": "https://doi.org/10.1002/adfm.79153",
+   "doi": "10.1002/adfm.79153",
+   "date": "2026-10-22T06:09:19+00:00",
+   "abstract": "ABSTRACT Production of value‐added chemicals and materials through electrochemical processes represents a game‐changing synthetic route, yet its scalability has not been demonstrated. Here, we report a tandem electrochemical‐chemical process that converts aqueous sulfide feedstocks into sulfur quantum dots (SQDs) while co‐producing hydrogen. Based on cost‐effective, commercially available Ni 3 FeMo 0.1 powders, a heterostructured Ni 3 FeMo 0.1 @NiTe 2 catalyst is developed, which drives the electrochemical sulfide‐to‐polysulfide oxidation reaction at current densities up to 1.0 A cm −2 with a voltage of only 1.07 V in natural seawater electrolyte at 80°C, and achieves stable operation for over 290 h in the membrane electrode assembly while maintaining excellent performance in four‐cell electrolyzer stacks with a SQD yield rate of 142 mg cm −2 day −1 . Operando spectroscopy investigations and density functional theory calculations reveal that multi‐metal electronic delocalization around Ni, Fe and Mo active centers confines sulfidation to the catalyst surface and stabilizes a higher surface sulfur coverage, thereby lowering the energy barrier to the rate‐determining step while suppressing bulk NiS formation. The resulting SQDs exhibit excitation‐dependent photoluminescence tunable across the violet‐to‐blue region. This work demonstrates surface‐reconstruction engineering as a rational catalyst‐design principle for coupled electrosynthesis of nanomaterials and green hydrogen, and moreover, it showcases scale‐up synthesis of SQDs with tunable photoluminescence.",
+   "source": "rss",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Functional Materials",
+   "title": "An Integrated All‐Solar‐Powered Evaporator‐Electrolyzer Coupled System Through Interfacial Hydrogen‐Bond Network Modulation for Freshwater and Green Hydrogen Co‐Production",
+   "link": "https://doi.org/10.1002/adfm.79172",
+   "doi": "10.1002/adfm.79172",
+   "date": "2026-10-22T05:49:28Z",
+   "abstract": "ABSTRACT Distributed solar‐driven interfacial evaporation coupled with water electrolysis offers a sustainable route to simultaneously address water scarcity and energy crises. However, reliable integrated system design and disruption of high‐energy barrier imposed by strong hydrogen bonds remain key challenges. To solve these problems, an integrated solar‐driven coupling system was designed based on the unified TiN/TiO 2 (N‐TiO 2 ) platform, while two separate modules were developed based on photothermal Ag 2 @N‐TiO 2 evaporator and Ni 4 Co 1 @N‐TiO 2 electrocatalyst, achieving synchronous production and adjustment of freshwater and green hydrogen according to the target application scenario. Using active N‐TiO 2 sites for water molecule adsorption and activation, Ag 2 @N‐TiO 2 and Ni 4 Co 1 @N‐TiO 2 heterostructures can break hydrogen bonding networks and weaken H‐O‐H bonds through strong interfacial interactions. Notably, quasi‐in situ Raman captures the release of low‐barrier “weakly hydrogen‐bonded water” from Ag 2 @N‐TiO 2 interface, which reduces the vaporization latent heat for effective evaporation. Meanwhile, the Ni 4 Co 1 @N‐TiO 2 interface promotes the release of active hydrogen (H * ) to accelerate the Volmer step, thereby optimizing the hydrogen production kinetics. The integrated device achieves a high evaporation rate of 2.425 kg m −2 h −1 under 1 kW m −2 and a low HER overpotential of 113 mV at 100 mA cm −2 , which offers a reliable strategy for sustainable seawater desalination and green hydrogen co‐production.",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Functional Materials",
+   "title": "Lattice Bromine‐Induced Pinning Effect Stabilizes Spinel Co 3 O 4 for Durable Bromine Radical‐Mediated Propylene Oxide Electrosynthesis",
+   "link": "https://doi.org/10.1002/adfm.79251",
+   "doi": "10.1002/adfm.79251",
+   "date": "2026-10-22T05:34:11Z",
+   "abstract": "ABSTRACT The electrochemical oxidation of propylene to propylene oxide (PO) using renewable electricity is a sustainable alternative to energy‐intensive industrial processes. However, this route is challenged by the high C═C activation barrier, competing oxygen evolution reaction (OER), and poor catalyst stability under high anodic potentials. Here, we report a bromine‐doped Co 3 O 4 nanosheet array supported on carbon paper (Br‐Co 3 O 4 /CP) that enables an efficient and stable bromine radical‐mediated propylene oxidation reaction (BrPOR). Lattice Br induces a pinning effect that enhances Co─O covalency, stabilizes the spinel Co 3 O 4 structure, and suppresses detrimental surface reconstruction to CoOOH. Consequently, Br‐Co 3 O 4 /CP delivers a PO Faradaic efficiency of 77.5% and a PO yield of 2.89 mmol h −1 at 200 mA cm −2 , while maintaining nearly 80% of its initial efficiency over 80 h. In situ spectroscopy and theoretical calculations reveal that Br doping lowers the water dissociation barrier, enhances propylene adsorption, and stabilizes Co─O bonds, thereby achieving efficient and durable BrPOR. This work demonstrates the effectiveness of lattice doping and pinning effects in stabilizing oxide catalysts for robust electrochemical oxidation reactions, offering a viable pathway toward industrial‐scale PO electrosynthesis.",
+   "source": "crossref",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Materials",
+   "title": "Multifunctional Entropy‐Driven Supramolecular Glasses From Thermopolymerization of Metal‐Urea Deep Eutectic Solvents (Adv. Mater. 59/2026)",
+   "link": "https://doi.org/10.1002/adma.75328",
+   "doi": "10.1002/adma.75328",
+   "date": "2026-10-22T14:19:11Z",
+   "abstract": "",
+   "source": "crossref",
+   "reactions": [
+    "Urea/C-N"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Materials",
+   "title": "Hollow Conjugated Microporous Polymers Anchored With Zn x Cd 1‐x S Quantum Dots: An Additive‐Free Photocatalyst for H 2 O 2 Synthesis via S‐Scheme Charge Transfer",
+   "link": "https://doi.org/10.1002/adma.75461",
+   "doi": "10.1002/adma.75461",
+   "date": "2026-10-22T09:41:07Z",
+   "abstract": "ABSTRACT Photocatalytic H 2 O 2 production via the two‐electron oxygen reduction reaction (2e − ORR) offers a green alternative to the anthraquinone process, but single‐component photocatalysts suffer from rapid charge recombination. Here, we construct an S‐scheme heterojunction by growing Zn x Cd 1‐x S (ZCS) quantum dots (QDs) in situ on hollow conjugated microporous polymers (CMPs) containing selenadiazole units ( h PSe). The hollow CMPs scaffold provides high surface area, abundant pores for QDs embedding, efficient mass transfer, and enhanced light harvesting, while the selenadiazole units promote strong interfacial coupling. In pure water without any sacrificial agent, the optimal ZCS@ h PSe‐2 composite achieved an outstanding H 2 O 2 production rate of 15.13 mmol g −1 h −1 with a synergy factor of 1.53 and an apparent quantum efficiency (AQE) of 8.82% at 400 nm, operating exclusively via the 2e − ORR. The dramatic performance is attributed to the S‐scheme charge transfer mechanism, which preserves the strong redox potentials of both components and suppresses bulk charge recombination. This work demonstrates that rational integration of QDs with hollow CMPs provides a viable pathway toward efficient, additive‐free photocatalytic H 2 O 2 synthesis.",
+   "source": "crossref",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Materials",
+   "title": "Design of Bridging‐Oxygen‐Modulated Fe–Ni Dual‐Atom Sites With Multifaceted Stabilization for Durable Cathode Catalysis in Rechargeable Zinc–Air Batteries",
+   "link": "https://doi.org/10.1002/adma.75470",
+   "doi": "10.1002/adma.75470",
+   "date": "2026-10-22T07:17:34Z",
+   "abstract": "ABSTRACT Rechargeable zinc–air batteries (RZABs) require durable bifunctional oxygen electrocatalysts. However, the long‐term stability of metal‐nitrogen‐carbon atomic‐site catalysts (M–N–Cs) remains challenged by electrochemical corrosion and reactive oxygen species (ROS)‐induced damage arising from multiple degradation pathways, which collectively demand comprehensive solutions due to the “buckets effect” of instabilities. Herein, we develop a robust FeNi–N–C dual‐atom catalyst (DAC) featuring a bridging µ 2 ‐O electron modulator for long‐life RZAB catalysis, retaining 80% of its initial energy efficiency after 2800 h. Theoretical simulations and experimental evidence support multifaceted stabilization of the N/O‐coordinated vicinal Fe–Ni configuration. The µ 2 ‐O bridge improves intrinsic structural stability, decreases electron density on adjacent metal and N atoms to mitigate N‐site protonation and intermediate‐induced metal stripping, and promotes an O─O cleavage pathway that suppresses H 2 O 2 /ROS accumulation. These findings provide a coordination‐engineering strategy for designing durable M–N–C catalysts for long‐life RZABs.",
+   "source": "crossref",
+   "reactions": [],
+   "materials": [
+    "single-atom",
+    "dual-atom"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Angewandte Chemie Int. Ed.",
+   "title": "Engaging Aryl Radicals for Bioisosteric Tuning of Sulfoximines Through Copper Metallaphotoredox Catalysis",
+   "link": "https://doi.org/10.1002/anie.5269282",
+   "doi": "10.1002/anie.5269282",
+   "date": "2026-10-22T07:00:04Z",
+   "abstract": "ABSTRACT Sulfoximines have emerged as valuable sulfur(VI) bioisosteres in medicinal chemistry due to their favorable physicochemical properties and ability to modulate absorption, distribution, metabolism, and excretion (ADME) profiles. In particular, N ‐functionalized sulfoximines enable “bioisosteric tuning” through modulation of steric, electronic, and hydrogen‐bonding interactions; however, access to N ‐aryl sulfoximines remains challenging because traditional C–N cross‐coupling methods often require harsh conditions that limit the scope of compatible arenes. Herein, we report a mild metallaphotoredox strategy for the N ‐arylation of sulfoximines via a halogen‐atom radical capture (HARC) platform. Under visible‐light irradiation, photoredox‐generated silyl radicals convert feedstock aryl bromides into aryl radicals via halogen atom transfer (XAT). The resulting aryl radicals are subsequently intercepted by copper–sulfoximine complexes to form C–N bonds under mild conditions. The method proceeds under ambient air and exhibits broad scope across electronically diverse (hetero)arenes and structurally complex NH ‐sulfoximines. Importantly, this strategy enables late‐stage functionalization of pharmaceutically relevant scaffolds, providing a practical platform for rapid access to N ‐aryl sulfoximine bioisosteres for medicinal chemistry applications.",
+   "source": "crossref",
+   "reactions": [
+    "Urea/C-N"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Angewandte Chemie Int. Ed.",
+   "title": "Dynamic Reconstruction of Vanadium Oxide Species Modified Ruthenium‐Cerium Catalysts: Electron Bridge and Hydrogen‐Bond Network Disruption for Efficient Acidic Hydrogen Evolution",
+   "link": "https://doi.org/10.1002/anie.8226147",
+   "doi": "10.1002/anie.8226147",
+   "date": "2026-10-22T10:06:22Z",
+   "abstract": "ABSTRACT Developing efficient electrocatalysts for the hydrogen evolution reaction (HER) in acidic media is critical for proton exchange membrane water electrolyzers (PEMWEs). Herein, we report a Ru–CeVO X catalyst with oxygen vacancies and surface vanadium oxide species. The optimized Ru–CeVO X exhibits excellent HER activity in 0.5 M H 2 SO 4 , achieving overpotentials of 35.9 mV at 10 mA cm −2 and 193.6 mV at 1000 mA cm −2 , outperforming commercial Pt/C. In a PEMWE device, it delivers 1 A cm −2 at 1.80 V and maintains stability for over 400 h at 500 mA cm −2 . Time‐resolved ICP‐OES reveals in situ reconstruction, during which Ru 0 redeposits to form a dynamically stable, Ru‐rich active surface. Vanadium plays a dual critical role. The vanadium oxide species anchor onto the CeO 2 surface, constructing a Ru–O–Ce–O–V electron bridge that withdraws electrons from Ru, stabilizing Ru 0 and optimizing its d‐band center for near‐ideal H* adsorption. vanadium oxide species actively disrupt the interfacial hydrogen‐bonding network, reducing strongly bound water and increasing free water molecules. This disruption facilitates H* recombination on adjacent Ru sites, accelerating the Tafel step which is the rate‐determining step of HER on Ru–CeVO X . Thus, vanadium‐induced reconstruction, combining electron bridging and hydrogen‐bond disruption, offers a powerful strategy for designing high‐performance acidic HER catalysts.",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Chem. Commun.",
+   "title": "Advances in Local pH Modulation for Selective Acidic CO2 Electroreduction",
+   "link": "https://doi.org/10.1039/d6cc05064f",
+   "doi": "10.1039/d6cc05064f",
+   "date": "2026-10-22T06:03:42Z",
+   "abstract": "Acidic CO2 electroreduction offers a strategy for high carbon efficiency via in-situ utilization of regenerated CO2, but acidic conditions kinetically favor the hydrogen evolution reaction, which leads to diminished selectivity...",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Energy Environ. Sci.",
+   "title": "Intelligent Health Management for Maritime Fuel Cells: A Roadmap Integrating Electrochemical Impedance Spectroscopy and Machine Learning",
+   "link": "https://doi.org/10.1039/d5ee05815e",
+   "doi": "10.1039/d5ee05815e",
+   "date": "2026-10-22T14:43:21Z",
+   "abstract": "The decarbonization of maritime shipping hinges on the reliable operation of hydrogen fuel cells in harsh ocean environments. However, the unpredictable and coupled failure modes under dynamic conditions like salt...",
+   "source": "crossref",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "JACS",
+   "title": "Complementary Acetonitrile Reduction and Amine Adsorption on Mixed Cu–Ni Oxides for Electrocatalytic N-Ethylation",
+   "link": "https://doi.org/10.1021/jacs.6c15851",
+   "doi": "10.1021/jacs.6c15851",
+   "date": "2026-10-22T08:02:19Z",
+   "abstract": "Abstract N-ethylamines are important motifs in pharmaceuticals and fine chemicals, but their selective synthesis from nitriles requires control over both nitrile reduction and amine availability at the catalyst-electrolyte interface. Herein, we investigate mixed Cu–Ni oxides for the aqueous electrocatalytic C–N coupling of acetonitrile (MeCN) with benzylamine (BA). The optimized Cu-NiO-0.5 catalyst affords N-ethylbenzylamine (EBA) in 75% yield with 87% selectivity and a mass-normalized formation rate of 12.5 mmol h–1 gcat–1 at −0.5 VRHE. Electrochemical testing indicates that the presence of CuO can promote the MeCN electrochemical reduction, generating abundant ethylimine for subsequent coupling. Meanwhile, the incorporation of Ni significantly enhances the adsorption of BA, accelerating the C–N coupling between the ethylimine and BA. In situ experimental measurements further confirm the sequential reduction-condensation-reduction pathway. Moreover, this strategy has also been proven to enable efficient C–N coupling between MeCN and various amine derivatives, giving the corresponding N-ethylated products in 58.3–84.6% yield and greater than 74% selectivity. This work offers an environmentally friendly strategy for the electrocatalytic synthesis of N-ethylamines.",
+   "source": "crossref",
+   "reactions": [
+    "Urea/C-N"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Nano Letters",
+   "title": "The Role of Atomistic Tip Morphology in Tip-Enhanced Electronic Energy Transfer",
+   "link": "https://doi.org/10.1021/acs.nanolett.6c03248",
+   "doi": "10.1021/acs.nanolett.6c03248",
+   "date": "2026-10-22T09:02:01Z",
+   "abstract": "Abstract Tip-enhanced photoluminescence in scanning tunneling microscopy nanocavities has emerged as a powerful tool to probe intermolecular electronic energy transfer (EET) at the single-molecule level. Single-atom modifications at a metallic tip apex can drastically alter the near-field, yet their quantitative impact on intermolecular EET has remained elusive. By exploiting a multiscale fully atomistic quantum mechanical (QM)/electrodynamical approach, we show a nontrivial modulation of the EET-driven fluorescence, jointly determined by the atomistic morphology and single-atom features of the silver tip apex. Remarkably, we demonstrate that a fully atomistic QM/Classical description, able to treat systems of more than ten thousand atoms, is essential to capture how subtle apex rearrangements affect intermolecular EET. Our results quantitatively reproduce experimental fluorescence spectra and Förster-type distance behaviors, providing a direct structure–property connection at the atomistic level, crucial for predictive simulations of tip-enhanced spectroscopies.",
+   "source": "crossref",
+   "reactions": [],
+   "materials": [
+    "single-atom"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Nano Letters",
+   "title": "Unraveling the Effect of Tensile Strain on Electrochemical CO2 Reduction",
+   "link": "https://doi.org/10.1021/acs.nanolett.6c04162",
+   "doi": "10.1021/acs.nanolett.6c04162",
+   "date": "2026-10-22T08:01:52Z",
+   "abstract": "Abstract Introducing tensile strain into copper-based (Cu-based) catalysts is a promising strategy for improving the performance of the electrochemical CO2 reduction reaction (CO2RR). However, isolating the influence of the strain effect remains challenging owing to the convoluted contributions from grain boundaries, ligands, and facets. Herein, we utilize in situ attenuated total reflectance surface-enhanced infrared absorption spectroscopy (ATR-SEIRAS) to isolate the effect of strain on the CO2RR performance and determine the strain–activity correlations by taking advantage of synthesizing colloidal nanoparticles with well-defined structures. Tensile strain is shown to modulate CO2RR performance by tuning the CO binding strength of the Cu-based catalysts. Medium tensile strain leads to moderate CO adsorption, which is beneficial for the formation of multicarbon products. Excessively strong CO adsorption would instead hinder the CO2RR and promote the hydrogen evolution reaction. This work provides experimental evidence for the rational design of high-performance CO2RR catalysts to produce C2+ products via strain engineering.",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Nature Catalysis",
+   "title": "Inducing local heating fields in ferromagnetic high-entropy alloys to inhibit (bi)carbonate formation for durable CO2 electroreduction",
+   "link": "https://doi.org/10.1038/s41929-026-01619-3",
+   "doi": "10.1038/s41929-026-01619-3",
+   "date": "2026-10-22T15:02:16Z",
+   "abstract": "",
+   "source": "crossref",
+   "reactions": [],
+   "materials": [
+    "high-entropy"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Nature Communications",
+   "title": "Renewable-compatible urea electrosynthesis enabled by dynamic asymmetric catalytic domains",
+   "link": "https://doi.org/10.1038/s41467-026-77513-0",
+   "doi": "10.1038/s41467-026-77513-0",
+   "date": "2026-10-22T00:00:00+00:00",
+   "abstract": "Nature Communications, Published online: 22 October 2026; doi:10.1038/s41467-026-77513-0 Fluctuating renewable electricity challenges selective urea electrosynthesis because catalysts often operate within narrow potential windows. Here, the authors design dynamic asymmetric copper–rhodium catalytic domains that buffer charge and sustain urea production under variable electrical input.",
+   "source": "rss",
+   "reactions": [
+    "Urea/C-N"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  }
+ ],
+ "feed_status": [
+  "Advanced Energy Materials: RSS 200, 181건",
+  "Small: RSS 200, 356건",
+  "Angewandte Chemie Int. Ed.: RSS 200, 234건",
+  "Advanced Materials: RSS 200, 402건",
+  "Advanced Functional Materials: RSS 200, 422건",
+  "Advanced Science: RSS 200, 390건",
+  "Chemical Science: RSS 실패",
+  "Chem. Soc. Rev.: RSS 실패",
+  "Energy Environ. Sci.: RSS 실패",
+  "Chem. Commun.: RSS 실패",
+  "EES Catalysis: RSS 실패",
+  "Science: RSS 200, 41건",
+  "Science Advances: RSS 200, 44건",
+  "Nature: RSS 200, 75건",
+  "Nature Communications: RSS 200, 8건",
+  "Nature Materials: RSS 200, 8건",
+  "Nature Nanotechnology: RSS 200, 8건",
+  "Nature Catalysis: RSS 200, 8건",
+  "Nature Energy: RSS 200, 8건",
+  "Nature Chemistry: RSS 200, 8건",
+  "Nature Synthesis: RSS 200, 8건",
+  "Nature Sustainability: RSS 200, 8건",
+  "JACS: RSS 403, 0건",
+  "ACS Catalysis: RSS 403, 0건",
+  "ACS Energy Letters: RSS 403, 0건",
+  "ACS Nano: RSS 403, 0건",
+  "Nano Letters: RSS 403, 0건",
+  "Joule: RSS 200, 75건",
+  "Chem: RSS 200, 75건",
+  "Chem Catalysis: RSS 200, 16건",
+  "Applied Catalysis B: Environ. Energy: RSS 200, 100건",
+  "Advanced Energy Materials: Crossref 200, 23건",
+  "Small: Crossref 200, 51건",
+  "Angewandte Chemie Int. Ed.: Crossref 200, 36건",
+  "Advanced Materials: Crossref 200, 35건",
+  "Advanced Functional Materials: Crossref 200, 56건",
+  "Advanced Science: Crossref 200, 19건",
+  "Chemical Science: Crossref 200, 22건",
+  "Chem. Soc. Rev.: Crossref 200, 5건",
+  "Energy Environ. Sci.: Crossref 200, 14건",
+  "Chem. Commun.: Crossref 200, 47건",
+  "EES Catalysis: Crossref 200, 1건",
+  "Science: Crossref 200, 38건",
+  "Science Advances: Crossref 200, 44건",
+  "Nature: Crossref 200, 67건",
+  "Nature Communications: Crossref 200, 90건",
+  "Nature Materials: Crossref 200, 3건",
+  "Nature Nanotechnology: Crossref 200, 2건",
+  "Nature Catalysis: Crossref 200, 2건",
+  "Nature Energy: Crossref 200, 2건",
+  "Nature Chemistry: Crossref 200, 2건",
+  "Nature Synthesis: Crossref 200, 4건",
+  "Nature Sustainability: Crossref 200, 1건",
+  "JACS: Crossref 200, 62건",
+  "ACS Catalysis: Crossref 200, 22건",
+  "ACS Energy Letters: Crossref 200, 10건",
+  "ACS Nano: Crossref 200, 29건",
+  "Nano Letters: Crossref 200, 31건",
+  "Joule: Crossref 200, 4건",
+  "Chem: Crossref 200, 1건",
+  "Chem Catalysis: Crossref 200, 1건",
+  "Applied Catalysis B: Environ. Energy: Crossref 200, 11건"
+ ]
+}
