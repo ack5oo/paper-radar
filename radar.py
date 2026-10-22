@@ -17,6 +17,7 @@ since = today - dt.timedelta(days=3)   # 색인 지연 대비 3일 겹쳐 조회
 
 def comp(d): return {k: re.compile("|".join(v), re.I) for k, v in d.items()}
 RX, MX, STAR = comp(KW["reactions"]), comp(KW["materials"]), re.compile("|".join(KW["starred"]), re.I)
+ELECTRO = re.compile(r"electro|overpotential|\bRHE\b|fuel cell|battery|electrolyzer|electrolyser", re.I)
 clean = lambda s: re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html.unescape(s or ""))).strip()
 DOI_RX = re.compile(r"10\.\d{4,9}/[^\s?#\"<>]+")
 
@@ -108,13 +109,15 @@ for c in cands.values():
     # 게재일 필터: 날짜를 알면 최근 3일 이내만
     if c["date"] and c["date"][:10] < str(since):
         continue
-    r_, m_ = classify(f"{c['title']} {c['abstract']}")
-    if not (r_ and m_): continue
+    text = f"{c['title']} {c['abstract']}"
+    r_, m_ = classify(text)
+    # 반응 OR 재료. 재료만 맞는 경우엔 전기화학 문맥이 있어야 함(구조재 HEA·열촉매 SAC 제외)
+    if not r_ and not (m_ and ELECTRO.search(text)): continue
     c.update(reactions=r_, materials=m_, starred=bool(STAR.search(f"{c['title']} {c['abstract']}")),
              abstract=c["abstract"][:2500], date_unknown=not c["date"])
     papers[key] = c
 
-hits = sorted(papers.values(), key=lambda h: (not h["starred"], h["journal"]))
+hits = sorted(papers.values(), key=lambda h: (not h["starred"], not (h["reactions"] and h["materials"]), h["journal"]))
 out = {"run_date_kst": str(today), "since": str(since), "count": len(hits), "papers": hits, "feed_status": status}
 (DATA / "latest.json").write_text(json.dumps(out, ensure_ascii=False, indent=1))
 (DATA / f"{today}.json").write_text(json.dumps(out, ensure_ascii=False, indent=1))
