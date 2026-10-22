@@ -38,7 +38,8 @@ def add(journal, title, link, doi, date, abstract, src):
     key = doi or link or title.lower()
     if key in seen or key in cands: return
     r, m = classify(f"{title} {abstract}")
-    if not (r and m): return
+    # 1차: 반응 또는 재료 하나만 맞아도 후보 → 초록 보강 후 최종 (반응 × 재료) 판정
+    if not (r or m): return
     cands[key] = dict(journal=journal, title=title, link=link, doi=doi, date=date or "",
                       abstract=abstract, source=src)
 
@@ -108,6 +109,7 @@ for c in cands.values():
     if c["date"] and c["date"][:10] < str(since):
         continue
     r_, m_ = classify(f"{c['title']} {c['abstract']}")
+    if not (r_ and m_): continue
     c.update(reactions=r_, materials=m_, starred=bool(STAR.search(f"{c['title']} {c['abstract']}")),
              abstract=c["abstract"][:2500], date_unknown=not c["date"])
     papers[key] = c
