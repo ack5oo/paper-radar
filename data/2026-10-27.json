@@ -1,0 +1,267 @@
+{
+ "run_date_kst": "2026-10-27",
+ "since": "2026-10-24",
+ "count": 13,
+ "papers": [
+  {
+   "journal": "Advanced Science",
+   "title": "Molecularly Engineered Nitrate Double Perovskites with Elevated Ferroelectric Phase Transition Temperature and Large Piezoelectric Response",
+   "link": "https://doi.org/10.1002/advs.78404",
+   "doi": "10.1002/advs.78404",
+   "date": "2026-10-26T09:28:28Z",
+   "abstract": "ABSTRACT Conventional ABX 3 perovskites place organic species at A ‐sites or as X ‐site linkers, where the B ‐site is reserved for metals. Molecular double perovskites with a general formula A 2 B I B III X 6 possess higher tunability and distinct B I ‐sites that can accommodate small cations, further regulating lattice connectivity and physical properties. Here, we introduce a new family of B I ‐site‐organic nitrate double perovskites, (RM3HQ) 2 B I Eu(NO 3 ) 6 (RM3HQ = ( R )‐ N ‐methyl‐3‐hydroxyquinuclidinium), forming compounds 1 – 4 with B I = ammonium, methylammonium, formamidinium, and dimethylammonium, respectively. Compounds 1 and 2 adopt mixed corner‐/face‐sharing non‐perovskite structures, whereas 3 and 4 form double perovskites. This structural variation raises the ferroelectric phase‐transition temperature to 349 K in 4 and 414 K in 3 , much higher than that of the inorganic analogue ( T c = 285 K). This further widens the temperature margin for stable room‐temperature piezoelectric responses, as demonstrated in 3 by ferroelectric hysteresis loops, ferroelastic domains, and a large piezoelectric coefficient (| d 33 | ≈ 56 pC N −1 ). During these phase transitions, the Eu 3+ photoluminescence intensity ratio (616 nm/ 592 nm) increases from 0.32 to 2.92 in 3 and from 0.37 to 4.59 in 4 , reflecting transition‐related changes in the ligand field. This work highlights the B I ‐site as an effective handle for tuning ferroelectric phase‐transition temperatures and tunable Eu 3+ photoluminescence.",
+   "source": "crossref",
+   "reactions": [
+    "NO3RR/NO2RR/NRR"
+   ],
+   "materials": [],
+   "starred": true,
+   "date_unknown": false
+  },
+  {
+   "journal": "ACS Catalysis",
+   "title": "Kinetic Limitations of Single-Atom Catalysts in Hydrazine Oxidation",
+   "link": "https://doi.org/10.1021/acscatal.6c08099",
+   "doi": "10.1021/acscatal.6c08099",
+   "date": "2026-10-26T11:01:32Z",
+   "abstract": "Abstract Single-atom catalysts (SACs) have attracted considerable interest, displaying impressive performance for a wide plethora of electrocatalytic reactions. However, the important question whether isolated sites are always beneficial remains unresolved. Here, by using the hydrazine oxidation reaction (HzOR) as a model reaction, we examine how isolated single-atom metal sites restrict the adsorption mode of intermediates to the monodentate configuration, which leads to weak intermediate stabilization and poor reaction kinetics. This contrasts with bulk metal sites where availability of the bidentate adsorption configuration offers better intermediate stabilization and dehydrogenation kinetics. As a result, Ir, Pt, and Pd SACs were found to require high HzOR overpotentials of 0.90, 1.21, and 1.19 V at 3 mA cm–2, respectively. Comparatively, their Ir, Pt, Pd nanoparticle counterparts with similar metal loading exhibit considerably lower overpotentials of only 0.35, 0.83, and 0.64 V at 3 mA cm–2, respectively. Taken together, our work contributes towards a more complete understanding of SACs, emphasizing the importance of considering site structure and the mechanistic demands of the reaction.",
+   "source": "crossref",
+   "reactions": [],
+   "materials": [
+    "single-atom"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Functional Materials",
+   "title": "Techno‐Economically Viable Glycine Electrosynthesis From CO2‐Derived Oxalic Acid Via Enhanced Oxime Adsorption on Atomically Dispersed Copper",
+   "link": "https://doi.org/10.1002/adfm.79302",
+   "doi": "10.1002/adfm.79302",
+   "date": "2026-10-26T06:38:18+00:00",
+   "abstract": "Advanced Functional Materials, EarlyView.",
+   "source": "rss",
+   "reactions": [],
+   "materials": [
+    "single-atom"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Materials",
+   "title": "Anti‐Poisoning Tin Single‐Atom Unlocks High‐Activity Ruthenium Catalysts for Alkaline Hydrogen Evolution Reaction",
+   "link": "https://doi.org/10.1002/adma.75495",
+   "doi": "10.1002/adma.75495",
+   "date": "2026-10-26T06:59:41+00:00",
+   "abstract": "Advanced Materials, EarlyView.",
+   "source": "rss",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Materials",
+   "title": "Engineering Thermoelectric‐Electrocatalytic Coupling in RuO2/PrCoO3 Heterointerface for Efficient Oxygen Evolution",
+   "link": "https://doi.org/10.1002/adma.75489",
+   "doi": "10.1002/adma.75489",
+   "date": "2026-10-26T06:56:26+00:00",
+   "abstract": "Advanced Materials, EarlyView.",
+   "source": "rss",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Materials",
+   "title": "Stabilizing Ru Sites via Lattice Oxygen Locking of Nb‐Ru/RuO 2 to Break the Activity–Stability Trade‐Off for Acidic Oxygen Evolution",
+   "link": "https://doi.org/10.1002/adma.75487",
+   "doi": "10.1002/adma.75487",
+   "date": "2026-10-26T09:46:09Z",
+   "abstract": "ABSTRACT Developing highly active and stable Ru‐based catalysts for the acidic oxygen evolution reaction (OER) is essential to accelerate the industrialization of proton exchange membrane water electrolysis (PEMWE). However, Ru‐based catalysts inevitably follow the lattice oxygen mechanism (LOM) during the actual reaction, which in turn triggers severe Ru dissolution. While shifting the reaction pathway to the adsorbate evolution mechanism (AEM) improves stability, it often compromises catalytic activity. Herein, we design an Nb‐doped Ru/RuO 2 heterostructure catalyst to inhibit the unstable LOM, and concurrently propose a favorable Brønsted Site‐Promoted Proton Transfer (BSPT) mechanism derived from the AEM. Specifically, the synergy between Nb doping and Ru/RuO 2 heterostructure enhances activity by improving deprotonation capability and optimizing oxygen‐intermediate adsorption, while simultaneously improving durability by stabilizing lattice oxygen and suppressing excessive oxidation and dissolution of Ru. Consequently, the Nb‐Ru/RuO 2 delivers an overpotential of 186 mV at 10 mA cm −2 with impressive durability over 3000 h. In a working PEMWE, it exhibits remarkable durability for 3000, 1200, and 900 h at 500, 1000, and 2000 mA cm −2 . This study offers novel design principles and theoretical foundations to advance efficient, low‐cost PEMWE hydrogen production.",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR",
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Science",
+   "title": "The Potential of Zero Charge: An Interfacial Descriptor Governing Hydrogen Evolution Reaction on Bulk Metal Electrodes",
+   "link": "https://doi.org/10.1002/advs.78449",
+   "doi": "10.1002/advs.78449",
+   "date": "2026-10-26T03:46:07+00:00",
+   "abstract": "ABSTRACT While the Sabatier‐based volcano plots guide catalyst design for Hydrogen Evolution Reaction (HER), the purely thermodynamic hydrogen binding energy descriptor fails to capture experimental HER trends accurately due to the omission of kinetic contributions. Herein, we combine the fixed‐potential method with our developed continuous proton supply/consumption model to establish an extra kinetic descriptor for metal‐based electrodes (Pt, Pd, Au, Ag, and their bimetallic alloys) under practical working conditions. The potential of zero charge (PZC) is demonstrated to be the interfacial descriptor, which modulates surface charge density and thereby tunes the kinetic proton enrichment within the EDL. Building on this insight, the PZC is integrated with hydrogen binding energies to establish a new two‐dimensional volcano plot for HER. The updated volcano plot derived from the dual descriptors effectively matches the experimental results, which provides an additional guiding parameter for rational catalyst design.",
+   "source": "rss",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Science",
+   "title": "Synergistic Charge Scavenging in Pt/C‐Polyoxometalate Systems for Scalable Biomass Power Generation via Super‐Reduced Electrolytes",
+   "link": "https://doi.org/10.1002/advs.78361",
+   "doi": "10.1002/advs.78361",
+   "date": "2026-10-26T04:02:16Z",
+   "abstract": "ABSTRACT Direct electrochemical conversion of unrefined biomass waste into electricity offers a sustainable pathway for decentralized energy generation, yet its practical implementation has been fundamentally hindered by low power densities and limited scalability. A fundamental bottleneck lies in the intrinsic recalcitrance of biomass, which restricts electron harvesting to shallow oxidation pathways and confines redox mediators to low reduction states. Here, we demonstrate a scalable biomass flow fuel cell (BFFC) enabled by a super‐reduced polyoxometalate (POM) electrolyte that overcomes the long‐standing electron‐harvesting ceiling. By employing a catalytic oxidative degradation strategy that promotes extensive cleavage of recalcitrant C─C linkages in the lignocellulosic matrix, we unlock deep multi‐electron reduction of POM, achieving an electron transfer capacity exceeding four electrons per molecule. As a result, the single‐cell device delivers a record‐breaking power density of 218.6 mW cm − 2 . Beyond laboratory‐scale demonstrations, we constructed a 10‐cell stack prototype, producing 59.2 Wh over 15.6 h of stable operation directly from raw biomass.",
+   "source": "crossref",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Applied Catalysis B: Environ. Energy",
+   "title": "Stable Urea Electrolysis to Generate Hydrogen by Construction of CoNiCe Active Site in MOF over 500 Hours",
+   "link": "https://doi.org/10.1016/j.apcatb.2026.127691",
+   "doi": "10.1016/j.apcatb.2026.127691",
+   "date": "2026-10-26T08:05:12Z",
+   "abstract": "",
+   "source": "crossref",
+   "reactions": [
+    "Urea/C-N"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Chem. Commun.",
+   "title": "Synthesis of a fully benzenoid phenothiazinium ion for red-light driven photocatalysis",
+   "link": "https://doi.org/10.1039/d6cc05300a",
+   "doi": "10.1039/d6cc05300a",
+   "date": "2026-10-26T10:26:25Z",
+   "abstract": "The synthesis of a fully benzenoid phenothiazinium derivative is reported for the first time, along with its preliminary application as orange/red-light photocatalyst in the formation of aromatic C-N bonds. These...",
+   "source": "crossref",
+   "reactions": [
+    "Urea/C-N"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Chem. Commun.",
+   "title": "Ir-modified Co 3 O 4 nanowire arrays for efficient and ultrastable bifunctional seawater electrolysis",
+   "link": "https://doi.org/10.1039/d6cc05351c",
+   "doi": "10.1039/d6cc05351c",
+   "date": "2026-10-26T13:27:39Z",
+   "abstract": "Ir/Co 3 O 4− x nanowire arrays supported on nickel foam exhibit ultralow overpotential and exceptional durability over 900 h, offering a promising alternative to conventional noble-metal catalysts.",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Chemical Science",
+   "title": "Suppressing Oxygen Evolution over Cu-Doped NiO for Efficient Electro-Upcycling of PET Plastics",
+   "link": "https://doi.org/10.1039/d6sc07398k",
+   "doi": "10.1039/d6sc07398k",
+   "date": "2026-10-26T07:04:41Z",
+   "abstract": "Electrochemical upcycling of polyethylene terephthalate (PET) into value-added chemicals offers a sustainable route for plastic waste valorization. However, at high current densities, the competing oxygen evolution reaction (OER) lowers Faradaic...",
+   "source": "crossref",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "JACS",
+   "title": "Aligned Self-Assembled Nanostructure by Chemical Force Trigger, Biased Migration, and Oscillatory Hydrogel Growth",
+   "link": "https://doi.org/10.1021/jacs.6c14057",
+   "doi": "10.1021/jacs.6c14057",
+   "date": "2026-10-26T16:02:09Z",
+   "abstract": "Abstract Cells generate pico-to-nanonewton forces through metabolic circuits and diffusion for downstream processes, including stress fiber assembly and cellular growth. The inherent complexities of the system’s processing, reactivity, and adaptability make it difficult to recapitulate in a synthetic setting. Herein, we compartmentalized the urease-urea feedback-controlled reaction network (FCRN), demonstrating global vs local function adaptability by coupling with peptide self-assembly. Compartmentalized FCRN (c-FCRN) facilitates chemical energy-to-mechanical energy conversion, creating forces on the piconewton scale, allowing nanofiber alignment, akin to what a cell does. The trade-off between multiple microscale interactions in the chemo-material network implies molecular-biased migration resembling chemotactic-like directed motion in synthetic settings, which promotes spatial self-assembly remodelling. Consequently, regulating the reaction-diffusion chemistry, we demonstrate oscillatory hydrogel growth by encasing the c-FCRN with a physical membrane barrier. Furthermore, c-FCRN provides a rudimentary structure-building system to create various complex hydrogel structures, bypassing the 3D printing tools. Thus, the chemo-material network provides proof-of-concept for biomimetic material development by emulating biologically inspired technologies.",
+   "source": "crossref",
+   "reactions": [
+    "Urea/C-N"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  }
+ ],
+ "feed_status": [
+  "Advanced Energy Materials: RSS 200, 181건",
+  "Small: RSS 200, 433건",
+  "Angewandte Chemie Int. Ed.: RSS 200, 234건",
+  "Advanced Materials: RSS 200, 504건",
+  "Advanced Functional Materials: RSS 200, 490건",
+  "Advanced Science: RSS 200, 480건",
+  "Chemical Science: RSS 실패",
+  "Chem. Soc. Rev.: RSS 실패",
+  "Energy Environ. Sci.: RSS 실패",
+  "Chem. Commun.: RSS 실패",
+  "EES Catalysis: RSS 실패",
+  "Science: RSS 200, 41건",
+  "Science Advances: RSS 200, 85건",
+  "Nature: RSS 200, 75건",
+  "Nature Communications: RSS 200, 8건",
+  "Nature Materials: RSS 200, 8건",
+  "Nature Nanotechnology: RSS 200, 8건",
+  "Nature Catalysis: RSS 200, 8건",
+  "Nature Energy: RSS 200, 8건",
+  "Nature Chemistry: RSS 200, 8건",
+  "Nature Synthesis: RSS 200, 8건",
+  "Nature Sustainability: RSS 200, 8건",
+  "JACS: RSS 403, 0건",
+  "ACS Catalysis: RSS 403, 0건",
+  "ACS Energy Letters: RSS 403, 0건",
+  "ACS Nano: RSS 403, 0건",
+  "Nano Letters: RSS 403, 0건",
+  "Joule: RSS 200, 77건",
+  "Chem: RSS 200, 75건",
+  "Chem Catalysis: RSS 200, 16건",
+  "Applied Catalysis B: Environ. Energy: RSS 200, 100건",
+  "Advanced Energy Materials: Crossref 200, 7건",
+  "Small: Crossref 200, 7건",
+  "Angewandte Chemie Int. Ed.: Crossref 200, 17건",
+  "Advanced Materials: Crossref 200, 22건",
+  "Advanced Functional Materials: Crossref 200, 37건",
+  "Advanced Science: Crossref 200, 33건",
+  "Chemical Science: Crossref 200, 5건",
+  "Chem. Soc. Rev.: Crossref 200, 2건",
+  "Energy Environ. Sci.: Crossref 200, 1건",
+  "Chem. Commun.: Crossref 200, 13건",
+  "EES Catalysis: Crossref 200, 0건",
+  "Science: Crossref 200, 0건",
+  "Science Advances: Crossref 200, 0건",
+  "Nature: Crossref 200, 10건",
+  "Nature Communications: Crossref 200, 74건",
+  "Nature Materials: Crossref 200, 0건",
+  "Nature Nanotechnology: Crossref 200, 0건",
+  "Nature Catalysis: Crossref 200, 0건",
+  "Nature Energy: Crossref 200, 0건",
+  "Nature Chemistry: Crossref 200, 1건",
+  "Nature Synthesis: Crossref 200, 0건",
+  "Nature Sustainability: Crossref 200, 0건",
+  "JACS: Crossref 200, 19건",
+  "ACS Catalysis: Crossref 200, 11건",
+  "ACS Energy Letters: Crossref 200, 7건",
+  "ACS Nano: Crossref 200, 15건",
+  "Nano Letters: Crossref 200, 9건",
+  "Joule: Crossref 200, 1건",
+  "Chem: Crossref 200, 0건",
+  "Chem Catalysis: Crossref 200, 0건",
+  "Applied Catalysis B: Environ. Energy: Crossref 200, 11건"
+ ]
+}
