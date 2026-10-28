@@ -1,0 +1,521 @@
+{
+ "run_date_kst": "2026-10-29",
+ "since": "2026-10-26",
+ "count": 29,
+ "papers": [
+  {
+   "journal": "Advanced Functional Materials",
+   "title": "High‐Loading Ag Single Atoms Anchored on MoS2 Nanosheet Aggregates Enable Synergistic Nitrate‐to‐Ammonia Electroconversion",
+   "link": "https://doi.org/10.1002/adfm.79368",
+   "doi": "10.1002/adfm.79368",
+   "date": "2026-10-28T06:44:30+00:00",
+   "abstract": "Advanced Functional Materials, EarlyView.",
+   "source": "rss",
+   "reactions": [
+    "NO3RR/NO2RR/NRR"
+   ],
+   "materials": [
+    "single-atom"
+   ],
+   "starred": true,
+   "date_unknown": false
+  },
+  {
+   "journal": "ACS Catalysis",
+   "title": "Simultaneous Stabilization of Copper Species and Regulation of the Cu+/Cu0 Balance on SiO2 for Selective Ethanol Dehydrogenation",
+   "link": "https://doi.org/10.1021/acscatal.6c06988",
+   "doi": "10.1021/acscatal.6c06988",
+   "date": "2026-10-28T09:01:37Z",
+   "abstract": "Abstract Selective ethanol dehydrogenation is a promising route for acetaldehyde production; however, achieving stable copper catalysts on inert supports with a well-balanced Cu+/Cu0 ratio remains challenging. Herein, we report a urea-assisted strategy to simultaneously stabilize copper species and regulate the Cu+/Cu0 balance on a silica support. The gradual release of ammonia promotes the formation of interfacial Cu–O–Si linkages and basic copper nitrate species, which serve as precursors for Cu+ and Cu0, respectively. The resulting catalyst exhibits highly dispersed copper species with a balanced Cu+/Cu0 distribution, delivering high activity, &gt;95% acetaldehyde selectivity, and stable performance in ethanol dehydrogenation. Mechanistic studies reveal that Cu+ sites facilitate ethanol activation, while Cu0 sites promote C–H bond cleavage. However, excessive Cu+ species lead to the formation of strongly adsorbed enolic intermediates, which trigger C–C coupling and byproduct formation. This work highlights the importance of Cu+/Cu0 synergy and provides a general strategy for designing stable and selective copper-based catalysts on inert supports.",
+   "source": "crossref",
+   "reactions": [
+    "NO3RR/NO2RR/NRR",
+    "Urea/C-N"
+   ],
+   "materials": [],
+   "starred": true,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Functional Materials",
+   "title": "Erbium‐Induced Interfacial Adsorption Regulation on Copper Enables Efficient Nitrite‐CO2 Coupling for Sustainable Electrochemical Urea Synthesis",
+   "link": "https://doi.org/10.1002/adfm.78500",
+   "doi": "10.1002/adfm.78500",
+   "date": "2026-10-27T11:53:43+00:00",
+   "abstract": "ABSTRACT Industrial wastewater rich in nitrite and anthropogenic CO 2 emissions are typically treated as separate waste streams, requiring energy‐intensive management. Here we report an electrochemical strategy that couples nitrite and carbon dioxide to synthesize urea, enabling simultaneous pollution mitigation and resource recovery. An erbium‐doped copper nanocatalyst is developed to promote selective C─N coupling, delivering a urea yield of 510.29 mg h −1 g cat −1 with a Faradaic efficiency of 34.04%. At the same time, higher removal rate of nitrite can be achieved and sustained performance over repeated cycles. The mechanism reveals that Er doping can adjust the adsorption behavior of intermediate substances at Cu interface, make the upward shift of the d‐band center of Cu, enhance the adsorption of *CO 2 and *NH 2 at the active site of Cu, reduce the energy barrier formed of the C─N coupling step *CO 2 NH 2 , and reduce the energy barrier of thermodynamically limiting step *COOHNH 2 formation, and promote the synthesis of urea. Beyond catalytic performance, the resulting electrolyte can be directly reused for irrigation, where it enhances early‐stage growth of crops, demonstrating a closed‐loop integration of carbon and nitrogen utilization. This work establishes a proof‐of‐concept for transforming coupled waste streams into value‐added chemicals while linking electrochemical conversion with agricultural application. The approach provides a scalable pathway toward circular carbon‐nitrogen management and sustainable environmental remediation.",
+   "source": "rss",
+   "reactions": [
+    "NO3RR/NO2RR/NRR",
+    "Urea/C-N"
+   ],
+   "materials": [],
+   "starred": true,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Materials",
+   "title": "Steering pH‐Dependent Pathways on Unconventional Phase Alloy Nanostructures for Universal Nitrate Electroreduction",
+   "link": "https://doi.org/10.1002/adma.74915",
+   "doi": "10.1002/adma.74915",
+   "date": "2026-10-27T11:30:00+00:00",
+   "abstract": "ABSTRACT Electrocatalytic nitrate reduction reaction (NO 3 RR) to ammonia has been regarded as a sustainable strategy for industrial wastewater denitrification and fertilizer manufacturing toward green nitrogen circulation. However, complex pH conditions of practical nitrate wastewater result in poor catalyst universality, severely hindering their long‐term deployment. Furthermore, the underlying reaction mechanisms in different pH scenarios remain ambiguous, obstructing the rational design of pH‐universal electrocatalysts. Here we propose a crystal phase engineering approach to enhance the NO 3 RR performance in complex pH scenarios. The as‐designed unconventional face‐centered cubic (fcc) RuW nanoflowers exhibit excellent ammonia Faradaic efficiency (FE) above 91.0% over a wide pH range of 1–14, with the largest yield rate of 40.1 mg h −1 mg cat −1 . Mechanism studies indicate that fcc RuW nanoflowers adaptively steer reaction pathways toward diverse pH environments. Based on the long‐term durability test at an industrial‐level current density of 300 mA cm −2 for 200 h in flow reactors, techno‐economic analysis with the optimized process further demonstrates promising application potential. This study not only provides a fundamental insight into the pH‐dependent mechanisms of nitrate electroreduction, but also offers a robust catalyst design approach toward complex practical conditions.",
+   "source": "rss",
+   "reactions": [
+    "NO3RR/NO2RR/NRR"
+   ],
+   "materials": [],
+   "starred": true,
+   "date_unknown": false
+  },
+  {
+   "journal": "Applied Catalysis B: Environ. Energy",
+   "title": "Pairing CO2 and Nitrate Electroreduction with Bromide-mediated Ethylene Functionalization for Ethanolamine Synthesis",
+   "link": "https://doi.org/10.1016/j.apcatb.2026.127705",
+   "doi": "10.1016/j.apcatb.2026.127705",
+   "date": "2026-10-28T20:03:53Z",
+   "abstract": "",
+   "source": "crossref",
+   "reactions": [
+    "NO3RR/NO2RR/NRR"
+   ],
+   "materials": [],
+   "starred": true,
+   "date_unknown": false
+  },
+  {
+   "journal": "Applied Catalysis B: Environ. Energy",
+   "title": "Understanding the Roles of Cu and ZnO in Electrochemical CO2-Nitrate Coupling toward C-N Product Formation",
+   "link": "https://doi.org/10.1016/j.apcatb.2026.127662",
+   "doi": "10.1016/j.apcatb.2026.127662",
+   "date": "2026-10-28T20:03:36Z",
+   "abstract": "",
+   "source": "crossref",
+   "reactions": [
+    "NO3RR/NO2RR/NRR"
+   ],
+   "materials": [],
+   "starred": true,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Materials",
+   "title": "Atom–Cluster Synergy in Scalable Fe–Ru Dual‐Site Architectures Accelerates Alkaline Hydrogen Evolution",
+   "link": "https://doi.org/10.1002/adma.74980",
+   "doi": "10.1002/adma.74980",
+   "date": "2026-10-27T11:30:00+00:00",
+   "abstract": "ABSTRACT Sluggish initial water dissociation (the Volmer step) severely limits alkaline water electrolysis. We report a highly scalable mechanochemical strategy to construct a dual‐site electrocatalyst, Ru NC @Fe 1 NC, that spatially decouples water activation and hydrogen recombination. Harnessing the high‐energy impact of iron media and graphite, a solvent‐free mechanochemical process generates a defective carbon matrix anchoring isolated, oxophilic Fe single atoms (Fe 1 ), followed by the targeted deposition of ruthenium nanoclusters (Ru NC ). This atomic‐level division of catalytic labor fundamentally accelerates the alkaline hydrogen evolution reaction. Ru NC @Fe 1 NC requires an overpotential of only 13.8 mV at 10 mA cm −2 with an ultralow Ru loading (∼2 wt%). In a practical anion exchange membrane water electrolyzer (AEMWE), this catalyst drives a current density of 1.0 A cm −2 at merely 1.66 V and sustains over 1100 h of continuous operation with negligible decay. Mechanistic studies—combining isotopic substitution, in situ Raman spectroscopy, time‐resolved hydrogen accumulation–stripping analysis, and density functional theory—reveal that the Fe 1 sites readily adsorb water and selectively lower the O–H cleavage barrier, rapidly feeding hydrogen intermediates to the adjacent Ru NC for efficient hydrogen desorption. This work establishes a robust blueprint for designing synergistic dual‐site architectures to circumvent kinetic bottlenecks in green hydrogen production.",
+   "source": "rss",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [
+    "single-atom"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Materials",
+   "title": "Solar‐Driven Spin‐State Optimization in Co‐Based Catalysts for Enhanced Photothermal Ammonia Synthesis",
+   "link": "https://doi.org/10.1002/adma.74612",
+   "doi": "10.1002/adma.74612",
+   "date": "2026-10-27T11:30:00+00:00",
+   "abstract": "ABSTRACT Spin‐state engineering of active sites represents a key strategy for boosting catalytic performance, as demonstrated in thermal ammonia synthesis. However, conventional promoter‐mediated ground‐state spin modulation is inherently limited by the electronic structure of the catalyst, imposing a ceiling on achievable spin tuning efficacy and hindering further advances. In this work, we developed a series of cobalt (Co) nanoparticle‐based catalysts for photothermal ammonia synthesis. By introducing Ru single atom into the Co nanoparticles, along with the addition of barium as a promoter, spin‐state engineering of Co nanoparticles was optimized under light irradiation, boosting the production rate by 3 times compared to thermal catalytic conditions. In‐situ characterization studies revealed that the hot electrons accumulate on the catalyst surface and shift the Co active sites toward a lower‐spin configuration. Supported by density functional theory (DFT) calculations, we demonstrate that this light‐induced spin state change modulates the electronic interaction between Co and N 2 , weakening the N≡N bond and lowering its dissociation energy barrier, thereby facilitating N 2 activation. This work demonstrates that spin regulation in Co‐based catalysts is an innovative design principle for developing more efficient photothermal catalysts for ammonia synthesis and other applications.",
+   "source": "rss",
+   "reactions": [
+    "NO3RR/NO2RR/NRR"
+   ],
+   "materials": [
+    "single-atom"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Materials",
+   "title": "Intermetallic Anodes Unlock Bulk Aluminum Incorporation in Aqueous Batteries",
+   "link": "https://doi.org/10.1002/adma.75501",
+   "doi": "10.1002/adma.75501",
+   "date": "2026-10-28T08:10:31Z",
+   "abstract": "ABSTRACT Aqueous aluminum‐based batteries are attractive for safe and sustainable energy storage, but their development is limited by shallow Al utilization, surface passivation, hydrogen evolution, and sluggish anode kinetics. Here, we report an intermetallic‐anode strategy that unlocks bulk Al incorporation through electrochemically driven Ni–Al alloying. Guided by alloying thermodynamics, Ni is identified as an effective Al host, and a high‐surface‐area Ni powder anode is constructed to make bulk alloying kinetically accessible beyond surface‐limited deposition. The resulting Al‐alloying Ni powder anode markedly reduces charge‐transfer resistance and anode polarization, enabling stable symmetric‐cell operation and long‐duration full‐cell cycling with a potassium nickel hexacyanoferrate cathode in a low‐cost sulfate electrolyte, retaining 98.6% capacity after 6000 h at 0.1 mA cm −2 . When combined with electrolyte engineering, the full cell achieves 4000 cycles at 3 mA cm −2 with 76.6% capacity retention, while a pouch cell with 4 cm × 5 cm electrodes maintains 72.6% retention after 150 cycles. Mechanistic analyses and density functional theory calculations reveal a Ni‐assisted pathway that promotes uniform Al‐containing deposition and improves the energetics of Al incorporation without intrinsically promoting hydrogen evolution. This work establishes intermetallic anodes as an active platform for bulk Al storage in practical aqueous batteries.",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [
+    "intermetallic"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "JACS",
+   "title": "Deciphering the Role of Au in CO Reduction on Cu: From Atomic Sites to a Stabilized Proton-Transfer Interface",
+   "link": "https://doi.org/10.1021/jacs.6c09406",
+   "doi": "10.1021/jacs.6c09406",
+   "date": "2026-10-28T08:01:47Z",
+   "abstract": "Abstract Incorporating gold (Au) into copper (Cu)-based electrocatalysts effectively enhances the conversion of CO into multicarbon products, yet the fundamental role of Au remains elusive due to limited mechanistic insight. Using a Au-doped basic copper chloride as a platform precatalyst, we demonstrate that the in situ formation of stable Cu3Au intermetallics during operation substantially alters the CO electroreduction pathway. Using multispectroscopic analyses combined with theoretical calculations, we find that the in situ-formed Cu3Au structure likely plays a synergistic role by (i) optimizing *CO adsorption and surface coverage to promote C–C coupling and (ii) restructuring the interfacial water network to strengthen hydrogen bonding, thereby shifting the dominant proton-transfer pathway from a Langmuir–Hinshelwood mechanism to an Eley–Rideal mechanism. This reconfiguration suppresses the hydrogen evolution reaction and adsorbed hydrogen-mediated pathways while promoting direct proton donation from interfacial water for the formation of acetate. Consequently, the optimized catalyst achieves an acetate Faradaic efficiency of 80.3% at −1.05 V versus the reversible hydrogen electrode with a partial current density of −492.7 mA cm–2. These findings underscore how adaptive electrochemical reconstruction can design active sites and modulate interfacial proton-transfer dynamics to steer CO valorization toward targeted products.",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [
+    "intermetallic"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "ACS Catalysis",
+   "title": "Electrolyte Cation Engineering Selectively Regulates Competing Urea Oxidation Pathways",
+   "link": "https://doi.org/10.1021/acscatal.6c06674",
+   "doi": "10.1021/acscatal.6c06674",
+   "date": "2026-10-28T20:01:51Z",
+   "abstract": "Abstract The electrochemical urea oxidation reaction (UOR) has emerged as an attractive anodic reaction for various energy conversion systems. Recently, increasing attention has been directed toward controlling UOR selectivity on Ni-based electrocatalysts following the recognition that the UOR can produce over-oxidized products. However, existing studies have focused predominantly on catalyst design to regulate surface-bound intermediates, whereas whether electrolyte-mediated noncovalent interactions can selectively control competing UOR pathways remains poorly understood. Here, we show that rational electrolyte engineering using alkali-metal cations selectively regulates the UOR pathway by modulating the interfacial hydrogen-bonding network. Electrochemical rate deconvolution and product analysis reveal that weakly hydrated cations selectively accelerate the direct oxidation pathway, promoting the formation of the over-oxidized NO2– and NCO– products, while leaving the indirect pathway essentially unaffected. In situ attenuated total reflectance surface-enhanced infrared absorption spectroscopy (ATR-SEIRAS) measurements, together with molecular dynamics simulations of cation hydration dynamics, indicate that weakly hydrated cations create a more dynamic interfacial water environment with faster water exchange, thereby facilitating interfacial OH–-mediated successive dehydrogenation during direct urea oxidation. Leveraging this mechanistic understanding, the electrolyte-engineering strategy was applied to a cascade urea-to-ammonia conversion system, achieving a urea-to-ammonia conversion efficiency of 77.5% and approximately threefold higher ammonia productivity in CsOH than in LiOH. These findings establish electrolyte engineering as a complementary strategy to catalyst design and highlight noncovalent electrolyte–electrode interactions as an effective handle for controlling reaction pathways and product selectivity in an integrated UOR-based nitrogen conversion system.",
+   "source": "crossref",
+   "reactions": [
+    "Urea/C-N"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "ACS Catalysis",
+   "title": "Hydrogen-Ion-Mediated Ni/Ni(OH)2 Dual Sites to Synergistically Accelerate *OH/Organics Adsorption for Highly Efficient Electrochemical 5-Amino-1 H -tetrazole Electrooxidation within a Wide Potential Range",
+   "link": "https://doi.org/10.1021/acscatal.6c06258",
+   "doi": "10.1021/acscatal.6c06258",
+   "date": "2026-10-28T18:01:48Z",
+   "abstract": "Abstract Nitrogen-rich azo-tetrazole compounds are essential structural scaffolds for energetic materials, dyes, and agrochemicals, owing to their favorable energetic and physicochemical properties. Potassium 5,5′-azotetrazolate (PZT), as a representative and efficient nitrogen-rich azo-tetrazole material, is conventionally synthesized via thermochemical oxidative coupling, which suffers from safety hazards and environmental pollution. Electrochemical synthesis offers a compelling alternative, but the severe competitive oxygen evolution reaction (OER) impedes achieving highly-efficient N–N coupling activity and Faradaic efficiency (FE). Herein, a core–shell CF@CuO@Ni/Ni(OH)2 electrode is fabricated through controlled H+-mediated electrodeposition. The CF@CuO core provides a three-dimensional (3D) conductive scaffold and suppresses the competing OER, while the Ni0/Ni(OH)2 shell undergoes electrochemical reconstruction into coexisting NiO/NiOOH working phases. The catalyst reaches 10 mA·cm–2 at 1.16 V vs RHE and maintains a Faradaic efficiency above 94% over a broad potential range of 1.2–1.6 V. Combined electrochemical, spectroscopic, kinetic, and computational analyses prove that surface-adsorbed *OH initiates 5-AT dehydrogenative coupling via a PCET pathway on the reconstructed NiO/NiOOH surface. NiO triggers synergistic *OH/5-AT adsorption, while NiOOH facilitates dehydrogenation. In a continuous-flow AEM electrolyzer, the system operates at 500 mA cm–2 over 300 h while sustaining PZT production (purity ≥99%) and H2 evolution. Extension to DAT and DAF further demonstrates the transferability of the catalyst toward related amino-functionalized N-heterocycles undergoing oxidative N–N coupling. This work establishes that reconstructed NiO/NiOOH dual sites, supported on an OER-suppressing CuO scaffold, enable selective and energy-efficient N–N oxidative coupling of amino heterocycles.",
+   "source": "crossref",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "ACS Energy Letters",
+   "title": "A 2.2 V Aqueous Redox Flow Battery Enabled by Passive pH Decoupling",
+   "link": "https://doi.org/10.1021/acsenergylett.6c02731",
+   "doi": "10.1021/acsenergylett.6c02731",
+   "date": "2026-10-28T20:02:03Z",
+   "abstract": "Abstract Aqueous redox flow batteries (ARFBs) comprising earth-abundant charge carriers could cheaply store grid-scale renewable electricity, but most lab-scale systems have a low open-circuit potential (OCP) that inflates system cost. We report a non-hybrid aqueous flow cell with an OCP of 2.2 V, among the highest reported for this class, pairing an alkaline chromium-1,3-propylenediaminetetraacetate negolyte with an acidic bromide posolyte. The two electrolytes maintain an approximately seven-unit pH gradient across a single cation-exchange membrane, without external oxygen or a bipolar-membrane recovery sub-cell: operando pH measurements and a zero-dimensional model show that the difference is sustained passively by balancing slow proton crossover against hydrogen evolution and positive-side acid generation. The cell cycles for 240 h with a Coulombic efficiency of up to 99.5%; tuning the posolyte additive, electrode, and membrane raises the peak power density to 534 mW cm–2 at 43 °C.",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Energy Materials",
+   "title": "Dynamic Hydrogen‑Bond Network Accelerates Lattice Oxygen Regeneration for High‑Current‑Density Seawater Electrolysis",
+   "link": "https://doi.org/10.1002/aenm.71706",
+   "doi": "10.1002/aenm.71706",
+   "date": "2026-10-28T13:24:51Z",
+   "abstract": "ABSTRACT Seawater electrolysis for green H 2 production is hindered by the sluggish oxygen evolution reaction (OER) and chloride corrosion at the anode. Although the lattice oxygen mechanism (LOM) can effectively reduce the overpotential, the sluggish mass transport of OH − at high current densities disrupts the oxygen release–regeneration balance, ultimately leading to a trade‐off between activity and stability. Here, we demonstrate that yttrium (Y) and carboxylate co‐doping reconstruct the interfacial hydrogen‐bonding network of NiFe oxyhydroxide, dynamically accelerating OH − delivery and enabling rapid regeneration of lattice oxygen. This catalyst maintains a high LOM contribution (51.7%–54%) while achieving exceptional durability and Cl − resistance. In situ Raman, differential electrochemical mass spectrometry (DEMS), and rotating ring‐disk electrode (RRDE) analyses confirm rapid peroxide intermediate formation, lattice oxygen participation, and negligible chlorine evolution. The anion‐exchange membrane (AEM) electrolyzer delivers 1000 mA cm −2 at 1.79 V and operates stably for 800 h in alkaline seawater. This work establishes interfacial hydrogen‐bonding engineering as a generalizable strategy to break the activity–stability trade‐off for robust seawater electrolysis.",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR",
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Functional Materials",
+   "title": "APTES‐Mediated Ti‐Squarate MOF/ n ‐GaN Nanowire Photoanodes for Efficient Photoelectrochemical Water Splitting",
+   "link": "https://doi.org/10.1002/adfm.79012",
+   "doi": "10.1002/adfm.79012",
+   "date": "2026-10-28T12:14:37Z",
+   "abstract": "ABSTRACT While solar‐driven photoelectrochemical (PEC) water splitting offers a promising route for sustainable hydrogen production, sluggish interfacial charge transfer and long‐term instability remain critical bottlenecks. To address these limitations, a chemically integrated Ti‐squarate metal–organic framework (IEF‐11)/ n ‐GaN nanowire (NW) hybrid photoanode is designed via a (3‐aminopropyl) triethoxysilane (APTES) interlayer for efficient PEC water splitting. Density functional theory (DFT) calculations support energetically favorable interfacial bonding and the associated charge redistribution across the APTES‐mediated interface, highlighting the dual role of APTES in chemical anchoring and interfacial electronic modulation. This interfacial modification is accompanied by a reduced work function and a cathodic shift in the apparent flat‐band potential. Consequently, the hybrid photoanode demonstrates accelerated charge‐transfer kinetics, featuring reduced charge‐transfer resistance and a 10.4‐fold enhancement in applied‐bias photon‐to‐current efficiency (ABPE) compared to pristine NWs. Furthermore, this chemical anchoring supports the retention of principal structural and chemical features after 100 h of continuous operation, thereby promoting durable solar‐driven hydrogen production.",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Functional Materials",
+   "title": "Aging‐ and Moisture‐Resistant Pectin‐Based Aerogels: A Breakthrough in Bio‐Based Thermal Superinsulation",
+   "link": "https://doi.org/10.1002/adfm.79038",
+   "doi": "10.1002/adfm.79038",
+   "date": "2026-10-28T06:15:46Z",
+   "abstract": "ABSTRACT Bio‐based aerogels are a compelling class of sustainable materials, with some of them distinguished by their exceptional thermal superinsulating performance, i.e. conductivity lower than that of air. However, their practical use is limited by poor stability in humid environment. Pectin/polyurea aerogels were developed to address this issue. Pectin was combined with polyurea precursors to explore how polyurea chemistry affects thermal performance at 25°C and high relative humidity (RH). ATR‐FTIR and NMR analyses confirmed the formation of a conformal polyurea network coating pectin nanofibrils. All aerogels displayed high specific surface areas (350–520 m 2 g −1 ) and exceptionally low thermal conductivity, 0.015–0.018 W m −1 K −1 . Among the formulations tested, the aerogel based on pectin/rigid aliphatic polyurea network demonstrated superior performance, maintaining a stable thermal conductivity of 0.015 W m −1 K −1 in 80% RH for nearly 300 days (duration of test). In addition to thermal superinsulation, this optimized formulation showed high mechanical strength, good flame retardancy, and effective acoustic reflectivity. This is the first report on biopolymer‐based aerogels retaining long‐lasting thermal superinsulating properties under extended humid exposure, with their performance matching that of the best silica aerogels. Pectin/polyurea aerogels possess strong potential as multifunctional and sustainable insulation materials.",
+   "source": "crossref",
+   "reactions": [
+    "Urea/C-N"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Materials",
+   "title": "Lattice Strain and Built‐In Field Synergistically Boost Urea Oxidation via Dynamic NiOOH Mediation at Multiphase Heterointerfaces",
+   "link": "https://doi.org/10.1002/adma.74790",
+   "doi": "10.1002/adma.74790",
+   "date": "2026-10-27T11:30:00+00:00",
+   "abstract": "ABSTRACT The practical application of nickel‐based heterojunction electrocatalysts for the urea oxidation reaction (UOR) is impeded by insufficient active sites and sluggish multi‐step reaction kinetics. Herein, a sulfur‐doped lignin‐derived carbon encapsulated Ni‐NiO‐MoO 2 micro‐nano array (Ni‐NiO‐MoO 2 @SC) is fabricated to tackle these issues. Experimental and theoretical results demonstrate that the multiphase heterointerfaces spontaneously generate a built‐in electric field due to the distinct work function and electronic structure of each component, and simultaneously induce lattice strain, which synergistically optimizes the electronic structure and accelerates the dynamic formation of active NiOOH species. In‐situ electrochemical characterizations and density functional theory calculations further confirm that the engineered interface promotes urea adsorption, facilitates N─N coupling and C─N bond cleavage, expedites *COOH intermediate desorption, and avoids excessive accumulation of NiOOH. Consequently, Ni‐NiO‐MoO 2 @SC delivers superior UOR activity with low potentials of 1.34/1.40 V at 10/500 mA cm −2 , respectively. Moreover, the sulfur‐doped carbon encapsulation and micro‐nano array architecture endow the catalyst with excellent corrosion resistance and mass transport capability, realizing long‐term stability (500 mA cm −2 at 1.53 V for 500 h) in membrane electrode assemblies. This work provides a versatile interface engineering and encapsulation strategy for high‐performance nickel‐based electrocatalysts toward urea electrolysis and beyond.",
+   "source": "rss",
+   "reactions": [
+    "Urea/C-N"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Materials",
+   "title": "Functional Complementation of Sn/La Diatomic Sites Over V2O5 Cathodes Resolves the Capacity–Stability Trade‐Off of Aqueous Potassium Ion Battery",
+   "link": "https://doi.org/10.1002/adma.74719",
+   "doi": "10.1002/adma.74719",
+   "date": "2026-10-27T11:30:00+00:00",
+   "abstract": "ABSTRACT The intrinsic trade‐off between high specific capacity and structural stability severely limits the development of high‐capacity K + cathodes. Herein, we address this limitation through a strategic pairing of f / p ‐block elements for constructing isolated heteronuclear diatomic sites (La/Sn) on carbon substrate. This pairing drives the reconstruction of V 2 O 5 into hydrated layered phase, forming a dual‐function interface where La acts as a structural anchor and Sn as a kinetics promoter. The strongly Lewis acidic La center stabilizes the host framework by suppressing vanadium dissolution, whereas Sn, with energetically accessible p ‐orbitals, facilitates interfacial charge transfer. The resulting interface couples K + intercalation with interfacial proton storage, forming a highly reversible hybrid reaction pathway that reconciles capacity and stability. As a result, C/Sn/La‐V 2 O 5 electrode achieves a high specific capacity of 350 mAh g −1 , exceptional rate capability, and outstanding cycling stability (95.5% retention after 10 000 cycles). Operando spectroscopic analyses support the existence of this dual‐ion coupling pathway governs the reversible charge‐storage process, with the exceptional electrochemical performance originating from the functional complementarity of the Sn/La dual‐atomic sites. This work establishes f / p ‐block element pairing as a promising design strategy for engineering atomic interfaces that integrate complementary charge‐storage mechanisms, with preliminary generality supported by additional element pairs.",
+   "source": "rss",
+   "reactions": [],
+   "materials": [
+    "dual-atom"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Materials",
+   "title": "Electron‐Extracting Pd Single Atoms Arrest Solar Photooxidative Upcycling of Waste Polyesters at Glycolaldehyde",
+   "link": "https://doi.org/10.1002/adma.74917",
+   "doi": "10.1002/adma.74917",
+   "date": "2026-10-27T11:30:00+00:00",
+   "abstract": "ABSTRACT Selective solar oxidation of ethylene glycol (EG) derived from waste poly(ethylene terephthalate) (PET) to glycolaldehyde (GAld) is hindered by the high reactivity of the aldehyde intermediate, which readily undergoes overoxidation and C─C cleavage. Here, we report an exfoliated polymeric carbon nitride (PCN) photocatalyst with atomically dispersed Pd sites (Pd SA /PCN) that arrests EG photooxidation at the C 2 aldehyde stage. In PET hydrolysate, optimized Pd SA /PCN achieves a GAld formation rate of 2479 µmol g cat −1 h −1 with 92.8% selectivity; in gram‐scale upgrading of real PET waste, the selectivity reaches 95.9%. Mechanistic studies suggest that Pd single atoms function as electron‐extraction centers, removing electrons from long‐lived, low‐energy localized states in PCN and increasing surface‐accessible holes for selective alcohol dehydrogenation. Meanwhile, Pd sites strengthen EG adsorption and lower the barrier for initial O─H activation, favouring alkoxy intermediates while limiting ·OH‐type overoxidation and C─C scission. The catalyst converts diverse real polyester wastes under fluctuating natural sunlight while maintaining >90% GAld selectivity. Coupled techno‐economic and geospatial analyses identify priority deployment regions with a median annual net profit of US$5.95 million, highlighting the potential of single‐atom materials for solar plastic upcycling to C 2 platform molecules.",
+   "source": "rss",
+   "reactions": [],
+   "materials": [
+    "single-atom"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Materials",
+   "title": "Atomic‐Scale CuTe/PdTe Intermetallic Heterointerface Enhances Electrochemical Glycerol Oxidation",
+   "link": "https://doi.org/10.1002/adma.74965",
+   "doi": "10.1002/adma.74965",
+   "date": "2026-10-27T11:30:00+00:00",
+   "abstract": "ABSTRACT Intermetallic materials have shown great potential for electrocatalytic molecular valorization, benefiting from their abundant intrinsic active sites. However, synthesizing intermetallic electrocatalysts with unique atomic‐scale interfacial structures remains a significant challenge. Herein, we report the synthesis of a previously unknown ternary intermetallic nanowire with exquisite atomic‐scale interfaces, achieved through optimal crystal facets mediated selective phase alloying. At the phase interface, the PdTe <100> {001} plane is parallel to the CuTe <0−11> {100} plane, achieving quasi‐epitaxial bonding. This orientation relationship demonstrates high structural coherence at the PdTe‐CuTe interface and minimizes interfacial strain. The novel structure is rich in interfacial active sites, facilitating the overcoming of the slow catalytic oxidation kinetics. The glycerol oxidation selectivity of the as‐prepared interface‐enriched catalysts is highly enhanced with an ultra‐high Faradaic efficiency of 96.5% toward formate at 1.425 V. In situ spectra and theoretical calculations demonstrate that the enriched Pd‐Cu‐Te ternary interfaces can optimize the adsorption configuration of glycerol, accelerating the subsequent O‐H cleavage of *COOHCOCH 2 OH and C–C cleavage. This approach paves the way to rationally designed intermetallic catalysts with modified interfaces for biomass electrooxidation.",
+   "source": "rss",
+   "reactions": [],
+   "materials": [
+    "intermetallic"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Materials",
+   "title": "Charge Confinement in an Ordered High‐Entropy Intermetallic Breaks the Activity‐Poisoning Trade‑Off for Glycolic Acid Electrosynthesis From Polyethylene Terephthalate",
+   "link": "https://doi.org/10.1002/adma.74877",
+   "doi": "10.1002/adma.74877",
+   "date": "2026-10-27T11:30:00+00:00",
+   "abstract": "ABSTRACT Selective electrooxidation of ethylene glycol (EG) from polyethylene terephthalate (PET) hydrolysate to glycolic acid (GA) offers a sustainable route for plastic upcycling but is hindered by insufficient activity at industrially relevant current densities and severe catalyst deactivation caused by poisoning intermediates. Here, we design a two‐dimensional ordered high‐entropy intermetallic, HEI (PdPtRh)(InBi)ene, based on a Pd 1 In 1 ‐type body‐centered‐cubic framework. The ordered lattice induces pronounced p‐ ‐ d hybridization and charge redistribution, giving rise to a charge‐confinement effect at the active sites. Operando infrared spectroscopy, CO stripping, and theoretical calculations reveal that this confined electronic environment precisely regulates the evolution of the key poisoning intermediate *COCH 2 OH, weakening its accumulation while preserving efficient EG activation. As a result, HEI (PdPtRh)(InBi)ene achieves a current density of 554.21 mA cm −2 at 0.9 V in PET hydrolysate (PETH). Furthermore, it maintains stable operation for 90 h in a flow cell at an industrially relevant current density of 200 mA cm −2 , delivering an average GA Faradaic efficiency of 99.22% and an average GA production rate of 1.85 mmol h −1 cm −2 . These findings demonstrate charge‐confinement engineering as an effective route to regulate poisoning‐intermediate behavior in electrocatalytic alcohol oxidation.",
+   "source": "rss",
+   "reactions": [],
+   "materials": [
+    "intermetallic"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Materials",
+   "title": "Copper Surface Engineering Enables Uniform Zn Plating in Zn Batteries at Unity N/P Ratio",
+   "link": "https://doi.org/10.1002/adma.75514",
+   "doi": "10.1002/adma.75514",
+   "date": "2026-10-28T06:21:36Z",
+   "abstract": "ABSTRACT Zinc (Zn) metal plating is notoriously sensitive to interfacial inefficiencies under Zn‐limited conditions, where small losses of active Zn rapidly lead to premature cell failure. Here, we demonstrate a surface reconstruction strategy for copper (Cu) current collectors that enables exceptional performance at a negative‐to‐positive (N/P) capacity ratio of 1.0. By chemically etching Cu to create a sacrificial cuprous chloride (γ‐CuCl) interface, we obtained a micro‐textured Cu substrate with increased electrochemical surface area (ECSA). Upon initial electrochemical reduction, γ‐CuCl converts to metallic Cu while releasing Cl − ions into the local interfacial region of the electrolyte. Density functional theory calculations indicate that localized Cl − ions favorably regulate Zn 2+ adsorption energy while suppressing the hydrogen evolution reaction. Benefitting from the synergistic combination of enhanced ECSA and dynamic Cl − mediated interfacial engineering, Zn//Cu cells achieve stable plating/stripping cycling for 1654 h (69 days). Notably, Zn//MnO 2 full cells using 3D‐printed etched Cu substrate assembled under a nominal N/P ratio of 1.0 (determined by a reversible capacity at 10 mA cm −2 ) deliver a remarkable device volumetric capacity of 53.5 mAh cm −3 . Under high‐rate cycling (80 mA cm −2 ), the cell retains 70% of initial capacity over 500 cycles. This performance represents a benchmark for Zn reversibility under extreme material‐limited conditions.",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Angewandte Chemie Int. Ed.",
+   "title": "Light‐Driven Surface Lattice Oxygen Activation in Oxygen Evolution",
+   "link": "https://doi.org/10.1002/anie.8082870",
+   "doi": "10.1002/anie.8082870",
+   "date": "2026-10-28T14:47:41Z",
+   "abstract": "ABSTRACT The oxygen evolution reaction (OER) remains a key bottleneck in sustainable hydrogen production and energy conversion. Conventional pathways such as the adsorbate evolution mechanism (AEM) and lattice oxygen oxidation mechanism (LOM) both suffer from electron‐transfer inefficiencies at their potential‐determining steps ( * OOH formation in AEM and deprotonation in LOM) and structural instability (metal oxidation in AEM and oxygen‐vacancy accumulation in LOM). As a result, a unified mechanism that simultaneously overcomes these kinetic limitations and structural degradation processes remains absent. Here, we present a light‐driven surface lattice oxygen activation mechanism (LSOM) that synergizes photoexcitation and electrocatalysis to activate surface lattice oxygen into high‐energy non‐bonding orbitals, enabling their direct participation in O─O bond formation. This strategy circumvents the potential‐determining steps inherent to both AEM and LOM, while preserving metal oxidation states and lattice structural integrity. Experimental validation confirms remarkable enhancements in electrocatalytic activity and stability, outperforming conventional OER systems. By unifying catalytic efficiency with structural durability, the LSOM redefines the design principles for OER and establishes a universal framework for robust energy conversion technologies.",
+   "source": "crossref",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Applied Catalysis B: Environ. Energy",
+   "title": "Descriptor-Guided Pd-Based High-Entropy Alloy Electrode For Flow-Through Reductive Destruction of PFAS",
+   "link": "https://doi.org/10.1016/j.apcatb.2026.127703",
+   "doi": "10.1016/j.apcatb.2026.127703",
+   "date": "2026-10-28T20:03:48Z",
+   "abstract": "",
+   "source": "crossref",
+   "reactions": [],
+   "materials": [
+    "high-entropy"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "EES Catalysis",
+   "title": "Double-layer-resolved full-field multiscale simulation unraveling impacts of bubbles on water electrolysis",
+   "link": "https://doi.org/10.1039/d6ey00288a",
+   "doi": "10.1039/d6ey00288a",
+   "date": "2026-10-28T14:45:51Z",
+   "abstract": "Gas bubbles are ubiquitous in water electrolysis, which alter electrochemical overpotentials and hence affect energy efficiency. Yet a fully quantitative understanding of the interplay between bubble evolution and electrochemical characteristics...",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "JACS",
+   "title": "Hierarchically Structured Anti-Perovskite Oxynitride-Hydride Enabling Ammonia Synthesis via a Cooperative Mechanism Mediated by (N2)− Ions",
+   "link": "https://doi.org/10.1021/jacs.6c06380",
+   "doi": "10.1021/jacs.6c06380",
+   "date": "2026-10-28T01:01:53Z",
+   "abstract": "Abstract Ba3AlO4-xNyHz with an antiperovskite structure is employed as a support for transition-metal catalysts for ammonia synthesis. This metastable material is synthesized by employing multiple anions with different valences and ionic radii. The optimized non-noble metal catalyst, Co(5.8 wt %)/Ba3AlO4-xNyHz/Al2O3, exhibits an exceptional ammonia synthesis rate of 15.9 mmol g–1 h–1 at 0.9 MPa and 300 °C, outperforming benchmark Cs–Ru/MgO, industrial Fe catalyst, and recently reported non-noble metal catalysts. Structural analyses show that Ba3AlO4-xNyHz and Co species self-organize on γ-Al2O3 nanorods to form a hierarchically structured catalyst. Combined experimental and density functional theory analyses reveal that the high activity originates from incorporated (N2)− ions at Co–Ba–Al interfacial sites, where the combination of Ba and Al plays distinct roles in N2 activation and NHx formation, respectively. These findings not only provide a strategy for stabilizing metastable crystal structures through the incorporation of diverse anionic species but also demonstrate a unique cooperative mechanism for efficient ammonia synthesis mediated by highly activated molecular (N2)− ions.",
+   "source": "crossref",
+   "reactions": [
+    "NO3RR/NO2RR/NRR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "JACS",
+   "title": "Continuity-Engineered Single-Atom Chains Regulate Interfacial Microenvironments for Valorized Alcohol Electrooxidation",
+   "link": "https://doi.org/10.1021/jacs.6c12432",
+   "doi": "10.1021/jacs.6c12432",
+   "date": "2026-10-28T05:01:43Z",
+   "abstract": "Abstract Catalytic selectivity is governed not only by active-site identity but also by the interfacial microenvironments surrounding those sites. Although single-atom chains bridge isolated atoms and extended surfaces, whether their atomic continuity can be exploited as a tunable design parameter for chemical synthesis remains unknown. Here we establish continuity engineering as a strategy for programming catalytic microenvironments through a substrate-anchored synthesis platform that enables precise control over one-dimensional single-atom chain architectures. Using ruthenium chains on α-MnO2 as a model system, we construct catalysts with graded continuity and uncover a volcano-type relationship between chain continuity and synthetic performance during benzyl alcohol electrooxidation. The continuity-optimized catalyst achieves &gt;90% Faradaic efficiency for benzaldehyde across a wide potential window in acidic media while sustaining current densities up to 400 mA cm–2. Mechanistic studies suggest that optimal continuity promotes cooperative water activation, generating a hydroxyl-rich interfacial microenvironment that accelerates alcohol dehydrogenation while suppressing overoxidation. The resulting aldehydes can be directly integrated into one-pot bond-forming (C–S/N coupling) transformations. More broadly, atomic continuity emerges as a design variable for programming catalytic microenvironments and controlling selective electrosynthesis.",
+   "source": "crossref",
+   "reactions": [],
+   "materials": [
+    "single-atom"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Small",
+   "title": "Interfacial Ni–O–Ru Coupling in Ultrafast Laser‐Shocked NiO/RuO2 Electrocatalyst for Energy‐Saving Urea‐Assisted Hydrogen Production",
+   "link": "https://doi.org/10.1002/smll.75656",
+   "doi": "10.1002/smll.75656",
+   "date": "2026-10-27T11:08:35+00:00",
+   "abstract": "ABSTRACT In this work, we report the rational design of an interfaced NiO/RuO 2 composite synthesized for the first time using an ultrafast CO 2 laser thermal shock approach. This process transforms Ru‐doped Ni(OH) 2 precursors into NiO/RuO 2 composites within 2 min under open‐atmosphere conditions, offering a promising route for fabricating metal oxide nanomaterials. Among the series, the NiO/RuO 2 ‐3 composite, prepared with an equimolar ratio of Ni and Ru precursors, exhibits exceptional dual‐functional electrocatalytic activity, requiring only 35 mV overpotential for the hydrogen evolution reaction (HER) and 1.38 V vs. the reversible hydrogen electrode for the urea oxidation reaction (UOR) at 10 mA·cm −2 . When integrated into urea‐assisted water splitting, the NiO/RuO 2 ‐3 composite achieves H 2 generation at a low cell voltage of 1.43 V at 10 mA·cm −2 , while showing remarkable stability over 100 h. In situ Raman spectroscopy reveals negligible surface reconstruction during the HER but distinct NiOOH formation during the UOR at the NiO/RuO 2 ‐3 interface. Meanwhile, density functional theory results corroborate that RuO 2 modulates the electronic structure of NiO, optimizes the adsorption energetics of key intermediates, and accelerates both HER and UOR activities. This study proves that a CO 2 laser‐induced NiO/RuO 2 composite is an efficient dual‐functional electrocatalyst for energy‐saving H 2 production with concurrent wastewater remediation.",
+   "source": "rss",
+   "reactions": [
+    "HER/HOR",
+    "Urea/C-N"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Small",
+   "title": "Isotypic γ–γ Integration of γ‐FeOOH on Electrochemically Reconstructed NiFeOOH Nanosheets: Unlocking Interfacial Synergy for Enhanced OER Catalysis and AEMWE Application",
+   "link": "https://doi.org/10.1002/smll.75337",
+   "doi": "10.1002/smll.75337",
+   "date": "2026-10-27T11:08:35+00:00",
+   "abstract": "ABSTRACT Anion exchange membrane water electrolysis (AEMWE) holds great promise for green hydrogen production, yet its widespread adoption is hindered by the inadequate activity and stability of non‐precious electrocatalysts under industrial conditions. Here, we report an isotypic γ–γ heterostructured NiFeOOH‐γ‐FeOOH catalyst grown on nickel foam (NiFeOOH‐γ‐FeOOH/NF) via a dual‐phase architecture strategy. The γ–phase NiFeOOH is pre‐constructed via an electrochemical treatment of NiFe layered double hydroxide, and subsequently the epitaxial‐like growth of γ‐FeOOH on its surface forms a coherent γ–γ heterointerface. This integration synergistically enables the modulation of the oxidation states and coordination environments of Fe and Ni, leading to the identification of the uncoordinated Fe and Ni sites with high oxidation states as the primary active sites. The optimized NiFeOOH‐γ‐FeOOH/NF electrode exhibits excellent oxygen evolution reaction performance, achieving a low overpotential of 208 mV at 10 mA cm −2 in 1 M KOH. Furthermore, the NiFeOOH‐γ‐FeOOH/NF assembled AEMWE device delivers an industrial‐level current density of 500 mA cm −2 at 1.85 V and 65°C, maintaining stable operation for over 360 h. This study offers novel insights into the stabilization and activity enhancement of NiFe‐based electrocatalysts, highlighting their potential to advance green hydrogen production under industrial‐level current densities.",
+   "source": "rss",
+   "reactions": [
+    "HER/HOR",
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  }
+ ],
+ "feed_status": [
+  "Advanced Energy Materials: RSS 200, 181건",
+  "Small: RSS 200, 516건",
+  "Angewandte Chemie Int. Ed.: RSS 200, 247건",
+  "Advanced Materials: RSS 200, 594건",
+  "Advanced Functional Materials: RSS 200, 570건",
+  "Advanced Science: RSS 200, 480건",
+  "Chemical Science: RSS 실패",
+  "Chem. Soc. Rev.: RSS 실패",
+  "Energy Environ. Sci.: RSS 실패",
+  "Chem. Commun.: RSS 실패",
+  "EES Catalysis: RSS 실패",
+  "Science: RSS 200, 41건",
+  "Science Advances: RSS 200, 39건",
+  "Nature: RSS 200, 75건",
+  "Nature Communications: RSS 200, 8건",
+  "Nature Materials: RSS 200, 8건",
+  "Nature Nanotechnology: RSS 200, 8건",
+  "Nature Catalysis: RSS 200, 8건",
+  "Nature Energy: RSS 200, 8건",
+  "Nature Chemistry: RSS 200, 8건",
+  "Nature Synthesis: RSS 200, 8건",
+  "Nature Sustainability: RSS 200, 8건",
+  "JACS: RSS 403, 0건",
+  "ACS Catalysis: RSS 403, 0건",
+  "ACS Energy Letters: RSS 403, 0건",
+  "ACS Nano: RSS 403, 0건",
+  "Nano Letters: RSS 403, 0건",
+  "Joule: RSS 200, 77건",
+  "Chem: RSS 200, 75건",
+  "Chem Catalysis: RSS 200, 18건",
+  "Applied Catalysis B: Environ. Energy: RSS 200, 100건",
+  "Advanced Energy Materials: Crossref 200, 23건",
+  "Small: Crossref 200, 52건",
+  "Angewandte Chemie Int. Ed.: Crossref 200, 45건",
+  "Advanced Materials: Crossref 200, 44건",
+  "Advanced Functional Materials: Crossref 200, 74건",
+  "Advanced Science: Crossref 200, 88건",
+  "Chemical Science: Crossref 200, 24건",
+  "Chem. Soc. Rev.: Crossref 200, 4건",
+  "Energy Environ. Sci.: Crossref 200, 8건",
+  "Chem. Commun.: Crossref 200, 40건",
+  "EES Catalysis: Crossref 200, 1건",
+  "Science: Crossref 200, 0건",
+  "Science Advances: Crossref 200, 39건",
+  "Nature: Crossref 200, 74건",
+  "Nature Communications: Crossref 200, 83건",
+  "Nature Materials: Crossref 200, 6건",
+  "Nature Nanotechnology: Crossref 200, 0건",
+  "Nature Catalysis: Crossref 200, 2건",
+  "Nature Energy: Crossref 200, 1건",
+  "Nature Chemistry: Crossref 200, 3건",
+  "Nature Synthesis: Crossref 200, 7건",
+  "Nature Sustainability: Crossref 200, 1건",
+  "JACS: Crossref 200, 44건",
+  "ACS Catalysis: Crossref 200, 19건",
+  "ACS Energy Letters: Crossref 200, 6건",
+  "ACS Nano: Crossref 200, 29건",
+  "Nano Letters: Crossref 200, 18건",
+  "Joule: Crossref 200, 1건",
+  "Chem: Crossref 200, 2건",
+  "Chem Catalysis: Crossref 200, 2건",
+  "Applied Catalysis B: Environ. Energy: Crossref 200, 18건"
+ ]
+}
