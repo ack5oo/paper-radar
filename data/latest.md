@@ -1,87 +1,105 @@
-# 2026-10-30 신규 논문 (41편, 2026-10-27 이후)
+# 2026-11-02 신규 논문 (50편, 2026-10-30 이후)
 
-- ★ **In Situ Reconstructed Cu–Bi Interfacial Sites Enable Cooperative CO2 and Nitrate Activation for Efficient Urea Electrosynthesis** — *Advanced Energy Materials* (2026-10-28)  
-  NO3RR/NO2RR/NRR/Urea/C-N ×  · https://doi.org/10.1002/aenm.71587 · 초록 있음
-- ★ **Electrochemical Reduction of Low‐Concentration Nitrate to Ammonia: Progress, Challenges, and Perspectives** — *Advanced Functional Materials* (2026-10-29)  
-  HER/HOR/NO3RR/NO2RR/NRR ×  · https://doi.org/10.1002/adfm.78425 · 초록 있음
-- ★ **Inner‐Sphere Nitrate Enables Highly Stable Aqueous NiOx Nanoparticle Inks and Promotes Phosphonic‐Acid SAM Anchoring for Efficient Inverted Perovskite Solar Cells** — *Advanced Functional Materials* (2026-10-29)  
-  NO3RR/NO2RR/NRR ×  · https://doi.org/10.1002/adfm.78502 · 초록 있음
-- ★ **Cyanide‐Driven Nitrite Trapping Enables Robustly‐Coupled Gel/Cathode Interfaces in Zinc‐Air Batteries** — *Advanced Functional Materials* (2026-10-29)  
-  NO3RR/NO2RR/NRR ×  · https://doi.org/10.1002/adfm.79376 · 초록 없음
-- ★ **Coordination-Dependent Palladium Catalysts for Efficient Nitrate Electroreduction to Ammonia** — *Applied Catalysis B: Environ. Energy* (2026-10-29)  
-  NO3RR/NO2RR/NRR ×  · https://doi.org/10.1016/j.apcatb.2026.127707 · 초록 없음
-- ★ **Surface oxygen modulation over Ag–Fe dual sites for efficient nitrate-to-ammonia electroreduction** — *Chem. Commun.* (2026-10-29)  
-  NO3RR/NO2RR/NRR ×  · https://doi.org/10.1039/d6cc05626a · 초록 없음
-- ★ **Amorphous Co 2 O 3 /Crystalline Cu Interface Enables Ultra‐Rapid Nitrite Conversion for Integrated Cascade Electroreduction of Nitrate to Ammonia** — *Small* (2026-10-29)  
-  NO3RR/NO2RR/NRR ×  · https://doi.org/10.1002/smll.76475 · 초록 있음
-- **Single-Atom-Mediated Two-Dimensional Heterointerface Stabilizing 1T-MoS2 for Durable Hydrogen Evolution** — *ACS Nano* (2026-10-29)  
-  HER/HOR × single-atom · https://doi.org/10.1021/acsnano.6c06825 · 초록 있음
-- **Cross‐Scale Orchestration of Sublayer Axially N‐Bridged Fe Single Atoms Within Diffusion‐Oriented Matrix for Efficient Oxygen Reduction** — *Advanced Energy Materials* (2026-10-28)  
-  ORR/OER × single-atom · https://doi.org/10.1002/aenm.71570 · 초록 있음
-- **A Universal Synthesis of PtPd‐Based High‐Entropy Sub‐Nanoribbons for Oxygen Reduction Electrocatalysis** — *Advanced Energy Materials* (2026-10-28)  
-  ORR/OER × high-entropy · https://doi.org/10.1002/aenm.71585 · 초록 있음
-- **Atomically dispersed tungsten activates and stabilizes terrace Mn-site in MnO2 for acidic oxygen evolution** — *Energy Environ. Sci.* (2026-10-29)  
-  ORR/OER × single-atom · https://doi.org/10.1039/d6ee06420e · 초록 있음
-- **Entropy–Enthalpy Compensation in Electrocatalytic Rates** — *ACS Catalysis* (2026-10-29)  
-  HER/HOR ×  · https://doi.org/10.1021/acscatal.6c05402 · 초록 있음
-- **Restructuring of Cobalt Telluride Electrocatalysts in the Oxygen Evolution Reaction** — *ACS Catalysis* (2026-10-29)  
-  ORR/OER ×  · https://doi.org/10.1021/acscatal.6c04492 · 초록 있음
-- **Sulfur-Induced Lattice Disordering in Halide Electrolytes Enables Superionic Sodium-Ion Conduction** — *ACS Nano* (2026-10-29)  
-   × intermetallic · https://doi.org/10.1021/acsnano.6c11189 · 초록 있음
-- **Beyond Oxygen Evolution: Anodic High‐Value Conversion for Energy‐Saving Hydrogen and Chemical Co‐Production** — *Advanced Energy Materials* (2026-10-28)  
-  HER/HOR/ORR/OER ×  · https://doi.org/10.1002/aenm.71592 · 초록 있음
-- **Rigid Symmetric Aromatic Dithiourea Passivation with Strong Intrinsic Dipole for 21.72%‐Efficient SnO2‐Based Inorganic Perovskite Solar Cells** — *Advanced Energy Materials* (2026-10-28)  
-  Urea/C-N ×  · https://doi.org/10.1002/aenm.71574 · 초록 있음
-- **Deep Neural Network‐Driven Development of Coking‐ and Sulfur‐Resistant Nanostructured NiGa Alloy‐Based Anodes for Solid Oxide Fuel Cells** — *Advanced Energy Materials* (2026-10-28)  
-  ORR/OER ×  · https://doi.org/10.1002/aenm.71569 · 초록 있음
-- **Structure‐Activity‐Stability Tradeoffs of Pt Cathodes in Alkaline Water Electrolysis** — *Advanced Functional Materials* (2026-10-29)  
-  HER/HOR ×  · https://doi.org/10.1002/adfm.78370 · 초록 있음
-- **Azulene‐Copolymerized Polybenzimidazole for High‐Performance Anion Exchange Membranes Water Electrolysis** — *Advanced Functional Materials* (2026-10-29)  
-  HER/HOR ×  · https://doi.org/10.1002/adfm.78550 · 초록 있음
-- **Piezoelectric‐Photocatalytic S‐Scheme Heterojunction in Na─Sm Co‐Doped CaBi2Nb2O9@Mn─Cu─Ni─MOF for Enhanced Hydrogen Generation From Water Splitting** — *Advanced Functional Materials* (2026-10-29)  
-  HER/HOR ×  · https://doi.org/10.1002/adfm.78469 · 초록 있음
-- **Synergistic catalysis of Zn Single Atoms and Co Clusters for Highly Selective CO2 Electroreduction to CO** — *Advanced Functional Materials* (2026-10-29)  
-   × single-atom · https://doi.org/10.1002/adfm.78529 · 초록 있음
-- **Hydroxyl Reservoir in Metal‐Bond‐Weakened PtFeSn Nanowires for Efficient Fuel Cell Catalysis** — *Advanced Functional Materials* (2026-10-29)  
-  ORR/OER ×  · https://doi.org/10.1002/adfm.79328 · 초록 없음
-- **Multi‐Site Contact Schottky Junctions with Improved Light Adsorption Enable Efficient Carrier Transport for Photoelectrocatalytic Water Oxidation** — *Advanced Functional Materials* (2026-10-29)  
-  HER/HOR ×  · https://doi.org/10.1002/adfm.79379 · 초록 있음
-- **Multi‐Heteroatom‐Doped Carbon Framework From Yeast Biomass Enabling Embedded Nickel Phosphide Nanoparticles With Selective Electrochemical Upgrading of 5‐Hydroxymethylfurfural** — *Advanced Functional Materials* (2026-10-29)  
-  ORR/OER ×  · https://doi.org/10.1002/adfm.79388 · 초록 있음
-- **Modulating Local Electronegativity in Covalent Organic Frameworks for Host–Guest Oxygen Reduction** — *Advanced Materials* (2026-10-29)  
-  ORR/OER ×  · https://doi.org/10.1002/adma.75544 · 초록 없음
-- **Nb 5+ ‐Induced‐CeO 2 Lattice Strain for Robust and Scalable Solar‐Driven Ammonia Synthesis** — *Advanced Materials* (2026-10-29)  
-  NO3RR/NO2RR/NRR ×  · https://doi.org/10.1002/adma.75565 · 초록 있음
-- **Beyond Isolated Active Sites: Adjacent Single‐Atom‐Nanoparticle Electronic Coupling Enables Lateral Lithium Growth** — *Advanced Materials* (2026-10-29)  
-   × single-atom · https://doi.org/10.1002/adma.75485 · 초록 있음
-- **Revealing the Nanoscale Morphology Changes of Polymer Electrolyte Membrane Fuel Cell Catalyst Layers due to Conditioning** — *Advanced Science* (2026-10-28)  
-  ORR/OER ×  · https://doi.org/10.1002/advs.77009 · 초록 있음
-- **Descriptor-guided Pd-based high-entropy alloy electrode for flow-through reductive destruction of PFAS** — *Applied Catalysis B: Environ. Energy* (2026-10-28)  
-   × high-entropy · https://doi.org/10.1016/j.apcatb.2026.127703 · 초록 없음
-- **Directing water-derived hydrogen migration over polarized Ru-Cu bimetallic nanoclusters on TiO 2 for efficient photocatalytic ammonia synthesis** — *Applied Catalysis B: Environ. Energy* (2026-10-27)  
-  NO3RR/NO2RR/NRR ×  · https://doi.org/10.1016/j.apcatb.2026.127696 · 초록 없음
-- **Integrating lattice oxygen activation and oxygen vacancy replenishment in ultrafine RuIrWO x nanocrystals boosts PEM water electrolysis** — *Applied Catalysis B: Environ. Energy* (2026-10-27)  
-  HER/HOR ×  · https://doi.org/10.1016/j.apcatb.2026.127695 · 초록 있음
-- **Ligand-assisted facile Co 2+ /Co 3+ conversion in metal–hydroxide framework promotes electrochemical benzyl alcohol oxidation at Ampere-scale current density** — *Chemical Science* (2026-10-29)  
-  ORR/OER ×  · https://doi.org/10.1039/d6sc06869c · 초록 있음
-- **Operando Surface Dynamics Govern the pH-Universal Activity and Stability of Cobalt Phosphide for Hydrogen Evolution** — *JACS* (2026-10-29)  
-  HER/HOR ×  · https://doi.org/10.1021/jacs.6c17411 · 초록 있음
-- **Regime-Switching Control of C–N Bond Evolution in Electrochemical Methylamine Oxidation** — *JACS* (2026-10-29)  
-  Urea/C-N ×  · https://doi.org/10.1021/jacs.6c19531 · 초록 있음
-- **Tribovoltaic Effect-Driven Contact-Electro-Catalysis at a MoS2–Water Interface** — *JACS* (2026-10-29)  
-  ORR/OER ×  · https://doi.org/10.1021/jacs.6c17833 · 초록 있음
-- **Band-Engineering W18O49 with Cu Single Atoms Enables Efficient Photo-Induction of Oxygen Radicals for Highly Sensitive Room-Temperature NO2 Detection** — *Nano Letters* (2026-10-29)  
-   × single-atom · https://doi.org/10.1021/acs.nanolett.6c04218 · 초록 있음
-- **Mesoporosity Regulates Microbubble Emergence and Interfacial Bubble Accumulation during Electrocatalytic Hydrogen Evolution** — *Nano Letters* (2026-10-29)  
-  HER/HOR ×  · https://doi.org/10.1021/acs.nanolett.6c04380 · 초록 있음
-- **Translating sulfur flow batteries into deployable systems** — *Nature Energy* (2026-10-29)  
-  HER/HOR ×  · https://doi.org/10.1038/s41560-026-02152-0 · 초록 있음
-- **Free-standing two-dimensional metal oxides at the single-atomic-layer limit** — *Nature Materials* (2026-10-29)  
-   × single-atom · https://doi.org/10.1038/s41563-026-02793-2 · 초록 있음
-- **Built‐in Electric Field Tailored Co‐VN@V 2 O 3 Heterointerface for Hydrazine Oxidation‐Assisted Energy‐Saving Hydrogen Production** — *Small* (2026-10-29)  
-  HER/HOR/ORR/OER ×  · https://doi.org/10.1002/smll.76524 · 초록 있음
-- **Designable Nanozymes for Site‐Selective Amide/Ester Hydrolysis** — *Small* (2026-10-29)  
-  Urea/C-N ×  · https://doi.org/10.1002/smll.76522 · 초록 있음
+- ★ **Anti‐Dissolution Tungsten Alloying Stabilizes Highly Active Platinum for Industrial‐Grade Hydrogen Evolution** — *Small* (2026-10-31)  
+  HER/HOR × intermetallic · https://doi.org/10.1002/smll.76511 · 초록 있음
+- ★ **Solar-Driven Ammonia Production via Acidic Nitrate Reduction Coupled with Glucose Oxidation on a GeSe Photocathode** — *ACS Catalysis* (2026-10-30)  
+  HER/HOR/NO3RR/NO2RR/NRR ×  · https://doi.org/10.1021/acscatal.6c07802 · 초록 있음
+- ★ **A Cationic Redox‐Active Interface Couples Nitrate Enrichment With Hydroxylamine Release for Cyclohexanone Oxime Electrosynthesis** — *Advanced Functional Materials* (2026-10-30)  
+  NO3RR/NO2RR/NRR ×  · https://doi.org/10.1002/adfm.79387 · 초록 있음
+- ★ **Overcoming the *H‐NOx Coupling Bottleneck via Palladium‐Enabled Relay Catalysis on CuCo2O4 Toward Ampere‐Level Nitrate‐to‐Ammonia** — *Advanced Science* (2026-10-30)  
+  NO3RR/NO2RR/NRR ×  · https://doi.org/10.1002/advs.78576 · 초록 있음
+- ★ **Photocatalytically Generated Nitrate Radicals Drive Decomposition of Perfluorooctanoic Acid** — *Angewandte Chemie Int. Ed.* (2026-10-31)  
+  NO3RR/NO2RR/NRR ×  · https://doi.org/10.1002/anie.4598413 · 초록 있음
+- ★ **Synergistic Phase and Dopant Engineering of TiO2 Enables Broad-pH Electrochemical Nitrate Reduction to Ammonia** — *Chem. Commun.* (2026-10-31)  
+  NO3RR/NO2RR/NRR ×  · https://doi.org/10.1039/d6cc05978c · 초록 있음
+- **External Field Driven Oxygen Reduction Reaction: From Catalytic Chemistry, Mechanistic Characterization to Device Applications** — *Advanced Functional Materials* (2026-10-31)  
+  ORR/OER × single-atom · https://doi.org/10.1002/adfm.79305 · 초록 있음
+- **Dual Regulation of Electronic Structure and Hydrogen Distribution through Co Single-Atom-Functionalized Supports for Efficient Ru-Catalyzed Ammonia Synthesis** — *JACS* (2026-10-30)  
+  NO3RR/NO2RR/NRR × single-atom · https://doi.org/10.1021/jacs.6c13655 · 초록 있음
+- **Enhanced neutral seawater photoelectrolysis by fast hydrogen pumping at subnanometre triple interfaces** — *Nature Synthesis* (2026-10-30)  
+  HER/HOR × single-atom · https://doi.org/10.1038/s44160-026-01179-1 · 초록 있음
+- **Single Atoms Induced Pt Nanoclusters Promoting Hydrogen Evolution Reaction Under Ampere‐Level Current Density** — *Small* (2026-10-31)  
+  HER/HOR × single-atom · https://doi.org/10.1002/smll.76551 · 초록 있음
+- **Unveiling Dynamic Active‐Site Switching of NiFe Dual‐Atom Electrocatalysts With Axial Halogen Coordination for Enhanced Oxygen Evolution** — *Small* (2026-10-31)  
+  ORR/OER × single-atom · https://doi.org/10.1002/smll.76065 · 초록 있음
+- **Structure-Sensitive Organic Functionalization on Pt and Its Impact on Oxygen Reduction Kinetics** — *ACS Catalysis* (2026-10-30)  
+  ORR/OER ×  · https://doi.org/10.1021/acscatal.6c06134 · 초록 있음
+- **Electronic Modulation-Driven Dual Self-Reconstruction of a Nickel–Molybdenum Oxide Catalyst for Durable and Highly Efficient Anion-Exchange-Membrane Water Electrolysis** — *ACS Catalysis* (2026-10-30)  
+  HER/HOR/ORR/OER ×  · https://doi.org/10.1021/acscatal.6c06193 · 초록 있음
+- **Subnanometer Ni@Fe Catalysts Enable High-Performance and Stable Oxygen Evolution of WO3 Photoanodes** — *ACS Catalysis* (2026-11-01)  
+  HER/HOR/ORR/OER ×  · https://doi.org/10.1021/acscatal.6c05991 · 초록 있음
+- **Sub-nanofluidic Photochemical Membrane with Catalytically Active Channels for Solar Ammonia Synthesis** — *ACS Catalysis* (2026-11-01)  
+  NO3RR/NO2RR/NRR ×  · https://doi.org/10.1021/acscatal.6c04964 · 초록 있음
+- **Constructing Electron Transfer Bridge between Organometal Halide Perovskites and Noble Metal Cocatalyst for Enhanced Photocatalytic Hydrogen Production** — *ACS Catalysis* (2026-10-30)  
+  HER/HOR ×  · https://doi.org/10.1021/acscatal.6c05562 · 초록 있음
+- **Gradient Engineered Microporous Layers for Enhanced Oxygen Transport in PEM Water Electrolysis** — *ACS Energy Letters* (2026-10-31)  
+  HER/HOR ×  · https://doi.org/10.1021/acsenergylett.6c02173 · 초록 있음
+- **Cooperative H2O–CO2 Regulation Reinforces Transport and Interfacial Stability in Deep Eutectic Solvent Electrolytes** — *ACS Nano* (2026-10-30)  
+  HER/HOR ×  · https://doi.org/10.1021/acsnano.6c15736 · 초록 있음
+- **Redefining Decoupled Water Electrolysis as an Integrated Hydrogen‐Carrier Platform** — *Advanced Energy Materials* (2026-10-30)  
+  HER/HOR/ORR/OER ×  · https://doi.org/10.1002/aenm.71763 · 초록 있음
+- **Directing Hole Utilization Through Self‐Reconstructed Crystallinity Differentiation for Photoelectrochemical Water Oxidation** — *Advanced Energy Materials* (2026-10-31)  
+  ORR/OER ×  · https://doi.org/10.1002/aenm.71781 · 초록 있음
+- **NiN4C‐Coordination Stabilized Cobalt‐Based Single Cluster Catalyst with High Active Site Density: Rationally Designed Atomic Architecture Boosts Oxygen Reduction Activity** — *Advanced Functional Materials* (2026-10-31)  
+  ORR/OER ×  · https://doi.org/10.1002/adfm.79349 · 초록 있음
+- **A Particle‐Level Dual‐Polymer Interphase for Coupled Interfacial and Contact Stabilization of Zinc Metal Powder Anodes in Aqueous Zinc‐Ion Batteries** — *Advanced Functional Materials* (2026-10-30)  
+  HER/HOR ×  · https://doi.org/10.1002/adfm.79402 · 초록 있음
+- **Multi‐Hydrogen Adsorption as a Dynamic Electronic Gate for Ultrafast Interfacial Charge Transfer** — *Advanced Materials* (2026-10-30)  
+  HER/HOR ×  · https://doi.org/10.1002/adma.75551 · 초록 있음
+- **Toward Practical Zn‐Ion Batteries Through Separator/Electrolyte Co‐Design** — *Advanced Science* (2026-10-30)  
+  HER/HOR ×  · https://doi.org/10.1002/advs.78250 · 초록 있음
+- **Bismuth–Sulfur Engineered Zero‐Valent Iron Prioritizes Chloramphenicol‐Class Antibiotics Dechlorination Over Hydrogen Evolution and Nitro Reduction** — *Angewandte Chemie Int. Ed.* (2026-10-30)  
+  HER/HOR ×  · https://doi.org/10.1002/anie.9298177 · 초록 있음
+- **Interweaving Two‐Dimensional Co‐Corrole‐Based Covalent Organic Framework for Significantly Improved Electrocatalytic Oxygen Reduction Reaction** — *Angewandte Chemie Int. Ed.* (2026-10-30)  
+  ORR/OER ×  · https://doi.org/10.1002/anie.9952515 · 초록 있음
+- **Strong Metal‐Support Interactions Regulate Interfacial Water for Active and Durable Low‐Pt Bifunctional Hydrogen Oxidation/Oxygen Reduction Catalysis** — *Angewandte Chemie Int. Ed.* (2026-10-30)  
+  HER/HOR/ORR/OER ×  · https://doi.org/10.1002/anie.4434846 · 초록 있음
+- **Suppressing Ru Deactivation Through Lattice Hydrogen and Hydroxyl Adsorption Engineering for High‐Performing Alkaline Fuel Cells** — *Angewandte Chemie Int. Ed.* (2026-10-30)  
+  HER/HOR/ORR/OER ×  · https://doi.org/10.1002/anie.8678019 · 초록 있음
+- **Microscopic Origins of Metal‐Dependent pH Effects in Hydrogen Evolution: Metal–Water Interactions Dictate Proton Transfer Pathways** — *Angewandte Chemie Int. Ed.* (2026-10-30)  
+  HER/HOR ×  · https://doi.org/10.1002/anie.5814125 · 초록 있음
+- **Flexible‐Ligand Rigidification Enables Anti‐Thermal‐Quenching Emission and Cryogenic Afterglow in Antimony‐Based Hybrid Bimetallic Halides** — *Angewandte Chemie Int. Ed.* (2026-10-30)  
+  Urea/C-N ×  · https://doi.org/10.1002/anie.7962877 · 초록 있음
+- **Unraveling the Importance of Surface Hydrogen Diffusion in Photocatalysis by Isotope Probing** — *Angewandte Chemie Int. Ed.* (2026-10-31)  
+  HER/HOR ×  · https://doi.org/10.1002/anie.7600842 · 초록 있음
+- **Synergistic Cu-Zn Dual-Atom Catalysts for High-Efficiency Electrocatalytic NO Reduction: Integrating High-Throughput Screening with in situ Validation** — *Applied Catalysis B: Environ. Energy* (2026-11-01)  
+   × dual-atom · https://doi.org/10.1016/j.apcatb.2026.127717 · 초록 없음
+- **Kinetically Driven Synthesis and High-Performance Pt-Pd Alloy Catalysts for PEM Fuel Cells** — *Applied Catalysis B: Environ. Energy* (2026-11-01)  
+  ORR/OER ×  · https://doi.org/10.1016/j.apcatb.2026.127718 · 초록 없음
+- **High-entropy Oxide–Metal Catalysts for Bifunctional CO2 and H2O Electrolysis in Protonic Ceramic Electrochemical Cells** — *Applied Catalysis B: Environ. Energy* (2026-11-01)  
+   × high-entropy · https://doi.org/10.1016/j.apcatb.2026.127727 · 초록 없음
+- **Cationic vacancy-engineered Mn3O4: Tailoring lattice oxygen and interfacial water dynamics for robust acidic oxygen evolution** — *Applied Catalysis B: Environ. Energy* (2026-10-31)  
+  ORR/OER ×  · https://doi.org/10.1016/j.apcatb.2026.127715 · 초록 없음
+- **Interfacial Asymmetry in Transition-Metal Selenides: Orbital-Coupling Design for Bifunctional Oxygen Electrocatalysis** — *Chem. Commun.* (2026-10-30)  
+  ORR/OER ×  · https://doi.org/10.1039/d6cc05129d · 초록 있음
+- **Framework Deuteration Regulates Excited-State Dynamics and H2O2 Release in Covalent Organic Framework Photocatalysis** — *JACS* (2026-10-31)  
+  ORR/OER ×  · https://doi.org/10.1021/jacs.6c17492 · 초록 있음
+- **Tuning Superconductivity and Topological Bands in Ta–Nb–Hf–Zr–C Medium-Entropy Carbides by Valence Electron Concentration** — *JACS* (2026-10-30)  
+   × high-entropy · https://doi.org/10.1021/jacs.6c16991 · 초록 있음
+- **Contact-Electro-Catalysis Enables Ambient Coupling of CO2 and NH3 for Urea** — *JACS* (2026-10-31)  
+  Urea/C-N ×  · https://doi.org/10.1021/jacs.6c16362 · 초록 있음
+- **Arene-Perfluoroarene-Enabled Electrostatic Modulation in Organic Porous Photocatalysts for Ni/Photoredox C–N Coupling** — *JACS* (2026-10-31)  
+  Urea/C-N ×  · https://doi.org/10.1021/jacs.6c07816 · 초록 있음
+- **Cooperative Reactivity of Mangano–Germylene and Germylidyne Complexes Featuring a Ge≡Mn Triple Bond** — *JACS* (2026-10-30)  
+   × single-atom · https://doi.org/10.1021/jacs.6c18762 · 초록 있음
+- **Decoupled Proton and Oxygen Transport at Cathode Triple-Phase Interfaces via Noncovalently Cross-Linked Biomimetic Nanochannels** — *JACS* (2026-10-31)  
+  ORR/OER ×  · https://doi.org/10.1021/jacs.6c14709 · 초록 있음
+- **Recent Advances in Photocatalyst Design for C–N Coupling Reactions: From Structure–Performance Relationships to Mechanistic Insights** — *Small* (2026-10-31)  
+  Urea/C-N ×  · https://doi.org/10.1002/smll.76519 · 초록 있음
+- **Oxygen Vacancy Mediated Plasmonic Bi2S3/W18O49 S‐Scheme Heterojunction for Efficient Hydrogen Evolution** — *Small* (2026-10-31)  
+  HER/HOR ×  · https://doi.org/10.1002/smll.76295 · 초록 있음
+- **Sustainable Long‐Living Afterglow From a Natural Polyphenol Embedded in Urea‐Formaldehyde Resin** — *Small* (2026-10-31)  
+  Urea/C-N ×  · https://doi.org/10.1002/smll.76549 · 초록 있음
+- **Bimetallic Mn/Co‐MOF from Electronic Waste for Enhanced Electrochemical Nitrogen Reduction** — *Small* (2026-10-30)  
+  NO3RR/NO2RR/NRR ×  · https://doi.org/10.1002/smll.76585 · 초록 있음
+- **Amorphous‐Crystalline CoNiS Heterojunctions with Optimized Interfacial Charge Transfer for Highly Efficient Oxygen Evolution and Urea Oxidation** — *Small* (2026-10-30)  
+  HER/HOR/ORR/OER/Urea/C-N ×  · https://doi.org/10.1002/smll.76587 · 초록 있음
+- **Modulating Electronic Structure and Morphology in Nb‐NiCoS for PET Plastic Upcycling** — *Small* (2026-10-30)  
+  HER/HOR/ORR/OER ×  · https://doi.org/10.1002/smll.76562 · 초록 있음
+- **Core–Shell Co@v‐CoO x /C Electrocatalysts With Balanced Intermediate Adsorption for High‐Performance Rechargeable Zinc–Air Batteries** — *Small* (2026-11-01)  
+  ORR/OER ×  · https://doi.org/10.1002/smll.76492 · 초록 있음
+- **Bioinspired Catalyst Design Accelerated Proton Transfer Kinetics for 1,4‐Butanediol Electrooxidation in Flow‐Cell Electrolyzer** — *Small* (2026-10-30)  
+  HER/HOR/ORR/OER ×  · https://doi.org/10.1002/smll.76424 · 초록 있음
 
 <details><summary>수집 상태</summary>
 
@@ -97,7 +115,7 @@
 - Chem. Commun.: RSS 실패
 - EES Catalysis: RSS 실패
 - Science: RSS 200, 43건
-- Science Advances: RSS 200, 39건
+- Science Advances: RSS 200, 83건
 - Nature: RSS 200, 75건
 - Nature Communications: RSS 200, 8건
 - Nature Materials: RSS 200, 8건
@@ -116,35 +134,35 @@
 - Chem: RSS 200, 75건
 - Chem Catalysis: RSS 200, 19건
 - Applied Catalysis B: Environ. Energy: RSS 200, 100건
-- Advanced Energy Materials: Crossref 200, 17건
-- Small: Crossref 200, 78건
-- Angewandte Chemie Int. Ed.: Crossref 200, 62건
-- Advanced Materials: Crossref 200, 53건
-- Advanced Functional Materials: Crossref 200, 88건
-- Advanced Science: Crossref 200, 65건
-- Chemical Science: Crossref 200, 26건
-- Chem. Soc. Rev.: Crossref 200, 2건
-- Energy Environ. Sci.: Crossref 200, 8건
-- Chem. Commun.: Crossref 200, 42건
-- EES Catalysis: Crossref 200, 1건
-- Science: Crossref 200, 44건
-- Science Advances: Crossref 200, 39건
-- Nature: Crossref 200, 71건
-- Nature Communications: Crossref 200, 91건
-- Nature Materials: Crossref 200, 9건
+- Advanced Energy Materials: Crossref 200, 9건
+- Small: Crossref 200, 61건
+- Angewandte Chemie Int. Ed.: Crossref 200, 36건
+- Advanced Materials: Crossref 200, 18건
+- Advanced Functional Materials: Crossref 200, 24건
+- Advanced Science: Crossref 200, 51건
+- Chemical Science: Crossref 200, 3건
+- Chem. Soc. Rev.: Crossref 200, 1건
+- Energy Environ. Sci.: Crossref 200, 4건
+- Chem. Commun.: Crossref 200, 15건
+- EES Catalysis: Crossref 200, 0건
+- Science: Crossref 200, 0건
+- Science Advances: Crossref 200, 44건
+- Nature: Crossref 200, 7건
+- Nature Communications: Crossref 200, 83건
+- Nature Materials: Crossref 200, 0건
 - Nature Nanotechnology: Crossref 200, 0건
-- Nature Catalysis: Crossref 200, 2건
-- Nature Energy: Crossref 200, 4건
+- Nature Catalysis: Crossref 200, 1건
+- Nature Energy: Crossref 200, 5건
 - Nature Chemistry: Crossref 200, 2건
-- Nature Synthesis: Crossref 200, 9건
-- Nature Sustainability: Crossref 200, 5건
-- JACS: Crossref 200, 57건
-- ACS Catalysis: Crossref 200, 22건
+- Nature Synthesis: Crossref 200, 2건
+- Nature Sustainability: Crossref 200, 1건
+- JACS: Crossref 200, 27건
+- ACS Catalysis: Crossref 200, 11건
 - ACS Energy Letters: Crossref 200, 7건
-- ACS Nano: Crossref 200, 35건
-- Nano Letters: Crossref 200, 23건
-- Joule: Crossref 200, 1건
-- Chem: Crossref 200, 2건
-- Chem Catalysis: Crossref 200, 3건
-- Applied Catalysis B: Environ. Energy: Crossref 200, 19건
+- ACS Nano: Crossref 200, 9건
+- Nano Letters: Crossref 200, 6건
+- Joule: Crossref 200, 0건
+- Chem: Crossref 200, 0건
+- Chem Catalysis: Crossref 200, 0건
+- Applied Catalysis B: Environ. Energy: Crossref 200, 14건
 </details>
