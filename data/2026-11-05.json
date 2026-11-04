@@ -1,0 +1,386 @@
+{
+ "run_date_kst": "2026-11-05",
+ "since": "2026-11-02",
+ "count": 20,
+ "papers": [
+  {
+   "journal": "Advanced Energy Materials",
+   "title": "Relay Catalysis on Phase‐Separated Janus–CuCo Alloys for Efficient Electrochemical Nitrate Reduction at Industrial Low Concentration",
+   "link": "https://doi.org/10.1002/aenm.71797",
+   "doi": "10.1002/aenm.71797",
+   "date": "2026-11-04T11:45:47Z",
+   "abstract": "ABSTRACT Earth‐abundant Cu and Co are attractive electrocatalysts for nitrate reduction to ammonia (NO 3 − RR); however, conventional solid‐solution alloys with single‐phase active sites lack effective intermediate spillover, impeding the hydrogenation of multiple reaction intermediates and limiting NH 3 selectivity under dilute nitrate conditions. Here we report phase‐separated yet electronically coupled Janus–CuCo alloys synthesized via a time–charge regulated electrochemical reduction strategy, forming metallic Cu/Co domains with a well‐defined interphase electronic structure. This Janus architecture enables relay catalysis, in which Cu domains activate NO 3 − , intermediates migrate to Cu−Co interfaces for hydrogenation, and adjacent Co domains promote subsequent NH 3 formation. In situ characterizations reveal pronounced Cu–Co synergy, where Co sites regulate *H‐mediated hydrogenation while the balanced surface coverage of *H and *NO 3 − optimizes NH 3 selectivity and yield. Consequently, the optimized Janus Cu−Co catalyst, Janus–Cu 70 Co 30 /NOMC, achieves a peak NH 3 Faradaic efficiency (FE NH3 ) of 95.5% at −500 mA cm −2 and delivers a FE NH3 of 93.1% with an NH 3 yield rate of 4.2 mg h −1 mg cat −1 at −0.4 V vs RHE in an MEA flow cell under low nitrate concentrations. These findings establish phase separation with electronic coupling, enabled by electrochemical time–charge control, as an effective design principle for efficient multistep NO 3 − RR electrocatalysis.",
+   "source": "crossref",
+   "reactions": [
+    "NO3RR/NO2RR/NRR"
+   ],
+   "materials": [],
+   "starred": true,
+   "date_unknown": false
+  },
+  {
+   "journal": "Applied Catalysis B: Environ. Energy",
+   "title": "In-to-out compressive strain in 2D-on-3D NiOOH/NiCu optimizes H supply for electrocatalytic nitrate reduction and high-performance Zn-Nitrate batteries",
+   "link": "https://doi.org/10.1016/j.apcatb.2026.127729",
+   "doi": "10.1016/j.apcatb.2026.127729",
+   "date": "2026-11-02T07:38:58Z",
+   "abstract": "Publication date: May 2027 Source: Applied Catalysis B: Environment and Energy, Volume 404 Author(s): Yushan Chen, Zhiwen Cheng, Zhujun Liu, Chenyu Bao, Shuxun Chen, Feihuang Zheng, Wenlue Cai, Hongbo Zhang, Maohong Fan, Jinping Jia, Kan Li",
+   "source": "rss",
+   "reactions": [
+    "NO3RR/NO2RR/NRR"
+   ],
+   "materials": [],
+   "starred": true,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Energy Materials",
+   "title": "Interfacial Electronic Modulation of Vacancy‐Stabilized Pt Sites in Mo‐NiSeO4/NiSe2 Heterostructures for Industrial Alkaline Water Electrolysis",
+   "link": "https://doi.org/10.1002/aenm.71614",
+   "doi": "10.1002/aenm.71614",
+   "date": "2026-11-04T05:28:30+00:00",
+   "abstract": "ABSTRACT Developing bifunctional electrocatalysts that combine high activity, long‐term durability, and practical device compatibility remains a major challenge for alkaline water electrolysis. Herein, we report a heterostructure catalyst of a conductive Co 2 P nanowire scaffold integrated with a Mo‐regulated NiSeO 4 /NiSe 2 heterophase shell, and atomically dispersed Pt species stabilized at O/Se‐coordinated vacancy sites (Pt,Mo‐NiSeO 4 /NiSe 2 @Co 2 P) grown on nickel foam via sequential electrodeposition, controlled selenization, and galvanic replacement. Benefiting from synergistic electronic modulation and heterointerface engineering, the catalyst requires only 24 and 98 mV to deliver 10 and 100 mA cm −2 for the hydrogen evolution reaction, and 242 and 330 mV for the oxygen evolution reaction, in 1.0 M KOH, with excellent durability. Operando Raman spectroscopy and X‐ray absorption spectroscopy reveal dynamic surface evolution during electrocatalysis and confirm the atomic dispersion of Pt. When assembled in a two‐electrode electrolyzer, the catalyst achieves cell voltages of 1.47 V at 10 mA cm −2 and 1.65 V at 100 mA cm −2 in 30 wt.% KOH. Furthermore, an anion exchange membrane water electrolyzer delivers 1.55 V at 0.3 A cm −2 and 1.76 V at 1.0 A cm −2 at 70 °C, demonstrating its promise for practical alkaline hydrogen production.",
+   "source": "rss",
+   "reactions": [
+    "HER/HOR",
+    "ORR/OER"
+   ],
+   "materials": [
+    "single-atom"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Energy Materials",
+   "title": "Dual Anchoring Effect Achieves Active and Ultrastable Oxygen Reduction Catalysis",
+   "link": "https://doi.org/10.1002/aenm.71606",
+   "doi": "10.1002/aenm.71606",
+   "date": "2026-11-04T05:28:30+00:00",
+   "abstract": "ABSTRACT Suppressing the dissolution of transition metals in multi‐component platinum (Pt)‐based oxygen reduction reaction (ORR) catalysts is critical yet challenging for proton exchange membrane fuel cell (PEMFC). Herein, we employ a dual anchoring strategy of rare earth (RE) surface stabilization and metal‐nitrogen‐carbon (MNC) interaction with porous Pt‐nickel‐cobalt nanowires (PtNiCo PNWs) to achieve satisfactory ORR and membrane electrode assembly (MEA) performances. The single site and cluster of praseodymium (Pr) tune the Pt electronic structure and protect the Ni/Co sites from dissolution, while zinc‐N‐C (ZnNC) provides extra active sites and stronger anchoring effect, yielding 9.0/9.5 times higher than those of commercial Pt/C in ORR mass and specific activities. Furthermore, the MEA exhibits high peak power density of 2.33 W cm −2 , mass activity of 0.79 A mg Pt −1 at 0.9 V iR‐free and long‐term lifetime of operating 30000/90000 cycles with 8.2%/28.3% decay, further reflecting our reasonable design conception of Pt‐based ORR catalysts for PEMFC device.",
+   "source": "rss",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [
+    "single-atom"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Science",
+   "title": "Stabilising the Lattice Oxygen Oxidation Mechanism Through Iridium Single Atoms in Chromium‐Doped Cobalt Iron Layered Double Hydroxides",
+   "link": "https://doi.org/10.1002/advs.77198",
+   "doi": "10.1002/advs.77198",
+   "date": "2026-11-03T15:26:30+00:00",
+   "abstract": "ABSTRACT Transition metal hydroxides are among the most promising alkaline oxygen evolution reaction (OER) catalysts for anion exchange membrane water electrolysers (AEMWEs), owing to their high intrinsic activity originated from the kinetically favourable lattice oxygen oxidation mechanism (LOM). However, lattice oxygen participation often accelerates catalyst degradation through active‐site dissolution, posing a major challenge to the long‐term stability. Herein, we report a synergistic catalyst design that simultaneously promotes efficient LOM and improves durability through incorporating Ir single atoms (Ir SAs ) and Cr doping into CoFe layered double hydroxide (LDH). The resulting Ir SAs /CoFeCr LDH exhibits low overpotential of 252 mV at 10 mA cm −2 and maintains stable operation for over 100 h at 500 mA cm −2 . Combined experimental and theoretical analyses reveal that Ir and Co serve as primary OER‐active sites, while Cr enhances the structural stability by enriching the electron density of neighbouring metal sites. This electronic modulation suppresses over‐oxidation and facilitates lattice oxygen regeneration, while Ir incorporation strengthens the metal‐oxygen covalency, enabling reversible lattice‐oxygen participation. The AEMWE exhibits a low cell voltage of 1.61 V at 1 A cm −2 and durability over 120 h with a negligible decay rate of 0.04 mV h −1 , highlighting the practical viability of the catalyst design for alkaline water electrolysis.",
+   "source": "rss",
+   "reactions": [
+    "HER/HOR",
+    "ORR/OER"
+   ],
+   "materials": [
+    "single-atom"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Applied Catalysis B: Environ. Energy",
+   "title": "Atomically dispersed catalytic sites on N-doped carbon for durable anion exchange membrane water electrolysis under intermittent operation",
+   "link": "https://doi.org/10.1016/j.apcatb.2026.127726",
+   "doi": "10.1016/j.apcatb.2026.127726",
+   "date": "2026-11-02T07:39:05Z",
+   "abstract": "Publication date: May 2027 Source: Applied Catalysis B: Environment and Energy, Volume 404 Author(s): Jinwoo Baek, Yoojin Lee, In-Ho Baek, Byung-Jo Lee, Jae-Hoon Baek, Kyu-Su Kim, Hoyeon Shin, Gogwon Choe, Jinhyeon Lee, Haeyong Shin, Sang-Hoon You, Jeong Woo Han, Sang-Mun Jung, Yong-Tae Kim",
+   "source": "rss",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [
+    "single-atom"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Chemical Science",
+   "title": "Interfacial H relay and site regeneration in Mn single atom-Ru cluster hybrids for efficient alkaline HER",
+   "link": "https://doi.org/10.1039/d6sc06709c",
+   "doi": "10.1039/d6sc06709c",
+   "date": "2026-11-04T09:59:23Z",
+   "abstract": "In this work, Mn single atoms promote water dissociation and relay hydrogen to adjacent Ru clusters for alkaline HER. The catalyst achieves 50 mA cm −2 at 66 mV overpotential with stability exceeding 600 h.",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [
+    "single-atom"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Energy Materials",
+   "title": "Multifunctional Matrix‐Activated Electrodes Enabling Efficient Proton Transport and Durable Low‐Pt Operation for High‐Temperature Proton Exchange Membrane Fuel Cells (Adv. Energy Mater. 41/2026)",
+   "link": "https://doi.org/10.1002/aenm.71645",
+   "doi": "10.1002/aenm.71645",
+   "date": "2026-11-04T05:28:30+00:00",
+   "abstract": "Advanced Energy Materials, Volume 16, Issue 41, 4 November 2026.",
+   "source": "rss",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Energy Materials",
+   "title": "Multifunctional Matrix‐Activated Electrodes Enabling Efficient Proton Transport and Durable Low‐Pt Operation for High‐Temperature Proton Exchange Membrane Fuel Cells",
+   "link": "https://doi.org/10.1002/aenm.71438",
+   "doi": "10.1002/aenm.71438",
+   "date": "2026-11-04T05:28:30+00:00",
+   "abstract": "ABSTRACT Phosphoric acid (PA)‐related challenges, including PA loss, redistribution, and flooding, critically limit the performance and long‐term durability of high‐temperature proton exchange membrane fuel cells (HT‐PEMFCs) based on PA‐doped membrane electrode assemblies. Although these issues can be partially mitigated using proton‐conducting additives and hydrophobic polytetrafluoroethylene, practical commercialization remains impeded by restricted high‐temperature operability and the requirement for high Pt loadings. To address these challenges, here we report a cerium hydrogen phosphate (CeHP)‐integrated multifunctional matrix‐activated electrode (MME) that stabilizes PA‐containing electrode microenvironments and preserve electrochemical pathways under severe high‐temperature operation above 200°C, where acid evaporation, dehydration, and migration become increasingly pronounced. This integrated matrix combines high‐temperature proton‐conduction, radical scavenging, and structural reinforcement of the porous catalyst layer, consequently alleviating the degradation at such high temperature. As a result, the optimized MME delivers a 38% increase in peak power density and a 62% reduction in voltage decay rate at 240°C, while requiring only 40% of the Pt loading of a Celtec commercial HT‐PEMFC electrode (0.4 vs. 1.0 mg Pt cm −2 per electrode). These results establish multifunctional catalyst‐layer matrix engineering as an effective strategy for enabling durable, low‐Pt HT‐PEMFC operation in acid‐doped polymer electrochemical systems under harsh high‐temperature conditions.",
+   "source": "rss",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Energy Materials",
+   "title": "CO2‐Free Formaldehyde Electro‐Reforming Fuel Cell",
+   "link": "https://doi.org/10.1002/aenm.71611",
+   "doi": "10.1002/aenm.71611",
+   "date": "2026-11-04T05:28:30+00:00",
+   "abstract": "ABSTRACT Conventional electrochemical synthesis is often hampered by steep energy demands and catalyst degradation, limiting both efficiency and durability. Here we introduce a hybrid alkali/acid formaldehyde‐to‐hydrogen fuel cell (h‐A/AFHFC) that transcends these limitations by coupling alkaline formaldehyde oxidation conversion with acidic oxygen reduction. A columnar branched AgCu catalyst drives the h‐A/AFHFC to a striking 2.0 V output and peak power density of 482 mW cm −2 , maintaining robust operation for over 110 h. Beyond electricity, the device leverages the exceptionally low oxidation potential of formaldehyde and its single‐electron dehydrogenation pathway to co‐produce hydrogen and formate in a *CO‐free, CO 2 ‐free electrochemical process, reformulating the role of fuel cells. Each kilogram of hydrogen is inherently paired with 46.0 kg of formate and 33.2 kWh of electricity, offering a rare convergence of clean energy and high‐value chemical synthesis. This strategy extends to gaseous formaldehyde and diverse aldehydes, enabling integrated energy‐chemical platforms for sustainability.",
+   "source": "rss",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Energy Materials",
+   "title": "Oxygen Atoms in Pd Single‐Atom Loaded Cs2SnCl6 Perovskite as Electron–Hole Separated Channel for Efficient Photo‐Assisted Electrocatalytic Oxygen Evolution Reaction",
+   "link": "https://doi.org/10.1002/aenm.71639",
+   "doi": "10.1002/aenm.71639",
+   "date": "2026-11-04T05:28:30+00:00",
+   "abstract": "ABSTRACT Studies on halide perovskites for electrocatalysis remain in their infancy, largely limited to preliminary attempts at inducing oxygen atoms and improving stability. A key challenge lies in the lack of effective strategies for controlled oxygen atom introduction. Herein, we design a facile method to generate oxygen atoms in Pd single‐atom‐loaded Cs 2 SnCl 6 (O‐Cs 2 SnCl 6 @Pd) by using hydrogen peroxide. Under Xe light irradiation, it exhibits a low overpotential (135 mV at 10 mA cm −2 ) during the oxygen evolution reaction (OER) with long stability for 100 h. DFT calculations illustrate that the incorporation of oxygen atoms in O‐Cs 2 SnCl 6 @Pd modulates the electronic structure, as evidenced by a lowered overpotential for key intermediate species. This modulation further increases electron density, promoting the adsorption and activation of OER intermediates, as well as enabling the population of a new excited state. Femtosecond transient absorption spectroscopy further evidences that O atoms reduce the recombination of electron–hole, thereby significantly facilitating charge‐transfer to active sites that promote electrocatalytic reactions. This study introduces a novel strategy for the rational design and synthesis of high‐performance photo‐assisted electrocatalytic materials, offering a pathway to enhanced catalytic efficiency and functionality.",
+   "source": "rss",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Energy Materials",
+   "title": "Decoupling Oxygen Reduction From Hydrogen Oxidation on Platinum via Phosphorus Coordination for Reversal‐Tolerant and Durable PEM Fuel Cells",
+   "link": "https://doi.org/10.1002/aenm.71799",
+   "doi": "10.1002/aenm.71799",
+   "date": "2026-11-04T11:46:53Z",
+   "abstract": "ABSTRACT During the start‐up/shut‐down (SU/SD) processes of proton‐exchange membrane fuel cells (PEMFCs), anode reversal generates an excessively high voltage that accelerates corrosion of the cathode Pt/C catalyst. Conventional approaches focus on blocking the delivery of oxygen or electrons to the anode, but fail to address the intrinsic activity coupling of Pt/C for both hydrogen oxidation reaction (HOR) and oxygen reduction reaction (ORR). Here, we report a strategy that can selectively tailor the catalytic function of Pt nanoparticles. We used phosphorus to modulate the electronic structure of low‐loading Pt clusters on a carbon support, forming a Pt/P‐BP catalyst. The P‐coordination downshifts the d ‐band center of Pt cluster, as evidenced by in situ ATR‑FTIR spectroscopy and DFT calculations, thereby widening the activity gap between HOR and ORR. Specifically, compared to Pt/C, Pt/P‐BP enhances HOR mass activity by fivefold while substantially suppressing ORR, transforming Pt from a bifunctional catalyst into a highly selective HOR catalyst. Consequently, Pt/P‐BP achieves a 10.8‐fold higher HOR/ORR selectivity than Pt/C. In SU/SD experiments, the Pt/P‐BP anode significantly reduces carbon corrosion of the cathode catalyst layer, maintaining the fuel cell performance better than Pt/C. This work paves a new avenue toward durable PEMFCs and inspires the selectivity design for electrocatalysts.",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR",
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Functional Materials",
+   "title": "Dual‐Alloy Exsolution in Fe‐Based Perovskite Anodes for High‐Performance Direct Ammonia Solid Oxide Fuel Cells",
+   "link": "https://doi.org/10.1002/adfm.79405",
+   "doi": "10.1002/adfm.79405",
+   "date": "2026-11-04T11:32:36Z",
+   "abstract": "ABSTRACT Direct ammonia solid oxide fuel cells (DA‐SOFCs) offer an integrated route for carbon‐free power generation by coupling in situ ammonia decomposition with electrochemical hydrogen oxidation. However, anode catalysts must simultaneously achieve rapid NH 3 decomposition, efficient electrochemical charge transfer, and long‐term resistance to nitridation and particle coarsening. Here, we report an Fe‐based perovskite multi‐doped with Co and Ni, La 0.6 Sr 0.2 Ba 0.2 Mn 0.2 Fe 0.6 Co 0.1 Ni 0.1 O 3 (P‐LSBMFCN), as a precursor for dual‐alloy exsolved DA‐SOFC anodes. Upon H 2 reduction, P‐LSBMFCN transforms into a Ruddlesden‐Popper (RP) layered oxide decorated with highly dispersed FeCo and FeNi alloy nanoparticles (R‐LSBMFCN). Co and Ni multi‐doping directs the reduction‐induced nucleation and alloying pathway, reducing the average nanoparticle size from 129.3 nm for the Fe‐only reference to 48.3 nm for R‐LSBMFCN while increasing nanoparticle density. The resulting dual‐alloy architecture provides abundant accessible active sites and electronically tuned metal surfaces, accelerating NH 3 activation, NH x intermediate conversion, and N recombination/desorption. Consequently, R‐LSBMFCN exhibits the lowest apparent activation energy, nearly complete NH 3 conversion at high temperature, and maximum power densities of 1.638 and 1.386 W cm −2 under H 2 and NH 3 at 800°C, respectively, with stable operation for 200 h under NH 3 . This work demonstrates multi‐doping‐induced dual‐alloy exsolution as an effective strategy for durable DA‐SOFC anodes.",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR",
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Science",
+   "title": "Glycerol‐Regulated Cytocompatible, Self‐Healing Gel Electrolyte Stabilizes Zinc Metal Anodes for Quasi‐Solid‐State Aqueous Batteries",
+   "link": "https://doi.org/10.1002/advs.78625",
+   "doi": "10.1002/advs.78625",
+   "date": "2026-11-04T02:47:06Z",
+   "abstract": "ABSTRACT Aqueous zinc batteries are attractive for safe and sustainable energy storage, but their practical development is strongly limited by the instability of Zn metal in water‐containing electrolytes, which promotes corrosion, parasitic reactions, nonuniform ion transport, and dendritic deposition. Here, we develop a glycerol‐regulated cytocompatible, self‐healing gel electrolyte (SHGE) based on a poly(vinyl alcohol)/poly(ethylene glycol) matrix. Glycerol reorganizes the hydrogen‐bonding environment and reduces polymer crystallinity, thereby decreasing water reactivity while enhancing polymer‐chain mobility and ionic transport. The resulting gel also modifies the Zn 2+ coordination environment and promotes more regulated interfacial ion transfer, suppressing Zn corrosion and enabling compact and homogeneous Zn deposition. Consequently, Zn||Zn symmetric cells sustain stable plating/stripping for over 3300 h at 5 mA cm − 2 and 5 mAh cm − 2 . The SHGE further exhibits low in vitro cytotoxicity toward multiple cell types, together with good flexibility and self‐healing capability. As a proof of concept for quasi‐solid‐state full‐cell operation, trace thiourea is introduced to promote sulfur redox conversion in Zn–S cells, enabling reversible cycling with high Coulombic efficiency and durable pouch‐cell operation. These results establish a multifunctional gel‐electrolyte strategy for stabilizing Zn metal anodes while integrating mechanical adaptability and cytocompatibility in quasi‐solid‐state aqueous batteries.",
+   "source": "crossref",
+   "reactions": [
+    "Urea/C-N"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Applied Catalysis B: Environ. Energy",
+   "title": "Linear Oxygen Vacancies directed Pt Atomization on Plasma-Engineered CeO2 Nanosheets for Efficient Hydrogen Evolution",
+   "link": "https://doi.org/10.1016/j.apcatb.2026.127754",
+   "doi": "10.1016/j.apcatb.2026.127754",
+   "date": "2026-11-04T16:34:39Z",
+   "abstract": "",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Applied Catalysis B: Environ. Energy",
+   "title": "Formamide Electrosynthesis via C-N Coupling of Biomass Derivatives and Ammonia on Dual Ag–Co Sites",
+   "link": "https://doi.org/10.1016/j.apcatb.2026.127753",
+   "doi": "10.1016/j.apcatb.2026.127753",
+   "date": "2026-11-04T16:34:36Z",
+   "abstract": "",
+   "source": "crossref",
+   "reactions": [
+    "Urea/C-N"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Chem",
+   "title": "Photocatalytic therapy via cross-coupling hydrogen evolution in cancer cells",
+   "link": "https://doi.org/10.1016/j.chempr.2026.103322",
+   "doi": "10.1016/j.chempr.2026.103322",
+   "date": "2026-11-04T15:57:27Z",
+   "abstract": "",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Chem. Commun.",
+   "title": "Urea oxidation reaction for energy-efficient hydrogen production: mechanisms, catalysts, and electrolysis systems",
+   "link": "https://doi.org/10.1039/d6cc05829a",
+   "doi": "10.1039/d6cc05829a",
+   "date": "2026-11-04T14:44:03Z",
+   "abstract": "Advancing energy-efficient hydrogen production via urea oxidation: fundamental insights, catalyst design, and practical electrolyzer implementation.",
+   "source": "crossref",
+   "reactions": [
+    "Urea/C-N"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "JACS",
+   "title": "Molecular-to-Atomic Transcription Programs Single-Atom Interfaces for Molecular Recognition",
+   "link": "https://doi.org/10.1021/jacs.6c18941",
+   "doi": "10.1021/jacs.6c18941",
+   "date": "2026-11-04T06:02:26Z",
+   "abstract": "Abstract Molecular recognition is conventionally encoded in multidentate organic or biological receptors whose persistent structures define complementary binding environments. Whether recognition information can instead be written into the spatial organization of individual atoms at a solid interface remains unresolved. Here, we establish molecular-to-atomic transcription, a template-directed strategy that converts molecular donor identity and intramolecular spacing into single-atom sites. Molecular templates preorganize the metal precursors through donor-selective interactions, while frozen-state electrochemical construction restricts precursor redistribution and preserves the template-biased organization. A 3 × 3 library spanning three donor environments and three molecular spacings produces a matched recognition matrix in which molecular response is jointly governed by coordination chemistry and intersite distance. We define this mechanism as single-atom recognition: molecular identity is read by the chemical identity and spatial organization of isolated metal atoms rather than by a retained molecular receptor. This principle enables stringent discrimination between homocysteine and cysteine, which share the same principal donors but differ by one methylene unit. Their corresponding encoded interfaces exhibit reciprocal recognition preferences consistent with geometry-dependent dual-site engagement. Recognition persists in serum and during continuous in vivo measurements, demonstrating that molecular information transcribed into an inorganic atomic interface remains functional in chemically complex environments. Molecular-to-atomic transcription therefore establishes a chemical design principle for programming selective solid interfaces atom by atom.",
+   "source": "crossref",
+   "reactions": [],
+   "materials": [
+    "single-atom",
+    "dual-atom"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Small",
+   "title": "Correction to “Trace Ru Incorporation Boosted Co2P Nanorods for Superior Water Electrolysis and Substrate‐Paired Electrolysis Toward Value‐Added Chemicals in Alkaline Medium”",
+   "link": "https://doi.org/10.1002/smll.76372",
+   "doi": "10.1002/smll.76372",
+   "date": "2026-11-04T10:25:11Z",
+   "abstract": "",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  }
+ ],
+ "feed_status": [
+  "Advanced Energy Materials: RSS 200, 95건",
+  "Small: RSS 200, 140건",
+  "Angewandte Chemie Int. Ed.: RSS 200, 203건",
+  "Advanced Materials: RSS 200, 141건",
+  "Advanced Functional Materials: RSS 200, 140건",
+  "Advanced Science: RSS 200, 150건",
+  "Chemical Science: RSS 실패",
+  "Chem. Soc. Rev.: RSS 실패",
+  "Energy Environ. Sci.: RSS 실패",
+  "Chem. Commun.: RSS 실패",
+  "EES Catalysis: RSS 실패",
+  "Science: RSS 200, 43건",
+  "Science Advances: RSS 200, 41건",
+  "Nature: RSS 200, 75건",
+  "Nature Communications: RSS 200, 8건",
+  "Nature Materials: RSS 200, 8건",
+  "Nature Nanotechnology: RSS 200, 8건",
+  "Nature Catalysis: RSS 200, 8건",
+  "Nature Energy: RSS 200, 8건",
+  "Nature Chemistry: RSS 200, 8건",
+  "Nature Synthesis: RSS 200, 8건",
+  "Nature Sustainability: RSS 200, 8건",
+  "JACS: RSS 403, 0건",
+  "ACS Catalysis: RSS 403, 0건",
+  "ACS Energy Letters: RSS 403, 0건",
+  "ACS Nano: RSS 403, 0건",
+  "Nano Letters: RSS 403, 0건",
+  "Joule: RSS 200, 80건",
+  "Chem: RSS 200, 75건",
+  "Chem Catalysis: RSS 200, 23건",
+  "Applied Catalysis B: Environ. Energy: RSS 200, 100건",
+  "Advanced Energy Materials: Crossref 200, 16건",
+  "Small: Crossref 200, 40건",
+  "Angewandte Chemie Int. Ed.: Crossref 200, 21건",
+  "Advanced Materials: Crossref 200, 42건",
+  "Advanced Functional Materials: Crossref 200, 64건",
+  "Advanced Science: Crossref 200, 24건",
+  "Chemical Science: Crossref 200, 20건",
+  "Chem. Soc. Rev.: Crossref 200, 9건",
+  "Energy Environ. Sci.: Crossref 200, 14건",
+  "Chem. Commun.: Crossref 200, 50건",
+  "EES Catalysis: Crossref 200, 0건",
+  "Science: Crossref 200, 0건",
+  "Science Advances: Crossref 200, 39건",
+  "Nature: Crossref 200, 89건",
+  "Nature Communications: Crossref 200, 111건",
+  "Nature Materials: Crossref 200, 3건",
+  "Nature Nanotechnology: Crossref 200, 2건",
+  "Nature Catalysis: Crossref 200, 1건",
+  "Nature Energy: Crossref 200, 4건",
+  "Nature Chemistry: Crossref 200, 3건",
+  "Nature Synthesis: Crossref 200, 2건",
+  "Nature Sustainability: Crossref 200, 0건",
+  "JACS: Crossref 200, 70건",
+  "ACS Catalysis: Crossref 200, 18건",
+  "ACS Energy Letters: Crossref 200, 9건",
+  "ACS Nano: Crossref 200, 37건",
+  "Nano Letters: Crossref 200, 31건",
+  "Joule: Crossref 200, 2건",
+  "Chem: Crossref 200, 6건",
+  "Chem Catalysis: Crossref 200, 4건",
+  "Applied Catalysis B: Environ. Energy: Crossref 200, 18건"
+ ]
+}
