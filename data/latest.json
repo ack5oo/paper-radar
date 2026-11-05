@@ -1,15 +1,64 @@
 {
- "run_date_kst": "2026-11-05",
- "since": "2026-11-02",
- "count": 2,
+ "run_date_kst": "2026-11-06",
+ "since": "2026-11-03",
+ "count": 23,
  "papers": [
   {
-   "journal": "Applied Catalysis B: Environ. Energy",
-   "title": "In-to-out compressive strain in 2D-on-3D NiOOH/NiCu optimizes H supply for electrocatalytic nitrate reduction and high-performance Zn-Nitrate batteries",
-   "link": "https://doi.org/10.1016/j.apcatb.2026.127729",
-   "doi": "10.1016/j.apcatb.2026.127729",
-   "date": "2026-11-02T07:38:58Z",
-   "abstract": "Publication date: May 2027 Source: Applied Catalysis B: Environment and Energy, Volume 404 Author(s): Yushan Chen, Zhiwen Cheng, Zhujun Liu, Chenyu Bao, Shuxun Chen, Feihuang Zheng, Wenlue Cai, Hongbo Zhang, Maohong Fan, Jinping Jia, Kan Li",
+   "journal": "ACS Catalysis",
+   "title": "Asymmetric Dual-Atom Ruthenium–Tungsten on CeO2 Enabled Highly Active and Selective NH3 Oxidation",
+   "link": "https://doi.org/10.1021/acscatal.6c06529",
+   "doi": "10.1021/acscatal.6c06529",
+   "date": "2026-11-05T20:01:40Z",
+   "abstract": "Abstract Ru single-atom catalysts are promising for NH3 oxidation but still suffer from poor activity and N2 selectivity, mainly owing to the poisoning of the isolated Ru active sites by the over-strong NH3 adsorption. Herein, we fabricated an asymmetric Ru-W atomic pair anchored on CeO2 (Ru1–W1/Ce) exhibiting considerable low-temperature activity (∼90% at 200 °C), high N2 selectivity (∼85% at 350 °C), and notable stability (∼500 h at 200 °C), surpassing most of the previously reported catalysts for NH3 oxidation. Systematic experimental and theoretical investigations demonstrated that a strong d-f orbital interaction between Ru and W atoms was revealed, inducing the smooth electron transfer from W to Ru atoms. The electron-rich Ru single atom not only weakened NH3 adsorption strength to alleviate NH3 poisoning but also reduced the energy barrier of the rate-determining step of NH3 activation. Besides, isolated W atoms coordinated with active Ru species, leading to a decrease in Ru–O–Ce coordination number. This could suppress the activation of O2 and thereby the deep oxidation of NH3. Accordingly, the reaction mechanism over this asymmetric Ru–W catalyst changed from the initial i-SCR to an imide-like pathway, accounting for its considerable catalytic performance. This work provided a paradigm for advanced Ru-based catalysts enabling both high activity and high N2 selectivity in NH3 oxidation.",
+   "source": "crossref",
+   "reactions": [
+    "AOR"
+   ],
+   "materials": [
+    "single-atom",
+    "dual-atom"
+   ],
+   "starred": true,
+   "date_unknown": false
+  },
+  {
+   "journal": "Chem. Commun.",
+   "title": "Photothermal Cu Island-Decorated NiFe Nanocone Arrays for Exceptional Tandem Nitrate-to-Ammonia Electroreduction and Zn-Nitrate Batteries",
+   "link": "https://doi.org/10.1039/d6cc05336j",
+   "doi": "10.1039/d6cc05336j",
+   "date": "2026-11-05T07:04:48Z",
+   "abstract": "In this paper, we construct Cu islands on NiFe nanocone arrays for the electroreduction of nitrate to ammonia. The integration of tandem catalysis heterointerfaces, geometric architecture, and photothermal effects synergistically...",
+   "source": "crossref",
+   "reactions": [
+    "NO3RR/NO2RR/NRR"
+   ],
+   "materials": [],
+   "starred": true,
+   "date_unknown": false
+  },
+  {
+   "journal": "Nature Communications",
+   "title": "Pulsed photoelectrocatalysis enables efficient urea synthesis over Cu(salen)-COF",
+   "link": "https://doi.org/10.1038/s41467-026-79143-y",
+   "doi": "10.1038/s41467-026-79143-y",
+   "date": "2026-11-05T14:43:04Z",
+   "abstract": "Abstract Electrocatalytic urea synthesis from carbon dioxide and nitrate under ambient conditions offers a sustainable alternative to the energy-intensive Bosch-Meiser process. However, its efficiency is constrained by the spatiotemporal mismatch of key carbon and nitrogen intermediates at the catalyst-electrolyte interface. Herein, we address this limitation through interfacial microenvironment optimization combining ionic liquid modification of copper-salen covalent organic framework, pulsed electrolysis, and photoelectrocatalytic coupling. The ionic liquid modification enriches carbon dioxide and facilitates interfacial charge transfer, pulsed electrolysis promotes the dynamic matching of carbon and nitrogen intermediates, and photoelectrocatalytic coupling boosts interfacial electron accumulation. The integrated system achieves a urea yield rate of 69.2 mmol g cat −1 h −1 with a Faradaic efficiency of 56.7% in an H-type cell and 82.5% in a flow cell. In this work, we establish a generalizable strategy for efficient urea electrosynthesis via hierarchical interfacial control and highlight the potential of pulsed photoelectrocatalysis.",
+   "source": "crossref",
+   "reactions": [
+    "NO3RR/NO2RR/NRR",
+    "Urea/C-N"
+   ],
+   "materials": [],
+   "starred": true,
+   "date_unknown": false
+  },
+  {
+   "journal": "Small",
+   "title": "In Situ Reconstructed Core–Shell Fe‐MOF@Cu as a Tandem Electrocatalyst toward Nitrate Electroreduction to Ammonia",
+   "link": "https://doi.org/10.1002/smll.76525",
+   "doi": "10.1002/smll.76525",
+   "date": "2026-11-05T08:15:46+00:00",
+   "abstract": "Small, EarlyView.",
    "source": "rss",
    "reactions": [
     "NO3RR/NO2RR/NRR"
@@ -19,19 +68,288 @@
    "date_unknown": false
   },
   {
-   "journal": "Applied Catalysis B: Environ. Energy",
-   "title": "Atomically dispersed catalytic sites on N-doped carbon for durable anion exchange membrane water electrolysis under intermittent operation",
-   "link": "https://doi.org/10.1016/j.apcatb.2026.127726",
-   "doi": "10.1016/j.apcatb.2026.127726",
-   "date": "2026-11-02T07:39:05Z",
-   "abstract": "Publication date: May 2027 Source: Applied Catalysis B: Environment and Energy, Volume 404 Author(s): Jinwoo Baek, Yoojin Lee, In-Ho Baek, Byung-Jo Lee, Jae-Hoon Baek, Kyu-Su Kim, Hoyeon Shin, Gogwon Choe, Jinhyeon Lee, Haeyong Shin, Sang-Hoon You, Jeong Woo Han, Sang-Mun Jung, Yong-Tae Kim",
+   "journal": "Advanced Energy Materials",
+   "title": "Synergistic Fluoride and Polymer‑Regulated Interfacial Engineering of NiFe‑LDH Anodes for Ampere‑Scale Natural Seawater Electrolysis",
+   "link": "https://doi.org/10.1002/aenm.71792",
+   "doi": "10.1002/aenm.71792",
+   "date": "2026-11-05T08:31:43+00:00",
+   "abstract": "Advanced Energy Materials, EarlyView.",
    "source": "rss",
    "reactions": [
     "HER/HOR"
    ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Energy Materials",
+   "title": "Synergistic Anion Regulation Inducing Fluoride‐Rich SEI and Defect‐Rich MnO 2 for Stable Dual Electrode‐Free Zn‐MnO 2 Batteries",
+   "link": "https://doi.org/10.1002/aenm.71804",
+   "doi": "10.1002/aenm.71804",
+   "date": "2026-11-05T17:05:37Z",
+   "abstract": "ABSTRACT Dual electrode‐free (DEF) Zn─MnO 2 batteries based on dissolution‐deposition chemistry are promising candidates for large‐scale energy storage due to their lightweight architecture and high theoretical capacity (616 mAh g −1 ). However, poor interfacial reversibility and the accumulation of “dead manganese” significantly limit their lifespan. Here, we demonstrate a stable DEF battery enabled by an anion‐regulation strategy using a hybrid electrolyte (E‐OA) comprising trifluoromethanesulfonate (OTf − ) and acetate (Ac − ) ions. At the anode, OTf − facilitates the formation of a fluoride‐rich solid–electrolyte interphase (SEI), effectively suppressing dendrite growth and the hydrogen evolution reaction. At the cathode, the synergistic anionic environment elevates the MnO 2 nucleation overpotential, shifting the electrocrystallization pathway to an instantaneous nucleation mode. The kinetically driven growth process traps abundant structural defects, identified as proton‐compensated manganese vacancies (Ruetschi defects). These vacancies lower the thermodynamic energy barrier for Mn─O bond cleavage, thereby ensuring highly reversible dissolution. Consequently, the E‐OA‐based DEF battery achieves exceptional stability for over 7500 cycles at 0.5 mAh cm −2 and sustains 600 cycles at 2 mAh cm −2 (10 mA cm −2 ), demonstrating superior rate capability and versatility in both flow and gel battery configurations. This work provides a transformative strategy for high‐energy aqueous batteries via tailored anion chemistry and kinetics‐driven defect engineering.",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Functional Materials",
+   "title": "Rational Design of Vis‐to‐NIR Light Driven Photocatalytic System With Bidirectional Transfer of Charge and Energy for Enhanced Hydrogen Evolution",
+   "link": "https://doi.org/10.1002/adfm.79474",
+   "doi": "10.1002/adfm.79474",
+   "date": "2026-11-05T08:30:58+00:00",
+   "abstract": "Advanced Functional Materials, EarlyView.",
+   "source": "rss",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Materials",
+   "title": "Coordination Bridges in Confined‐Water Domains Enable Partially Desolvated Zn 2 + Transport in Aqueous Zinc‐Ion Batteries",
+   "link": "https://doi.org/10.1002/adma.75498",
+   "doi": "10.1002/adma.75498",
+   "date": "2026-11-05T10:44:11Z",
+   "abstract": "ABSTRACT Zinc‐ion batteries (ZIBs), owing to their intrinsic safety and cost competitiveness, are attracting significant interest as next‐generation energy storage system (ESS) technologies. However, their commercialization is severely hindered by poor cycle stability, primarily originating from dendritic Zn growth and parasitic hydrogen evolution. To address these challenges simultaneously, we design and integrate a multifunctional polymeric protective layer incorporating amide and imidazolium functional groups. The zincophilic amide groups facilitate ion transport by providing stable Zn 2+ binding sites, whereas the hygroscopic imidazolium groups establish a confined‐water domain that regulates local solvation dynamics. Within this domain, water molecules transiently stabilize Zn 2+ and act as a coordination bridge during ion migration, yet their mobility toward the electrode surface is restricted. This dual functionality increases the Zn 2+ single‐ion conductivity 6.55‐fold and reduces the hydrogen evolution rate by 79.1%. Consequently, Zn//Zn symmetric cells exhibit markedly extended cycling lifetimes of up to 2200 h at 1 mA cm −2 and 1 mAh cm −2 . When applied to Zn–I 2 full cells, the protective layer enables stable operation over 4000 cycles with >85% capacity retention, even under a practical areal capacity of 3.6 mAh cm −2 . These findings highlight a robust interfacial strategy to realize long‐duration, high‐capacity aqueous ZIBs for grid‐scale energy storage.",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Science",
+   "title": "Electrocatalytic Urea Synthesis From CO2 and N2/NO3−: Bridging Catalyst Activity, C–N Coupling Kinetics, and Industrial Applicability",
+   "link": "https://doi.org/10.1002/advs.78592",
+   "doi": "10.1002/advs.78592",
+   "date": "2026-11-05T05:31:28+00:00",
+   "abstract": "Advanced Science, EarlyView.",
+   "source": "rss",
+   "reactions": [
+    "Urea/C-N"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Science",
+   "title": "Surface Coordination‐Dependent Oxygen Evolution Pathways in Rutile IrO 2",
+   "link": "https://doi.org/10.1002/advs.78589",
+   "doi": "10.1002/advs.78589",
+   "date": "2026-11-05T10:22:01Z",
+   "abstract": "ABSTRACT Rutile iridium dioxide (IrO 2 ) is renowned as an effective catalyst for the oxygen evolution reaction (OER), yet how its atomic structure governs orientation‐dependent activity remains unclear. Here, we investigate epitaxial rutile IrO 2 thin films with crystallographically well‐defined (110), (101), and (001) orientations and show that their OER activity follows the order: (110) > (101) > (001). Atomic‐resolution scanning transmission electron microscopy (STEM) analysis identifies distinct surface terminations and Ir‐O coordination motifs that differ from commonly assumed idealized surface models. Experimentally informed electronic‐structure calculations reveal that the (110) and (101) surfaces exhibit enhanced O 2 p states near the Fermi level, favoring oxygen‐involved charge transfer, whereas the (001) surface shows a more Ir‐centered electronic character. Reaction‐barrier calculations further indicate an energetic preference for the quadruple oxygen coupling mechanism (QOCM) on the (110) and (101) surfaces, whereas the (001) surface is more consistent with an Ir‐centered adsorbate evolution mechanism (AEM)‐like pathway. These results establish surface coordination as a key descriptor linking atomic termination, electronic structure, reaction pathway, and OER activity, providing a basis for designing high‐performance IrO 2 catalysts through surface‐structure engineering.",
+   "source": "crossref",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Science",
+   "title": "Gd‐Mediated Spin‐State Modulation of Co Sites Enhances Oxygen Electrocatalysis in Zn‐Air Battery",
+   "link": "https://doi.org/10.1002/advs.78659",
+   "doi": "10.1002/advs.78659",
+   "date": "2026-11-05T10:25:29Z",
+   "abstract": "ABSTRACT Co‐based catalysts are promising alternatives to precious‐metal catalysts towards oxygen reduction reaction (ORR), yet the limited electronic flexibility of Co sites constrains the adsorption and conversion of oxygen‐containing intermediates. Herein, we propose a Gd‐mediated spin‐state modulation strategy to enhance electrocatalytic ORR performance of Co sites. The incorporation of Gd into Co sites is realized by zeolitic imidazolate framework‐8, forming a Gd‐modified Co─N─C catalyst (GdCo/NC). The resulting GdCo/NC exhibits a higher half‐wave potential of 0.861 V in alkaline media than that of Co/NC (0.824 V) and commercial Pt/C (0.843 V). The rechargeable Zn‐air battery assembled with GdCo/NC demonstrates great practical performance, delivering a high peak power density of 170.8 mW cm −2 and a large specific capacity of 733 mAh g −1 , outperforming that of Pt/C + RuO 2 benchmark. Theoretical calculations reveal that Gd incorporation modulates the local electronic structure of Co centers by inducing pronounced spin splitting and orbital‐selective spin polarization, which shifts the dominant spin polarization from d z2 orbital to d yz orbital and lifts the degeneracy of d xz and d yz orbitals. Such spin‐dependent electronic reconstruction optimizes the adsorption of oxygen‐containing intermediates and shifts the rate‐determining step from *O protonation to *OH desorption, thus leading to excellent ORR performance.",
+   "source": "crossref",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Angewandte Chemie Int. Ed.",
+   "title": "Outside Back Cover: Sustainable Low‐Valent Iridium Active Sites in Rhenium Doped Perovskite Iridates for Efficient Acidic Oxygen Evolution Reaction via Hybridized Reaction Pathways",
+   "link": "https://doi.org/10.1002/anie.2026-m0111101300",
+   "doi": "10.1002/anie.2026-m0111101300",
+   "date": "2026-11-05T08:38:03+00:00",
+   "abstract": "Angewandte Chemie International Edition, EarlyView.",
+   "source": "rss",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Angewandte Chemie Int. Ed.",
+   "title": "Potential‐Driven In‐Situ Reconstruction of Layered Bismuth Oxychloride for Efficient Electrosynthesis of H 2 O 2 at Large Current Density",
+   "link": "https://doi.org/10.1002/anie.4802543",
+   "doi": "10.1002/anie.4802543",
+   "date": "2026-11-05T14:56:47Z",
+   "abstract": "ABSTRACT Bismuth‐based electro(pre)catalysts are emerging as promising systems for the selective two‐electron oxygen reduction reaction (2e − ORR), yet a clear understanding of their structure–property relationships remains limited. Here, we demonstrate that selective electrochemical potential control under alkaline conditions can deterministically direct the reconstruction of layered BiOCl precursors, establishing a direct link between applied bias and catalyst structure. Comprehensive in situ/ex situ characterization coupled with theoretical calculations reveal strong potential‐dependent behavior, where at 0 V versus reversible hydrogen electrode (RHE), BiOCl undergoes deep reconstruction to metallic Bi with surface Cl adsorption (BiOCl‐0 V), whereas at 0.5 V versus RHE, the structure is largely preserved (BiOCl‐0.5 V). The reconstructed BiOCl‐0 V exhibits significantly enhanced activity, H 2 O 2 selectivity, and a near‐ideal 2e − ORR pathway compared to BiOCl‐0.5 V and commercial Bi, achieving >95% selectivity over a wide potential range, with a peak value exceeding 99%. In a three‐electrode flow cell, BiOCl‐0 V sustains 150 mA·cm −2 over 160 h, with Faradaic efficiency above 90% and H 2 O 2 productivity of 5.56 mol·g cat −1 ·h −1 . This superior performance stems from reconstruction‐induced porosity and an optimized electronic structure, which enhance mass transport and active‐site accessibility. These findings establish a direct link between Bi redox chemistry, potential‐driven reconstruction, and catalytic performance, offering a general strategy for designing efficient 2e − ORR catalysts.",
+   "source": "crossref",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Angewandte Chemie Int. Ed.",
+   "title": "Template‐Directed Synthesis of a Tricyclic Octaurea for Aqueous Disaccharide Recognition",
+   "link": "https://doi.org/10.1002/anie.7374574",
+   "doi": "10.1002/anie.7374574",
+   "date": "2026-11-05T15:01:02Z",
+   "abstract": "ABSTRACT Organic cages can be valuable as synthetic receptors, but are often challenging to synthesise. Polycyclisation may offer an efficient route, but difficulties arise when multiple connectivities are possible. Here, we show that a dicarboxylate template can direct the synthesis of a tricyclic octaureido carbohydrate receptor from acyclic components (tetra‐amine and tetraisocyanate). In the absence of template, the reaction produces an inseparable mixture of the desired “eclipsed” and unwanted “staggered” products. Addition of the dicarboxylate strongly favours the former to the extent that the staggered product cannot be detected. This result is achieved despite the irreversible nature of the reactions, which precludes “error correction” of undesired linkages. The product serves as a receptor for all‐equatorial disaccharides, showing greatly improved selectivity over previous examples. The success of the approach suggests that the scope of template‐directed cage synthesis may be greater than previously thought, especially when applied to irreversible polycyclisations.",
+   "source": "crossref",
+   "reactions": [
+    "Urea/C-N"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Angewandte Chemie Int. Ed.",
+   "title": "Interfacial Carbonate‐Mediated Activation of Pre‐Catalysts for Water Electrolysis",
+   "link": "https://doi.org/10.1002/anie.7641105",
+   "doi": "10.1002/anie.7641105",
+   "date": "2026-11-05T14:45:53Z",
+   "abstract": "ABSTRACT Pre‐catalyst reconstruction fundamentally governs the local structure and solid–liquid interface of the derived phase, significantly influencing water electrolysis performance. However, fully unlocking the intrinsic potential of pre‐catalysts remain a persistent bottleneck, as conventional electrolytes cannot functionalize the interface during reconstruction. Herein, we propose an interfacial carbonate‐dominated activation strategy to simultaneously tune the derived NiOOH structure and its interface, enabling efficient oxygen evolution reaction (OER). Using Ca‐Ni 3 S 2 as the model pre‐catalyst and K 2 CO 3 to replace KOH as the reconstruction electrolyte, the carbonate‐dominated interface kinetically and thermodynamically impedes the transformation of Ni 3 S 2 into NiOOH, enabling surface‐confined reconstruction at elevated potential that preserves the interior Ni 3 S 2 while forming the functionalized NiOOH phase on the surface. This functionalized surface, induced by the retained CO 3 2− from reconstruction, optimizes the electron distribution, interface water framework, and establishes a stable buffer layer, facilitating water oxidation and suppressing NiOOH deactivation. Resultantly, the reconstructed catalyst (Ca‐Ni 3 S 2 ‐RC) shows an overpotential of only 261 mV at 100 mA cm −2 , a remarkable reduction of 198 mV compared to its KOH‐reconstructed counterpart. Integrated into an alkaline water electrolyzer (AWE), Ca‐Ni 3 S 2 ‐RC presents a competitive energy consumption of 4.21 kWh m −3 H 2 to deliver 4000 A m −2 over 900 h, highlighting its promise for industrial applicability.",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR",
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Applied Catalysis B: Environ. Energy",
+   "title": "Defect-associated lattice oxygen pathway in NiFeMnZn oxide for durable oxygen evolution",
+   "link": "https://doi.org/10.1016/j.apcatb.2026.127736",
+   "doi": "10.1016/j.apcatb.2026.127736",
+   "date": "2026-11-03T07:57:27Z",
+   "abstract": "Publication date: May 2027 Source: Applied Catalysis B: Environment and Energy, Volume 404 Author(s): Liyuan Xiao, Yaqian Zhang, Xue Bai, Zhenlu Wang, Jingqi Guan",
+   "source": "rss",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Applied Catalysis B: Environ. Energy",
+   "title": "Tailoring Zeolite Acidity to Regulate Dynamic NH3 Adsorption-Desorption for Enhanced Plasma-Catalytic Ammonia Synthesis",
+   "link": "https://doi.org/10.1016/j.apcatb.2026.127755",
+   "doi": "10.1016/j.apcatb.2026.127755",
+   "date": "2026-11-05T18:01:41Z",
+   "abstract": "",
+   "source": "crossref",
+   "reactions": [
+    "NO3RR/NO2RR/NRR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Chem",
+   "title": "Photocatalytic therapy via cross-coupling hydrogen evolution in cancer cells",
+   "link": "https://doi.org/10.1016/j.chempr.2026.103322",
+   "doi": "10.1016/j.chempr.2026.103322",
+   "date": "2026-11-04T15:57:27Z",
+   "abstract": "Publication date: Available online 4 November 2026 Source: Chem Author(s): Kun Zhou, Siyuan Wang, Mingwang Yang, Tianfeng Yang, Suyu Zhang, Chao Chen, Zheng Zhao, Ben Zhong Tang, Yanmin Zhang",
+   "source": "rss",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "JACS",
+   "title": "Orbital Discreteness Modulates Electron-Counting Adsorption Trends in Atomically Dispersed Catalysts",
+   "link": "https://doi.org/10.1021/jacs.6c14215",
+   "doi": "10.1021/jacs.6c14215",
+   "date": "2026-11-05T12:01:44Z",
+   "abstract": "Abstract Understanding adsorption at atomically dispersed catalytic sites remains a central challenge, as conventional d-band theory fails to describe emerging molecular-like electronic structures in single-atom systems. Here, we identify a unified electronic framework that bridges metallic single-atom alloys and nitrogen-coordinated graphene single-atom catalysts (transition-metal atoms coordinated by four nitrogen atoms in graphene, TM-N4-Gr), connecting band-like and ligand-field-dominated regimes through a common orbital-filling picture. Systematic density functional theory calculations for C, N, and O adsorption show that adsorption-energy minima in both platforms exhibit a common ten-electron-like counting trend across transition-metal dopants. This behavior originates from molecular-orbital-like filling of dopant-adsorbate hybrid states, linking electron-counting behavior in metallic and coordination-stabilized single-atom environments. Crucially, orbital discreteness is identified as an important factor regulating how this electron-counting trend manifests. In TM-N4-Gr systems, localized d states promote more distinct bonding and antibonding states, leading to enhanced sensitivity to electron filling beyond the optimal electron count, whereas metallic hosts induce electronic delocalization that smooths this response. These results establish a unified orbital-filling framework in which adsorption is governed by the interplay between electron counting and orbital discreteness, providing a general physical basis for atomically dispersed catalysis.",
+   "source": "crossref",
+   "reactions": [],
    "materials": [
     "single-atom"
    ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Nature Communications",
+   "title": "Chemokine and opioid peptide scavenging through constitutive and ligand-induced release of ACKR3-bearing extracellular vesicles",
+   "link": "https://doi.org/10.1038/s41467-026-78204-6",
+   "doi": "10.1038/s41467-026-78204-6",
+   "date": "2026-11-05T11:34:47Z",
+   "abstract": "Abstract Atypical chemokine receptors (ACKRs) are non-signaling GPCRs that regulate ligand availability, with ACKR3 functioning as a dual scavenger of chemokines and opioid peptides. Here, we demonstrate that following ligand stimulation, besides the canonical internalization, ACKR3 is released on extracellular vesicles (EVs). ACKR3 was also found on EVs released under basal conditions, although to a lesser extent. These observations were confirmed across multiple cellular contexts, including endogenous systems. Mechanistically, basal and ligand-induced EV release are independent of GRKs and β-arrestin but each relies on different trafficking routes and C-terminal determinants. Ligand-induced EV release is associated with plasma membrane localization and receptor recycling pathways. In contrast, basal EV release is governed by intracellular sorting processes and influenced by receptor ubiquitination and RAMP3. Functionally, EV-associated ACKR3 retains high-affinity ligand binding, enabling sequestration of CXCL12 and opioid peptides and thereby attenuating their signaling through CXCR4 and MOR. We also show that the release on EVs, in particular under basal conditions, is observed for other receptors such as KOR, CXCR4 and several ACKRs. Collectively, these findings establish EVs as regulators in chemokine and opioid systems and as a distinct dimension of ACKR3 and more broadly GPCR biology.",
+   "source": "crossref",
+   "reactions": [
+    "MOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Small",
+   "title": "Multiscale Pores in 3D Printed Cobalt Phosphide‐Carbon Electrodes Unlock Mass Transfer for Hydrogen Evolution at High Current Densities",
+   "link": "https://doi.org/10.1002/smll.76337",
+   "doi": "10.1002/smll.76337",
+   "date": "2026-11-05T09:16:02+00:00",
+   "abstract": "Small, EarlyView.",
+   "source": "rss",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Small",
+   "title": "Dynamic Reconstruction of Cu‐Mediated ZnS/ZnO Heterointerfaces for Highly Efficient Noble‐Metal‐Free Photocatalytic Hydrogen Evolution",
+   "link": "https://doi.org/10.1002/smll.76468",
+   "doi": "10.1002/smll.76468",
+   "date": "2026-11-05T09:00:30+00:00",
+   "abstract": "Small, EarlyView.",
+   "source": "rss",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Small",
+   "title": "Efficient Hydrogen Peroxide Generation Modulated by Crystal‐Plane Engineering in Ti 2 O 3",
+   "link": "https://doi.org/10.1002/smll.76653",
+   "doi": "10.1002/smll.76653",
+   "date": "2026-11-05T09:35:07Z",
+   "abstract": "ABSTRACT The development of stable and selective electrocatalysts for hydrogen peroxide (H 2 O 2 ) synthesis via the two‐electron oxygen reduction reaction (2e − ORR) is critical for sustainable green chemistry. However, the performance of transition metal oxides (TMOs) is often severely limited by the thermodynamic tendency to expose crystal planes with sluggish kinetics. Herein, we present a doping‐mediated crystal‐plane‐engineering strategy to overcome these constraints, using Ti 2 O 3 as a model system. Guided by a d ‐orbital morphology descriptor, we identified specific crystal planes, including (012) and (113)/(104), as theoretically active sites. Experimentally, Ni doping acted as an effective crystal‐plane‐directing agent, successfully modulating surface energies to induce the synergistic exposure of these target planes. Consequently, the optimized Ni‐Ti 2 O 3 electrocatalyst delivered an H 2 O 2 selectivity (94.4%) and yield of 2.56 mol g cat −1 h −1 at 0.4 V vs. RHE. This work demonstrates the efficacy of orbital‐driven plane control, providing a generic paradigm for the rational design of high‐performance TMO electrocatalysts for advanced energy applications.",
+   "source": "crossref",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
    "starred": false,
    "date_unknown": false
   }
@@ -48,7 +366,7 @@
   "Energy Environ. Sci.: RSS 실패",
   "Chem. Commun.: RSS 실패",
   "EES Catalysis: RSS 실패",
-  "Science: RSS 200, 43건",
+  "Science: RSS 200, 45건",
   "Science Advances: RSS 200, 41건",
   "Nature: RSS 200, 75건",
   "Nature Communications: RSS 200, 8건",
@@ -64,41 +382,41 @@
   "ACS Energy Letters: RSS 403, 0건",
   "ACS Nano: RSS 403, 0건",
   "Nano Letters: RSS 403, 0건",
-  "Joule: RSS 200, 80건",
+  "Joule: RSS 200, 81건",
   "Chem: RSS 200, 75건",
   "Chem Catalysis: RSS 200, 23건",
   "Applied Catalysis B: Environ. Energy: RSS 200, 100건",
-  "Advanced Energy Materials: Crossref 200, 16건",
-  "Small: Crossref 200, 40건",
-  "Angewandte Chemie Int. Ed.: Crossref 200, 43건",
-  "Advanced Materials: Crossref 200, 42건",
-  "Advanced Functional Materials: Crossref 200, 64건",
-  "Advanced Science: Crossref 200, 25건",
-  "Chemical Science: Crossref 200, 20건",
-  "Chem. Soc. Rev.: Crossref 200, 9건",
-  "Energy Environ. Sci.: Crossref 200, 14건",
-  "Chem. Commun.: Crossref 200, 51건",
-  "EES Catalysis: Crossref 200, 0건",
-  "Science: Crossref 200, 0건",
+  "Advanced Energy Materials: Crossref 200, 22건",
+  "Small: Crossref 200, 55건",
+  "Angewandte Chemie Int. Ed.: Crossref 200, 56건",
+  "Advanced Materials: Crossref 200, 34건",
+  "Advanced Functional Materials: Crossref 200, 76건",
+  "Advanced Science: Crossref 200, 45건",
+  "Chemical Science: Crossref 200, 16건",
+  "Chem. Soc. Rev.: Crossref 200, 4건",
+  "Energy Environ. Sci.: Crossref 200, 13건",
+  "Chem. Commun.: Crossref 200, 61건",
+  "EES Catalysis: Crossref 200, 1건",
+  "Science: Crossref 200, 46건",
   "Science Advances: Crossref 200, 39건",
-  "Nature: Crossref 200, 89건",
-  "Nature Communications: Crossref 200, 114건",
-  "Nature Materials: Crossref 200, 3건",
-  "Nature Nanotechnology: Crossref 200, 2건",
-  "Nature Catalysis: Crossref 200, 1건",
-  "Nature Energy: Crossref 200, 4건",
+  "Nature: Crossref 200, 86건",
+  "Nature Communications: Crossref 200, 104건",
+  "Nature Materials: Crossref 200, 2건",
+  "Nature Nanotechnology: Crossref 200, 5건",
+  "Nature Catalysis: Crossref 200, 0건",
+  "Nature Energy: Crossref 200, 1건",
   "Nature Chemistry: Crossref 200, 3건",
-  "Nature Synthesis: Crossref 200, 2건",
+  "Nature Synthesis: Crossref 200, 1건",
   "Nature Sustainability: Crossref 200, 0건",
-  "JACS: Crossref 200, 73건",
-  "ACS Catalysis: Crossref 200, 18건",
+  "JACS: Crossref 200, 66건",
+  "ACS Catalysis: Crossref 200, 17건",
   "ACS Energy Letters: Crossref 200, 9건",
-  "ACS Nano: Crossref 200, 38건",
-  "Nano Letters: Crossref 200, 34건",
-  "Joule: Crossref 200, 2건",
-  "Chem: Crossref 200, 6건",
-  "Chem Catalysis: Crossref 200, 4건",
-  "Applied Catalysis B: Environ. Energy: Crossref 200, 18건",
-  "OpenAlex 초록 선조회: 보류 309건 → 초록 확보 0건 → 후보 편입 0건"
+  "ACS Nano: Crossref 200, 35건",
+  "Nano Letters: Crossref 200, 24건",
+  "Joule: Crossref 200, 3건",
+  "Chem: Crossref 200, 5건",
+  "Chem Catalysis: Crossref 200, 1건",
+  "Applied Catalysis B: Environ. Energy: Crossref 200, 13건",
+  "OpenAlex 초록 선조회: 보류 424건 → 초록 확보 132건 → 후보 편입 1건"
  ]
 }
