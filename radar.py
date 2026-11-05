@@ -1,5 +1,6 @@
 """매일 저널 RSS + Crossref를 훑어 (반응 × 재료) 키워드에 맞는 신규 논문을 data/에 저장.
-v2: 게재일 필터(최근 3일), DOI·초록 보강(Crossref/OpenAlex), DOI 기준 중복 제거."""
+v2: 게재일 필터(최근 3일), DOI·초록 보강(Crossref/OpenAlex), DOI 기준 중복 제거.
+v3: 초록 없는 후보는 OpenAlex에서 초록을 먼저 일괄 조회한 뒤 키워드 판정 (ACS·RSC 누락 보완)."""
 import json, re, time, html, datetime as dt, pathlib, calendar
 import feedparser, requests
 
@@ -34,15 +35,19 @@ def get(url, **kw):
     return None
 
 cands, status = {}, []
+pending = {}   # v3: 제목만으로는 키워드가 안 맞고 초록이 없는 항목 → OpenAlex 초록 받은 뒤 재판정
 def add(journal, title, link, doi, date, abstract, src):
     doi = (doi or "").lower().strip().rstrip(".")
     key = doi or link or title.lower()
-    if key in seen or key in cands: return
+    if key in seen or key in cands or key in pending: return
+    rec = dict(journal=journal, title=title, link=link, doi=doi, date=date or "",
+               abstract=abstract, source=src)
     r, m = classify(f"{title} {abstract}")
     # 1차: 반응 또는 재료 하나만 맞아도 후보 → 초록 보강 후 최종 (반응 × 재료) 판정
-    if not (r or m): return
-    cands[key] = dict(journal=journal, title=title, link=link, doi=doi, date=date or "",
-                      abstract=abstract, source=src)
+    if r or m:
+        cands[key] = rec
+    elif doi and len(abstract) < 200:
+        pending[key] = rec   # 초록이 없어서 판정 불가 → 보류
 
 def entry_date(e):
     t = e.get("published_parsed") or e.get("updated_parsed")
@@ -80,6 +85,38 @@ def oa_abstract(inv):
     if not inv: return ""
     pos = sorted((p, w) for w, ps in inv.items() for p in ps)
     return " ".join(w for _, w in pos)
+
+# 2.5) v3: 보류 항목의 초록을 OpenAlex에서 50개씩 일괄 조회 → 키워드 재판정
+#  - 초록을 받았는데 안 맞으면 seen에 넣어 다음 날 다시 조회하지 않음
+#  - OpenAlex에 아직 초록이 없으면 seen에 넣지 않음 → 3일 창 안에서 다음 날 재시도
+def openalex_batch(recs):
+    got = {}
+    dois = [c["doi"] for c in recs if "|" not in c["doi"] and "," not in c["doi"]]
+    for i in range(0, len(dois), 50):
+        chunk = dois[i:i + 50]
+        r = get("https://api.openalex.org/works?filter=doi:" + "|".join(chunk)
+                + f"&per_page=50&select=doi,abstract_inverted_index,publication_date&mailto={MAIL}")
+        if r is not None and r.ok:
+            for w in r.json().get("results", []):
+                d = (w.get("doi") or "").lower().replace("https://doi.org/", "")
+                got[d] = (oa_abstract(w.get("abstract_inverted_index")), w.get("publication_date") or "")
+        time.sleep(1)
+    return got
+
+oa_hit = oa_rescued = 0
+if pending:
+    got = openalex_batch(list(pending.values()))
+    for key, c in pending.items():
+        ab, pdate = got.get(c["doi"], ("", ""))
+        if len(ab) < 100: continue          # 아직 초록 없음 → 내일 재시도
+        oa_hit += 1
+        c["abstract"], c["date"] = ab, c["date"] or pdate
+        r, m = classify(f"{c['title']} {ab}")
+        if r or m:
+            cands[key] = c; oa_rescued += 1
+        else:
+            seen.add(key)
+status.append(f"OpenAlex 초록 선조회: 보류 {len(pending)}건 → 초록 확보 {oa_hit}건 → 후보 편입 {oa_rescued}건")
 
 papers = {}
 for c in cands.values():
