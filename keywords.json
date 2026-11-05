@@ -5,7 +5,12 @@
    "ammonia electro-?oxidation",
    "\\bAOR\\b",
    "ammonia electrolysis",
-   "ammonia splitting"
+   "ammonia splitting",
+   "ammonia (electro-?)?cracking",
+   "NH3 (electro-?)?(oxidation|cracking)",
+   "(electro-?)?oxidation of (ammonia|NH3)",
+   "ammonia fuel cell",
+   "direct ammonia"
   ],
   "MOR": [
    "methanol oxidation",
@@ -86,6 +91,9 @@
   "ammonia oxidation",
   "\\bAOR\\b",
   "\\bPt[A-Z][a-z]?.{0,30}intermetallic",
-  "intermetallic.{0,40}\\bPt"
+  "intermetallic.{0,40}\\bPt",
+  "ammonia (electro-?)?cracking",
+  "NH3 (electro-?)?(oxidation|cracking)",
+  "(electro-?)?oxidation of (ammonia|NH3)"
  ]
 }

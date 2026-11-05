@@ -18,7 +18,7 @@ since = today - dt.timedelta(days=3)   # 색인 지연 대비 3일 겹쳐 조회
 
 def comp(d): return {k: re.compile("|".join(v), re.I) for k, v in d.items()}
 RX, MX, STAR = comp(KW["reactions"]), comp(KW["materials"]), re.compile("|".join(KW["starred"]), re.I)
-ELECTRO = re.compile(r"electro|overpotential|\bRHE\b|fuel cell|battery|electrolyzer|electrolyser", re.I)
+ELECTRO = re.compile(r"electro(?!magnetic)|overpotential|\bRHE\b|fuel cell|battery|electrolyzer|electrolyser", re.I)
 clean = lambda s: re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html.unescape(s or ""))).strip()
 DOI_RX = re.compile(r"10\.\d{4,9}/[^\s?#\"<>]+")
 
