@@ -1,0 +1,319 @@
+{
+ "run_date_kst": "2026-11-25",
+ "since": "2026-11-22",
+ "count": 16,
+ "papers": [
+  {
+   "journal": "Applied Catalysis B: Environ. Energy",
+   "title": "Steering Associative-to-Dissociative Oxygen Reduction on PtCo Intermetallics via Carbon-Curvature-Governed Spin States of Fe Single Atoms",
+   "link": "https://doi.org/10.1016/j.apcatb.2026.127839",
+   "doi": "10.1016/j.apcatb.2026.127839",
+   "date": "2026-11-24T19:01:39Z",
+   "abstract": "",
+   "source": "crossref",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [
+    "single-atom",
+    "intermetallic"
+   ],
+   "starred": true,
+   "date_unknown": false
+  },
+  {
+   "journal": "Applied Catalysis B: Environ. Energy",
+   "title": "Atomically Coupled Co–MnO Interfaces Accelerate Tandem Nitrate Reduction to Ammonia",
+   "link": "https://doi.org/10.1016/j.apcatb.2026.127841",
+   "doi": "10.1016/j.apcatb.2026.127841",
+   "date": "2026-11-24T07:54:49Z",
+   "abstract": "",
+   "source": "crossref",
+   "reactions": [
+    "NO3RR/NO2RR/NRR"
+   ],
+   "materials": [],
+   "starred": true,
+   "date_unknown": false
+  },
+  {
+   "journal": "Chem. Commun.",
+   "title": "Nitrogen-doped carbon nanotubes enable concerted regulation of Pt active sites for ammonia electro-oxidation",
+   "link": "https://doi.org/10.1039/d6cc05149a",
+   "doi": "10.1039/d6cc05149a",
+   "date": "2026-11-24T08:34:16Z",
+   "abstract": "Pyridinic-N engineering in carbon nanotubes regulates Pt dispersion and electronic structure, revealing a volcano-type relationship between pyridinic-N fraction and ammonia oxidation activity.",
+   "source": "crossref",
+   "reactions": [
+    "AOR"
+   ],
+   "materials": [],
+   "starred": true,
+   "date_unknown": false
+  },
+  {
+   "journal": "ACS Catalysis",
+   "title": "Understanding of Co-N3-X1 (X = N, S, Se, and Te) Moieties for the Oxygen Reduction Reaction",
+   "link": "https://doi.org/10.1021/acscatal.6c06625",
+   "doi": "10.1021/acscatal.6c06625",
+   "date": "2026-11-24T17:02:36Z",
+   "abstract": "Abstract Controlled synthesis of single-atom catalysts (SACs) with different first coordination shells offers an ideal platform for elucidating structure–performance relationships in SACs. Herein, a series of SACs with a well-defined configuration of Co-N3X1-C (X = N, S, Se, and Te) were synthesized for the oxygen reduction reaction (ORR). Theoretical calculations reveal that the negative value of the integrated crystal orbital Hamilton population for the Co(dz2+ dyz)–O(p) interaction provides a better correlation than the d-band center with the adsorption energy of oxygen species. In situ X-ray absorption near-edge structure analyses indicate that the adsorption of oxygen species on the catalysts is consistent with the calculated OH* adsorption trend. The energy gap between the highest occupied molecular orbital of SACs and the lowest unoccupied molecular orbital of O2 shows a linear relationship with the Bader charge related to O2 activation. Theoretical calculations and in situ Raman spectroscopy indicate that Co-N3S1-C realizes a better balance of O2 activation and *OH desorption, enabling it to exhibit the optimal catalytic activity with an E1/2 of 0.90 V and the largest turnover frequency value of 21.5 s–1. Furthermore, a liquid zinc-air battery with a Co-N3S1-C cathode delivers a power density of 255.4 mW cm–2, which is higher than that of the battery with a Pt/C + IrO2 cathode (196.6 mW cm–2) and most of the Fe- and Co-based electrocatalysts as cathodes reported in the literature. These findings could shed insight on the theoretical exploration of SACs and the heterogenization of homogeneous catalysts.",
+   "source": "crossref",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [
+    "single-atom"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Nature Materials",
+   "title": "Proximal single atoms for stable electrocatalysts",
+   "link": "https://doi.org/10.1038/s41563-026-02796-z",
+   "doi": "10.1038/s41563-026-02796-z",
+   "date": "2026-11-24T00:00:00+00:00",
+   "abstract": "Nature Materials, Published online: 24 November 2026; doi:10.1038/s41563-026-02796-z Ru–O–Cr motifs atomically dispersed in proximity on a MnO2 substrate effectively suppress oxidation-induced Ru dissolution with enhanced catalyst durability towards the oxygen evolution reaction in acidic water electrolysers.",
+   "source": "rss",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [
+    "single-atom"
+   ],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "ACS Nano",
+   "title": "Coupling O2 Activation with Proton Capture Boosts Carbon Nitride Fixed-Bed Flow Photosynthesis of Hydrogen Peroxide",
+   "link": "https://doi.org/10.1021/acsnano.6c16486",
+   "doi": "10.1021/acsnano.6c16486",
+   "date": "2026-11-24T15:01:23Z",
+   "abstract": "Abstract Practical H2O2 photoproduction via the 2e ORR by polymeric carbon nitride (CN) is hindered by insufficient surface reaction kinetics, limitations in continuous reaction, and extra H2O2/catalyst separation. This work engineered fixed-bed CN networks with oxophilic Ni nanoparticles and proton-affinitive anthraquinone moieties, which enhanced the catalyst’s O2 adsorption/activation and proton capture capability. Besides, due to the electronic delocalization and extended π–π conjugation system, they imparted the catalyst with extended light absorption and improved charge separation. The as-synthesized photocatalyst demonstrated a 12.7-fold enhancement of H2O2 yield in flowing water, which reaches 3.6 mmol m–2 h–1 (1362 μmol g–1 h–1), outperforming most reported CN-based catalysts. Under natural sunlight irradiation, 581.8 μmol H2O2 was produced in 9 h using a 12 cm × 8.5 cm photocatalyst sheet. The practical application was exemplified by efficient on-site flow photo-Fenton degradation of organic contaminants with &gt;90% degradation in 1.5 h. Electronic studies and local reactant enrichment investigation revealed that the adsorbed O2 at the Ni site and protons at AQ proceed to generate H2O2 upon participation of photogenerated electrons via the two-step 1e ORR process with high selectivity. This work demonstrates a successful surface chemistry design of fixed-bed CN networks for efficient continuous-flow photoproduction of H2O2 with facile separation.",
+   "source": "crossref",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Functional Materials",
+   "title": "Dynamic Reconstruction of Ruthenium Carbides Into Carbon‐Encapsulated Ruthenium for Active and Durable Hydrogen Evolution in Acids",
+   "link": "https://doi.org/10.1002/adfm.79810",
+   "doi": "10.1002/adfm.79810",
+   "date": "2026-11-24T08:11:40+00:00",
+   "abstract": "Advanced Functional Materials, EarlyView.",
+   "source": "rss",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Functional Materials",
+   "title": "Accelerated Intermediate Deprotonation Stabilizes Ir‐Doped RuO2 for Durable Proton Exchange Membrane Water Electrolysis",
+   "link": "https://doi.org/10.1002/adfm.79778",
+   "doi": "10.1002/adfm.79778",
+   "date": "2026-11-24T07:36:02+00:00",
+   "abstract": "Advanced Functional Materials, EarlyView.",
+   "source": "rss",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Functional Materials",
+   "title": "Trading Nobility for Performance: Substituting Pt With Abundant Metals Boosts PtSe2 HER Electrocatalytic Performance",
+   "link": "https://doi.org/10.1002/adfm.79751",
+   "doi": "10.1002/adfm.79751",
+   "date": "2026-11-24T07:11:58+00:00",
+   "abstract": "Advanced Functional Materials, EarlyView.",
+   "source": "rss",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Materials",
+   "title": "Size‐Dependent Photoelectric and Photothermal Effects in Plasmon‐Induced Hydrogen Evolution Reaction",
+   "link": "https://doi.org/10.1002/adma.75795",
+   "doi": "10.1002/adma.75795",
+   "date": "2026-11-24T07:37:09+00:00",
+   "abstract": "Advanced Materials, EarlyView.",
+   "source": "rss",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Materials",
+   "title": "Multiscale Engineering of Three‐Phase Interfaces for Proton Exchange Membrane Fuel Cells",
+   "link": "https://doi.org/10.1002/adma.75776",
+   "doi": "10.1002/adma.75776",
+   "date": "2026-11-24T07:11:14+00:00",
+   "abstract": "Advanced Materials, EarlyView.",
+   "source": "rss",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Advanced Materials",
+   "title": "Porous Organic Frameworks for Overall Photosynthesis H2O2",
+   "link": "https://doi.org/10.1002/adma.75840",
+   "doi": "10.1002/adma.75840",
+   "date": "2026-11-23T06:44:22+00:00",
+   "abstract": "Solar‐to‐H 2 O 2 conversion represents one of the most promising avenues for sustainable development, while overall H 2 O 2 photosynthesis via the dual pathways of simultaneous ORR and WOR holds significant scientific value. This review first systematically summarizes the recent advancements of porous organic frameworks (POFs) for overall H 2 O 2 photosynthesis. Starting with a concise overview of the fundamental principles of H 2 O 2 photosynthesis via ORR and WOR, as well as dual‐channel H 2 O 2 photosynthesis, the evaluation protocols and key factors are briefly discussed. Thereafter, the advantages, development, and typical design strategies of POFs for this process are summarized. Subsequently, various smart POFs for dual‐pathway photosynthesis H 2 O 2 are introduced. In the past year alone, diverse molecular design strategies have driven continuous gains across all performance metrics, with records reaching a H 2 O 2 production rate of 17.25 mmol·g −1 h −1 , an accumulated concentration of 82.3 mM, an AQY of 40%, and an SCC efficiency of 4.7%. Last but not least, conclusions, challenges, and long‐term outlooks of this field are revealed with a focus on POFs design, computer‐assist, H 2 O 2 decomposition, and mechanism investigations. This review aims to offer in‐depth insights and guidelines for POFs in efficient overall H 2 O 2 photosynthesis.",
+   "source": "rss",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Applied Catalysis B: Environ. Energy",
+   "title": "Hydrogen spillover mediated active hydrogen accessibility on model cobalt phosphide catalysts for electrochemical nitrogen reduction",
+   "link": "https://doi.org/10.1016/j.apcatb.2026.127827",
+   "doi": "10.1016/j.apcatb.2026.127827",
+   "date": "2026-11-22T15:23:11Z",
+   "abstract": "Publication date: 15 May 2027 Source: Applied Catalysis B: Environment and Energy, Volume 405 Author(s): Wei Zhang, Ning Han, Jianxiang Wu, Longlong Xu, Xiaoying Lu, Cancan Chang, Riming Hu, Zechao Zhuang, Ding Yuan, Hua Kun Liu, Shi Xue Dou, Yuhai Dou, Dingsheng Wang",
+   "source": "rss",
+   "reactions": [
+    "NO3RR/NO2RR/NRR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Applied Catalysis B: Environ. Energy",
+   "title": "Synergistic Mo/Fe Modulation Enables Cobalt Carbonate Hydroxide Nanoneedles with Breakthrough of Kinetic Limitations for Robust Chloride-Resistant Seawater Electrolysis",
+   "link": "https://doi.org/10.1016/j.apcatb.2026.127840",
+   "doi": "10.1016/j.apcatb.2026.127840",
+   "date": "2026-11-24T19:01:51Z",
+   "abstract": "",
+   "source": "crossref",
+   "reactions": [
+    "HER/HOR"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "Applied Catalysis B: Environ. Energy",
+   "title": "Breaking Symmetry of RuO2 via Tantalum and Fluorine Co-Incorporation for Active and Durable Acidic Oxygen Evolution",
+   "link": "https://doi.org/10.1016/j.apcatb.2026.127838",
+   "doi": "10.1016/j.apcatb.2026.127838",
+   "date": "2026-11-24T19:01:25Z",
+   "abstract": "",
+   "source": "crossref",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  },
+  {
+   "journal": "JACS",
+   "title": "Entropy Engineering Accelerates High-Temperature Oxygen Evolution Reaction Rate via Spin Manipulation",
+   "link": "https://doi.org/10.1021/jacs.6c20294",
+   "doi": "10.1021/jacs.6c20294",
+   "date": "2026-11-24T15:01:38Z",
+   "abstract": "Abstract The high-temperature oxygen evolution reaction (OER) activity is closely correlated to the spin state of transition metals in perovskite anodes. However, the roles of entropy engineering in modulating the spin state and influencing high-temperature OER kinetics remain poorly understood. Herein, we demonstrate that entropy engineering of La0.7Sr0.3FeO3−δ to (SmNdPrLaBaSrCa)FeO3−δ (SNPLBSCF) induces a transition of B-site Fe species from high-spin to low-spin states. This transition enhances the d–p hybridization of Fe–O bonds, lowers the energy barriers for electron transfer and oxygen ion migration, and finally accelerates the high-temperature OER kinetics. Consequently, the SNPLBSCF anode in a solid oxide electrolysis cell (SOEC) achieves a current density of 3.64 A·cm–2 at 800 °C and 1.6 V, outperforming most reported anodes. This work not only provides fundamental insights into the spin state-activity relationships of perovskite oxides but also offers a viable strategy for the rational design of highly efficient SOEC anodes through entropy engineering.",
+   "source": "crossref",
+   "reactions": [
+    "ORR/OER"
+   ],
+   "materials": [],
+   "starred": false,
+   "date_unknown": false
+  }
+ ],
+ "feed_status": [
+  "Advanced Energy Materials: RSS 200, 166건",
+  "Small: RSS 200, 491건",
+  "Angewandte Chemie Int. Ed.: RSS 200, 203건",
+  "Advanced Materials: RSS 200, 468건",
+  "Advanced Functional Materials: RSS 200, 539건",
+  "Advanced Science: RSS 200, 420건",
+  "Chemical Science: RSS 실패",
+  "Chem. Soc. Rev.: RSS 실패",
+  "Energy Environ. Sci.: RSS 실패",
+  "Chem. Commun.: RSS 실패",
+  "EES Catalysis: RSS 실패",
+  "Science: RSS 200, 35건",
+  "Science Advances: RSS 200, 88건",
+  "Nature: RSS 200, 75건",
+  "Nature Communications: RSS 200, 8건",
+  "Nature Materials: RSS 200, 8건",
+  "Nature Nanotechnology: RSS 200, 8건",
+  "Nature Catalysis: RSS 200, 8건",
+  "Nature Energy: RSS 200, 8건",
+  "Nature Chemistry: RSS 200, 8건",
+  "Nature Synthesis: RSS 200, 8건",
+  "Nature Sustainability: RSS 200, 8건",
+  "JACS: RSS 403, 0건",
+  "ACS Catalysis: RSS 403, 0건",
+  "ACS Energy Letters: RSS 403, 0건",
+  "ACS Nano: RSS 403, 0건",
+  "Nano Letters: RSS 403, 0건",
+  "Joule: RSS 200, 67건",
+  "Chem: RSS 200, 73건",
+  "Chem Catalysis: RSS 200, 22건",
+  "Applied Catalysis B: Environ. Energy: RSS 200, 100건",
+  "Advanced Energy Materials: Crossref 200, 13건",
+  "Small: Crossref 200, 31건",
+  "Angewandte Chemie Int. Ed.: Crossref 200, 58건",
+  "Advanced Materials: Crossref 200, 42건",
+  "Advanced Functional Materials: Crossref 200, 51건",
+  "Advanced Science: Crossref 200, 66건",
+  "Chemical Science: Crossref 200, 9건",
+  "Chem. Soc. Rev.: Crossref 200, 3건",
+  "Energy Environ. Sci.: Crossref 200, 3건",
+  "Chem. Commun.: Crossref 200, 32건",
+  "EES Catalysis: Crossref 200, 2건",
+  "Science: Crossref 200, 0건",
+  "Science Advances: Crossref 200, 0건",
+  "Nature: Crossref 200, 34건",
+  "Nature Communications: Crossref 200, 64건",
+  "Nature Materials: Crossref 200, 3건",
+  "Nature Nanotechnology: Crossref 200, 1건",
+  "Nature Catalysis: Crossref 200, 1건",
+  "Nature Energy: Crossref 200, 1건",
+  "Nature Chemistry: Crossref 200, 3건",
+  "Nature Synthesis: Crossref 200, 0건",
+  "Nature Sustainability: Crossref 200, 0건",
+  "JACS: Crossref 200, 32건",
+  "ACS Catalysis: Crossref 200, 8건",
+  "ACS Energy Letters: Crossref 200, 7건",
+  "ACS Nano: Crossref 200, 25건",
+  "Nano Letters: Crossref 200, 21건",
+  "Joule: Crossref 200, 1건",
+  "Chem: Crossref 200, 1건",
+  "Chem Catalysis: Crossref 200, 1건",
+  "Applied Catalysis B: Environ. Energy: Crossref 200, 15건",
+  "OpenAlex 초록 선조회: 보류 334건 → 초록 확보 66건 → 후보 편입 1건"
+ ]
+}
