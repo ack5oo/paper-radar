@@ -1,22 +1,52 @@
-   name: paper-radar
-   on:
-     schedule:
-       - cron: "37 21 * * 0-4"   # 매주 월~금 06:37 KST
-     workflow_dispatch: {}
-   permissions:
-     contents: write
-   jobs:
-     run:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: actions/checkout@v4
-         - uses: actions/setup-python@v5
-           with: { python-version: "3.12" }
-         - run: pip install -r requirements.txt
-         - run: python radar.py
-         - run: |
-             git config user.name "paper-radar"
-             git config user.email "actions@github.com"
-             git add data
-             git commit -m "radar $(date -u +%F)" || echo "no changes"
-             git push
+name: paper-radar
+on:
+  schedule:
+    # GitHub 예약 실행은 지연·누락이 잦아 3번 걸어 둠. 오늘 이미 수집했으면 나머지는 자동으로 건너뜀
+    - cron: "37 21 * * 0-4"   # 월~금 06:37 KST
+    - cron: "13 22 * * 0-4"   # 월~금 07:13 KST (예비)
+    - cron: "49 22 * * 0-4"   # 월~금 07:49 KST (예비)
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "오늘 이미 수집했어도 다시 실행 (latest.json이 덮어써짐)"
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: paper-radar
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: 오늘 수집 여부 확인
+        id: guard
+        run: |
+          TODAY=$(TZ=Asia/Seoul date +%F)
+          if [ -f "data/${TODAY}.json" ] && [ "${{ inputs.force }}" != "true" ]; then
+            echo "오늘(${TODAY}) 이미 수집됨 → 건너뜀"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+      - if: steps.guard.outputs.skip != 'true'
+        uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - if: steps.guard.outputs.skip != 'true'
+        run: pip install -r requirements.txt
+      - if: steps.guard.outputs.skip != 'true'
+        run: python radar.py
+      - if: steps.guard.outputs.skip != 'true'
+        run: |
+          git config user.name "paper-radar"
+          git config user.email "actions@github.com"
+          git add data
+          git commit -m "radar $(TZ=Asia/Seoul date +%F)" || { echo "no changes"; exit 0; }
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            sleep 10
+          done
+          exit 1
